@@ -1,0 +1,3308 @@
+[
+	{
+		"city": "Birmingham",
+		"region": "AL",
+		"address": "217 Summit Boulevard",
+		"name": "Apple The Summit",
+		"country": "United States"
+	},
+	{
+		"city": "Pleasanton",
+		"region": "CA",
+		"address": "One Stoneridge Mall",
+		"name": "Apple Stoneridge Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Palm Desert",
+		"region": "CA",
+		"address": "73445 El Paseo",
+		"name": "Apple El Paseo Village",
+		"country": "United States"
+	},
+	{
+		"city": "Pasadena",
+		"region": "CA",
+		"address": "54 West Colorado Boulevard",
+		"name": "Apple Pasadena",
+		"country": "United States"
+	},
+	{
+		"city": "Northridge",
+		"region": "CA",
+		"address": "9301 Tampa Avenue",
+		"name": "Apple Northridge",
+		"country": "United States"
+	},
+	{
+		"city": "Mission Viejo",
+		"region": "CA",
+		"address": "936C The Shops at Mission Viejo",
+		"name": "Apple Mission Viejo",
+		"country": "United States"
+	},
+	{
+		"city": "Palo Alto",
+		"region": "CA",
+		"address": "340 University Avenue",
+		"name": "Apple Palo Alto",
+		"country": "United States"
+	},
+	{
+		"city": "Los Angeles",
+		"region": "CA",
+		"address": "10250 Santa Monica Boulevard",
+		"name": "Apple Century City",
+		"country": "United States"
+	},
+	{
+		"city": "Los Angeles",
+		"region": "CA",
+		"address": "189 The Grove Drive",
+		"name": "Apple The Grove",
+		"country": "United States"
+	},
+	{
+		"city": "Monterey",
+		"region": "CA",
+		"address": "240 Del Monte Center",
+		"name": "Apple Del Monte",
+		"country": "United States"
+	},
+	{
+		"city": "Los Angeles",
+		"region": "CA",
+		"address": "8500 Beverly Boulevard",
+		"name": "Apple Beverly Center",
+		"country": "United States"
+	},
+	{
+		"city": "Palo Alto",
+		"region": "CA",
+		"address": "379 Stanford Shopping Center",
+		"name": "Apple Stanford",
+		"country": "United States"
+	},
+	{
+		"city": "서울 강남구",
+		"address": "압구정로 12길 46",
+		"name": "Apple 가로수길",
+		"country": "대한민국"
+	},
+	{
+		"city": "Modesto",
+		"region": "CA",
+		"address": "3401 Dale Road",
+		"name": "Apple Vintage Faire",
+		"country": "United States"
+	},
+	{
+		"city": "Manhattan Beach",
+		"region": "CA",
+		"address": "3200 Sepulveda Boulevard",
+		"name": "Apple Manhattan Village",
+		"country": "United States"
+	},
+	{
+		"city": "Los Gatos",
+		"region": "CA",
+		"address": "23 N. Santa Cruz Avenue",
+		"name": "Apple Los Gatos",
+		"country": "United States"
+	},
+	{
+		"city": "Dubai",
+		"address": "The Dubai Mall",
+		"name": "Apple Dubai Mall",
+		"country": "United Arab Emirates"
+	},
+	{
+		"city": "Newport Beach",
+		"region": "CA",
+		"address": "1113 Newport Center Drive",
+		"name": "Apple Fashion Island",
+		"country": "United States"
+	},
+	{
+		"city": "Chadstone",
+		"region": "VIC",
+		"address": "Chadstone Shopping Centre",
+		"name": "Apple Chadstone",
+		"country": "Australia"
+	},
+	{
+		"city": "Singapore",
+		"address": "270 Orchard Road",
+		"name": "Apple Orchard Road",
+		"country": "Singapore"
+	},
+	{
+		"city": "Del. Cuajimalpa",
+		"region": "CDMX",
+		"address": "Avenida Vasco de Quiroga 3800",
+		"name": "Apple Vía Santa Fe",
+		"country": "México"
+	},
+	{
+		"city": "台北",
+		"address": "信義區市府路 45 號",
+		"name": "Apple 台北 101",
+		"country": "台灣"
+	},
+	{
+		"city": "São Paulo",
+		"region": "SP",
+		"address": "Av. Roque Petroni Júnior, 1089",
+		"name": "Apple Morumbi",
+		"country": "Brasil"
+	},
+	{
+		"city": "Dubai",
+		"address": "Mall of the Emirates",
+		"name": "Apple Mall of the Emirates",
+		"country": "United Arab Emirates"
+	},
+	{
+		"city": "Abu Dhabi",
+		"address": "Yas Mall",
+		"name": "Apple Yas Mall",
+		"country": "United Arab Emirates"
+	},
+	{
+		"city": "Üsküdar İstanbul",
+		"address": "Akasya AVM",
+		"name": "Apple Akasya",
+		"country": "Türkiye"
+	},
+	{
+		"city": "Bruxelles",
+		"address": "Avenue de la Toison d’Or 26/28",
+		"name": "Apple Brussels",
+		"country": "Belgique"
+	},
+	{
+		"city": "Beşiktaş İstanbul",
+		"address": "Zorlu Center",
+		"name": "Apple Zorlu Center",
+		"country": "Türkiye"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Causeway Bay",
+		"address": "Hysan Place",
+		"name": "Apple Causeway Bay",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Malmö",
+		"address": "Emporia",
+		"name": "Apple Emporia",
+		"country": "Sverige"
+	},
+	{
+		"city": "Helsingborg",
+		"address": "Väla Centrum",
+		"name": "Apple Väla Centrum",
+		"country": "Sverige"
+	},
+	{
+		"city": "Täby",
+		"address": "Täby Centrum",
+		"name": "Apple Täby Centrum",
+		"country": "Sverige"
+	},
+	{
+		"city": "Rio de Janeiro",
+		"region": "RJ",
+		"address": "Avenida das Américas, 3.900",
+		"name": "Apple VillageMall",
+		"country": "Brasil"
+	},
+	{
+		"city": "Valencia",
+		"region": "Valencia",
+		"address": "Calle Colón, 25",
+		"name": "Apple Calle Colón",
+		"country": "España"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Sha Tin",
+		"address": "New Town Plaza Phase 1 L4",
+		"name": "Apple New Town Plaza",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Central",
+		"address": "International Finance Centre",
+		"name": "Apple ifc mall",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Madrid",
+		"region": "Madrid",
+		"address": "Plaza de la Puerta del Sol, 1",
+		"name": "Apple Puerta del Sol",
+		"country": "España"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Tsim Sha Tsui",
+		"address": "100 Canton Road",
+		"name": "Apple Canton Road",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Kwun Tong",
+		"address": "418 Kwun Tong Road",
+		"name": "Apple apm Hong Kong",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Murcia",
+		"address": "Centro Comercial Nueva Condomina",
+		"name": "Apple Nueva Condomina",
+		"country": "España"
+	},
+	{
+		"city": "Hong Kong",
+		"region": "Kowloon Tong",
+		"address": "Festival Walk",
+		"name": "Apple Festival Walk",
+		"country": "Hong Kong"
+	},
+	{
+		"city": "Zaragoza",
+		"region": "Zaragoza",
+		"address": "Puerto Venecia Shopping Resort, The Gallery",
+		"name": "Apple Puerto Venecia",
+		"country": "España"
+	},
+	{
+		"city": "Marbella",
+		"region": "Málaga",
+		"address": "Parque Comercial La Cañada",
+		"name": "Apple La Cañada",
+		"country": "España"
+	},
+	{
+		"city": "Arroyomolinos",
+		"region": "Madrid",
+		"address": "Centro comercial de Ocio Madrid Xanadú",
+		"name": "Apple Xanadú",
+		"country": "España"
+	},
+	{
+		"city": "澳門",
+		"address": "路氹城",
+		"name": "Apple 澳門銀河",
+		"country": "澳門"
+	},
+	{
+		"city": "Majadahonda",
+		"region": "Madrid",
+		"address": "Centro Comercial Gran Plaza 2",
+		"name": "Apple Gran Plaza 2",
+		"country": "España"
+	},
+	{
+		"city": "Amsterdam",
+		"address": "Hirschgebouw, Leidseplein 25",
+		"name": "Apple Amsterdam",
+		"country": "Nederland"
+	},
+	{
+		"city": "Leganés",
+		"region": "Madrid",
+		"address": "Centro Comercial Parquesur",
+		"name": "Apple Parquesur",
+		"country": "España"
+	},
+	{
+		"city": "Barcelona",
+		"region": "Barcelona",
+		"address": "Centro comercial La Maquinista",
+		"name": "Apple La Maquinista",
+		"country": "España"
+	},
+	{
+		"city": "Arroyo de la Encomienda",
+		"region": "Valladolid",
+		"address": "Centro Comercial Río Shopping",
+		"name": "Apple Río Shopping",
+		"country": "España"
+	},
+	{
+		"city": "Barcelona",
+		"region": "Barcelona",
+		"address": "Passeig de Gràcia, 1",
+		"name": "Apple Passeig de Gràcia",
+		"country": "España"
+	},
+	{
+		"city": "Den Haag",
+		"address": "Passage 39",
+		"name": "Apple Den Haag",
+		"country": "Nederland"
+	},
+	{
+		"city": "Haarlem",
+		"address": "Grote Houtstraat 99",
+		"name": "Apple Haarlem",
+		"country": "Nederland"
+	},
+	{
+		"city": "Vélizy-Villacoublay",
+		"address": "2 Avenue de l’Europe",
+		"name": "Apple Vélizy 2",
+		"country": "France"
+	},
+	{
+		"city": "Strasbourg",
+		"address": "L’Aubette",
+		"name": "Apple Strasbourg",
+		"country": "France"
+	},
+	{
+		"city": "Paris",
+		"address": "99 rue de Rivoli",
+		"name": "Apple Carrousel du Louvre",
+		"country": "France"
+	},
+	{
+		"city": "Marseille",
+		"address": "Les Terrasses du Port",
+		"name": "Apple Marseille",
+		"country": "France"
+	},
+	{
+		"city": "Rosny-Sous-Bois",
+		"address": "Centre Commercial Rosny 2",
+		"name": "Apple Rosny 2",
+		"country": "France"
+	},
+	{
+		"city": "Puteaux - la Défense",
+		"address": "Centre commercial Les Quatre Temps",
+		"name": "Apple Les Quatre Temps",
+		"country": "France"
+	},
+	{
+		"city": "Saint Herblain",
+		"address": "Galerie Atlantis Le Centre",
+		"name": "Apple Atlantis",
+		"country": "France"
+	},
+	{
+		"city": "Paris",
+		"address": "12 rue Halévy",
+		"name": "Apple Opéra",
+		"country": "France"
+	},
+	{
+		"city": "Lille",
+		"address": "1 rue Faidherbe",
+		"name": "Apple Lille",
+		"country": "France"
+	},
+	{
+		"city": "Nice",
+		"address": "Avenue Eugène Donadeï",
+		"name": "Apple CAP 3000",
+		"country": "France"
+	},
+	{
+		"city": "Montpellier",
+		"address": "Centre Commercial Odysseum",
+		"name": "Apple Odysseum",
+		"country": "France"
+	},
+	{
+		"city": "Paris",
+		"address": "9 rue Clément",
+		"name": "Apple Marché Saint-Germain",
+		"country": "France"
+	},
+	{
+		"city": "Dijon",
+		"address": "Centre Commercial de la Toison d’Or",
+		"name": "Apple La Toison d’Or",
+		"country": "France"
+	},
+	{
+		"city": "Marne-la-Vallée",
+		"address": "Centre Commercial Val d’Europe",
+		"name": "Apple Val d’Europe",
+		"country": "France"
+	},
+	{
+		"city": "Lyon",
+		"address": "Centre Commercial Confluence",
+		"name": "Apple Confluence",
+		"country": "France"
+	},
+	{
+		"city": "Lyon",
+		"address": "Centre commercial La Part-Dieu",
+		"name": "Apple Part-Dieu",
+		"country": "France"
+	},
+	{
+		"city": "Lieusaint",
+		"address": "Centre commercial régional",
+		"name": "Apple Carré Sénart",
+		"country": "France"
+	},
+	{
+		"city": "Le Chesnay",
+		"address": "Centre commercial régional Parly 2",
+		"name": "Apple Parly 2",
+		"country": "France"
+	},
+	{
+		"city": "Bordeaux",
+		"address": "2-4 rue Sainte-Catherine",
+		"name": "Apple Sainte-Catherine",
+		"country": "France"
+	},
+	{
+		"city": "Oberhausen",
+		"address": "CentrO Oberhausen",
+		"name": "Apple CentrO",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Sindelfingen",
+		"address": "Breuningerland Sindelfingen",
+		"name": "Apple Sindelfingen",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Aix-en-Provence",
+		"address": "2 Place du Général de Gaulle",
+		"name": "Apple Aix-en-Provence",
+		"country": "France"
+	},
+	{
+		"city": "Sulzbach",
+		"address": "Main-Taunus-Zentrum",
+		"name": "Apple MTZ",
+		"country": "Deutschland"
+	},
+	{
+		"city": "München",
+		"address": "Rosenstraße 1",
+		"name": "Apple Rosenstraße",
+		"country": "Deutschland"
+	},
+	{
+		"city": "München",
+		"address": "Olympia-Einkaufszentrum",
+		"name": "Apple OEZ",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Hannover",
+		"address": "Bahnhofstraße 5",
+		"name": "Apple Hannover",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Hamburg",
+		"address": "Jungfernstieg 12",
+		"name": "Apple Jungfernstieg",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Berlin",
+		"address": "Kurfürstendamm 26",
+		"name": "Apple Kurfürstendamm",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Düsseldorf",
+		"address": "Kö-Bogen",
+		"name": "Apple Düsseldorf",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Wallisellen",
+		"address": "Einkaufszentrum Glatt",
+		"name": "Apple Glattzentrum",
+		"country": "Suisse"
+	},
+	{
+		"city": "Dresden",
+		"address": "Altmarkt 25",
+		"name": "Apple Altmarkt-Galerie",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Hamburg",
+		"address": "Alstertal-Einkaufszentrum",
+		"name": "Apple Alstertal",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Frankfurt",
+		"address": "Große Bockenheimer Straße 30",
+		"name": "Apple Große Bockenheimer Straße",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Köln",
+		"address": "Schildergasse 1-9",
+		"name": "Apple Schildergasse",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Augsburg",
+		"address": "City-Galerie Augsburg",
+		"name": "Apple City-Galerie",
+		"country": "Deutschland"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 杭州万象城",
+		"address": "杭州市江干区富春路 701 号"
+	},
+	{
+		"city": "Zurich",
+		"address": "Bahnhofstrasse 77",
+		"name": "Apple Bahnhofstrasse",
+		"country": "Suisse"
+	},
+	{
+		"city": "Köln",
+		"address": "Rhein Center Köln-Weiden",
+		"name": "Apple Rhein Center",
+		"country": "Deutschland"
+	},
+	{
+		"city": "Genève",
+		"address": "Rue de Rive 4",
+		"name": "Apple Rue de Rive",
+		"country": "Suisse"
+	},
+	{
+		"city": "Bâle",
+		"address": "Freie Strasse 47",
+		"name": "Apple Freie Strasse",
+		"country": "Suisse"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 天一广场",
+		"address": "宁波市海曙区碶闸街 133 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 昆明",
+		"address": "昆明市五华区东风西路 11 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 天津大悦城",
+		"address": "天津市南开区南门外大街 2 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 西湖",
+		"address": "杭州市上城区平海路 100 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 七宝",
+		"address": "上海市闵行区漕宝路 3366 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 天津恒隆广场",
+		"address": "天津市和平区兴安路 166 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 成都太古里",
+		"address": "成都市锦江区中纱帽街 8 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 环球港",
+		"address": "上海市普陀区中山北路 3300 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 银河国际购物中心",
+		"address": "天津市河西区乐园道 9 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 成都万象城",
+		"address": "成都市成华区双庆路 8 号万象城"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 五角场",
+		"address": "上海市杨浦区翔殷路 1099 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 青岛万象城",
+		"address": "青岛市市南区山东路 6A 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 香港广场",
+		"address": "上海市黄浦区淮海中路 282 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 浦东",
+		"address": "上海市浦东新区陆家嘴世纪大道 8 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 上海环贸 iapm",
+		"address": "上海市徐汇区淮海中路 999 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 南京东路",
+		"address": "上海市黄浦区南京东路 300 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 济南恒隆广场",
+		"address": "济南市历下区泉城路 188 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 百年城",
+		"address": "大连市中山区解放路 19 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 中街大悦城",
+		"address": "沈阳市大东区小东路 5 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 沈阳万象城",
+		"address": "沈阳市和平区青年大街 288 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 大连恒隆广场",
+		"address": "大连市西岗区五四路 66 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 虹悦城",
+		"address": "南京市雨花台区应天大街 619 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 无锡恒隆广场",
+		"address": "无锡市梁溪区"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 南京金茂汇",
+		"address": "南京市鼓楼区中央路 201 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 南京艾尚天地",
+		"address": "南京市玄武区中山路 100 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 郑州万象城",
+		"address": "郑州市二七区民主路 10 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 南宁万象城",
+		"address": "南宁市青秀区民族大道 136 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 深圳益田假日广场",
+		"address": "深圳市南山区深南大道 9028 号益田假日广场"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 珠江新城",
+		"address": "广州珠江新城兴民路 222 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 西单大悦城",
+		"address": "北京市西城区西单北大街 131 号大悦城"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 厦门新生活广场",
+		"address": "厦门市思明区嘉禾路 399 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 天环广场",
+		"address": "广州市天河区天河路 218 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 泰禾广场",
+		"address": "福州市晋安区竹屿路 6 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 重庆北城天街",
+		"address": "重庆市江北区北城天街 8 号"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 解放碑",
+		"address": "重庆市渝中区邹容路 108 号"
+	},
+	{
+		"city": "Rozzano",
+		"region": "Milano",
+		"address": "Centro Commerciale Fiordaliso",
+		"name": "Apple Fiordaliso",
+		"country": "Italia"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 重庆万象城",
+		"address": "重庆市九龙坡区谢家湾正街 55 号"
+	},
+	{
+		"city": "Bufalotta",
+		"region": "Roma",
+		"address": "Galleria Porta di Roma",
+		"name": "Apple Porta di Roma",
+		"country": "Italia"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 华贸购物中心",
+		"address": "北京市朝阳区建国路 81 号华贸购物中心"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 三里屯",
+		"address": "北京市朝阳区三里屯路 19 号院"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 王府井",
+		"address": "北京市东城区王府井大街 138 号北京 apm"
+	},
+	{
+		"city": "Torino",
+		"address": "Via Roma, 82",
+		"name": "Apple Via Roma",
+		"country": "Italia"
+	},
+	{
+		"country": "中国",
+		"name": "Apple 朝阳大悦城",
+		"address": "北京市朝阳区朝阳北路 101 号"
+	},
+	{
+		"city": "Marcianise",
+		"region": "Caserta",
+		"address": "Centro Commerciale Campania",
+		"name": "Apple Campania",
+		"country": "Italia"
+	},
+	{
+		"city": "Lunghezza",
+		"region": "Roma",
+		"address": "Centro commerciale RomaEst",
+		"name": "Apple RomaEst",
+		"country": "Italia"
+	},
+	{
+		"city": "Rimini",
+		"address": "Centro Commerciale Le Befane",
+		"name": "Apple Le Befane",
+		"country": "Italia"
+	},
+	{
+		"city": "EUR",
+		"region": "Roma",
+		"address": "Centro Commerciale Euroma2",
+		"name": "Apple Euroma2",
+		"country": "Italia"
+	},
+	{
+		"city": "Mestre",
+		"region": "Venezia",
+		"address": "Centro commerciale Nave de Vero",
+		"name": "Apple Nave de Vero",
+		"country": "Italia"
+	},
+	{
+		"city": "Orio al Serio",
+		"region": "Bergamo",
+		"address": "Centro commerciale Oriocenter",
+		"name": "Apple Oriocenter",
+		"country": "Italia"
+	},
+	{
+		"city": "Lonato",
+		"region": "Brescia",
+		"address": "Il Leone Shopping Center",
+		"name": "Apple il Leone",
+		"country": "Italia"
+	},
+	{
+		"city": "Grugliasco",
+		"region": "Torino",
+		"address": "Centro commerciale Le Gru",
+		"name": "Apple Le Gru",
+		"country": "Italia"
+	},
+	{
+		"city": "Misterbianco",
+		"region": "Catania",
+		"address": "Strada provinciale 54 - Località La Tenutella",
+		"name": "Apple Centro Sicilia",
+		"country": "Italia"
+	},
+	{
+		"city": "Montreal",
+		"region": "QC",
+		"address": "1321 Rue Ste-Catherine Ouest",
+		"name": "Apple Sainte-Catherine",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Pointe-Claire",
+		"region": "QC",
+		"address": "6801, Transcanada Highway",
+		"name": "Apple Fairview Pointe-Claire",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Brossard",
+		"region": "QC",
+		"address": "9120 boul. Leduc",
+		"name": "Apple DIX30",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Firenze",
+		"address": "Piazza della Repubblica",
+		"name": "Apple Firenze",
+		"country": "Italia"
+	},
+	{
+		"city": "Laval",
+		"region": "QC",
+		"address": "3035, boulevard Le Carrefour, local C14B",
+		"name": "Apple Carrefour Laval",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Carugate",
+		"region": "Milano",
+		"address": "Centro Commerciale Carosello",
+		"name": "Apple Carosello",
+		"country": "Italia"
+	},
+	{
+		"city": "Campi Bisenzio",
+		"region": "Firenze",
+		"address": "Centro Commerciale I Gigli",
+		"name": "Apple I Gigli",
+		"country": "Italia"
+	},
+	{
+		"city": "Toronto",
+		"region": "ON",
+		"address": "25 The West Mall",
+		"name": "Apple Sherway Gardens",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Waterloo",
+		"region": "ON",
+		"address": "550 King Street North",
+		"name": "Apple Conestoga",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Quebec City",
+		"region": "QC",
+		"address": "2450 Boulevard Laurier",
+		"name": "Apple Place Ste-Foy",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Bologna",
+		"address": "Via Rizzoli, 16",
+		"name": "Apple Via Rizzoli",
+		"country": "Italia"
+	},
+	{
+		"city": "Mississauga",
+		"region": "ON",
+		"address": "100 City Centre Drive",
+		"name": "Apple Square One",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Toronto",
+		"region": "ON",
+		"address": "1800 Sheppard Avenue East",
+		"name": "Apple Fairview",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Toronto",
+		"region": "ON",
+		"address": "3401 Dufferin Street",
+		"name": "Apple Yorkdale",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Ottawa",
+		"region": "ON",
+		"address": "100 Bayshore Drive",
+		"name": "Apple Bayshore Shopping Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Ottawa",
+		"region": "ON",
+		"address": "50 Rideau Street",
+		"name": "Apple Rideau",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Toronto",
+		"region": "ON",
+		"address": "220 Yonge Street",
+		"name": "Apple Eaton Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Newmarket",
+		"region": "ON",
+		"address": "17600 Yonge Street",
+		"name": "Apple Upper Canada Mall",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Winnipeg",
+		"region": "MB",
+		"address": "1485 Portage Avenue",
+		"name": "Apple Polo Park",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Richmond",
+		"region": "BC",
+		"address": "6551 No. 3 Road",
+		"name": "Apple Richmond Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Vancouver",
+		"region": "BC",
+		"address": "650 West 41st Avenue",
+		"name": "Apple Oakridge Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Coquitlam",
+		"region": "BC",
+		"address": "2929 Barnet Highway",
+		"name": "Apple Coquitlam Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Markham",
+		"region": "ON",
+		"address": "5000 Highway 7 East",
+		"name": "Apple Markville Shopping Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Edmonton",
+		"region": "AB",
+		"address": "8882-170 Street",
+		"name": "Apple West Edmonton",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "London",
+		"region": "ON",
+		"address": "1680 Richmond Street North",
+		"name": "Apple Masonville",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Burlington",
+		"region": "ON",
+		"address": "900 Maple Avenue",
+		"name": "Apple Mapleview Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Calgary",
+		"region": "AB",
+		"address": "3625 Shaganappi Trail NW",
+		"name": "Apple Market Mall",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Edmonton",
+		"region": "AB",
+		"address": "5015 111 St",
+		"name": "Apple Southgate Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Halifax",
+		"region": "NS",
+		"address": "7001 Mumford Road",
+		"name": "Apple Halifax Shopping Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Vancouver",
+		"region": "BC",
+		"address": "701 West Georgia Street",
+		"name": "Apple Pacific Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Surrey",
+		"region": "BC",
+		"address": "10355 152 Street",
+		"name": "Apple Guildford Town Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"city": "Burnaby",
+		"region": "BC",
+		"address": "320 4700 Kingsway",
+		"name": "Apple Metrotown",
+		"country": "Canada (English)"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 銀座",
+		"address": "東京都中央区銀座3-5-12"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 名古屋栄",
+		"address": "愛知県名古屋市中区栄3-17-15"
+	},
+	{
+		"city": "Calgary",
+		"region": "AB",
+		"address": "6455 Macleod Trail SW",
+		"name": "Apple Chinook Centre",
+		"country": "Canada (English)"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 渋谷（休業中）",
+		"address": "東京都渋谷区神南1-20-9"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 心斎橋",
+		"address": "大阪府大阪市中央区西心斎橋1-5-5"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 表参道",
+		"address": "東京都渋谷区神宮前4-2-13"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 仙台一番町",
+		"address": "宮城県仙台市青葉区一番町3-10-24"
+	},
+	{
+		"city": "Reading",
+		"address": "Upper Level, The Oracle Shopping Centre",
+		"name": "Apple The Oracle",
+		"country": "UK"
+	},
+	{
+		"city": "Watford",
+		"address": "Intu Watford Shopping Centre",
+		"name": "Apple Watford",
+		"country": "UK"
+	},
+	{
+		"country": "日本",
+		"name": "Apple 福岡天神",
+		"address": "福岡県福岡市中央区天神2-3-24"
+	},
+	{
+		"city": "Manchester",
+		"address": "146 Peel Avenue",
+		"name": "Apple Trafford Centre",
+		"country": "UK"
+	},
+	{
+		"city": "Newcastle upon Tyne",
+		"address": "St Andrew’s Way",
+		"name": "Apple Eldon Square",
+		"country": "UK"
+	},
+	{
+		"city": "Plymouth",
+		"address": "1 Charles Street",
+		"name": "Apple Drake Circus",
+		"country": "UK"
+	},
+	{
+		"city": "Southampton",
+		"address": "Upper Shopping",
+		"name": "Apple Southampton",
+		"country": "UK"
+	},
+	{
+		"city": "London",
+		"address": "235 Regent Street",
+		"name": "Apple Regent Street",
+		"country": "UK"
+	},
+	{
+		"city": "Sheffield",
+		"address": "Upper High Street",
+		"name": "Apple Meadowhall",
+		"country": "UK"
+	},
+	{
+		"city": "Solihull",
+		"address": "The Touchwood Centre",
+		"name": "Apple Touchwood Centre",
+		"country": "UK"
+	},
+	{
+		"city": "Norwich",
+		"address": "Merchants Hall",
+		"name": "Apple Chapelfield",
+		"country": "UK"
+	},
+	{
+		"city": "London",
+		"address": "No. 1-7 The Piazza",
+		"name": "Apple Covent Garden",
+		"country": "UK"
+	},
+	{
+		"city": "Manchester",
+		"address": "New Cannon Street Mall",
+		"name": "Apple Manchester Arndale",
+		"country": "UK"
+	},
+	{
+		"city": "London",
+		"address": "Westfield London",
+		"name": "Apple White City",
+		"country": "UK"
+	},
+	{
+		"city": "Milton Keynes",
+		"address": "26 Midsummer Place",
+		"name": "Apple Milton Keynes",
+		"country": "UK"
+	},
+	{
+		"city": "Leicester",
+		"address": "Upper Mall, Highcross",
+		"name": "Apple Highcross",
+		"country": "UK"
+	},
+	{
+		"city": "London",
+		"address": "The Arcade, Westfield Stratford City",
+		"name": "Apple Stratford City",
+		"country": "UK"
+	},
+	{
+		"city": "Liverpool",
+		"address": "Liverpool One",
+		"name": "Apple Liverpool",
+		"country": "UK"
+	},
+	{
+		"city": "London",
+		"address": "Upper West Mall",
+		"name": "Apple Brent Cross",
+		"country": "UK"
+	},
+	{
+		"city": "Glasgow",
+		"address": "Braehead Shopping Centre",
+		"name": "Apple Braehead",
+		"country": "UK"
+	},
+	{
+		"city": "Gateshead",
+		"address": "Metrocentre",
+		"name": "Apple Metrocentre",
+		"country": "UK"
+	},
+	{
+		"city": "Leeds",
+		"address": "Albion Street, 209 Trinity Leeds",
+		"name": "Apple Trinity Leeds",
+		"country": "UK"
+	},
+	{
+		"city": "Kingston upon Thames",
+		"address": "The Bentall Centre",
+		"name": "Apple Bentall Centre",
+		"country": "UK"
+	},
+	{
+		"city": "Greenhithe",
+		"address": "Upper Mall",
+		"name": "Apple Bluewater",
+		"country": "UK"
+	},
+	{
+		"city": "Grays",
+		"address": "West Thurrock Way",
+		"name": "Apple Lakeside",
+		"country": "UK"
+	},
+	{
+		"city": "Glasgow",
+		"address": "147 Buchanan Street",
+		"name": "Apple Buchanan Street",
+		"country": "UK"
+	},
+	{
+		"city": "Exeter",
+		"address": "24 Princesshay",
+		"name": "Apple Princesshay",
+		"country": "UK"
+	},
+	{
+		"city": "Cardiff",
+		"address": "63-66 Grand Arcade",
+		"name": "Apple St David's 2",
+		"country": "UK"
+	},
+	{
+		"city": "Edinburgh",
+		"address": "10 Princes Street",
+		"name": "Apple Princes Street",
+		"country": "UK"
+	},
+	{
+		"city": "Belfast",
+		"address": "Upper Ground Floor",
+		"name": "Apple Victoria Square",
+		"country": "UK"
+	},
+	{
+		"city": "Cambridge",
+		"address": "Grand Arcade Shopping Centre",
+		"name": "Apple Grand Arcade",
+		"country": "UK"
+	},
+	{
+		"city": "Bristol",
+		"address": "Upper Mall",
+		"name": "Apple Cribbs Causeway",
+		"country": "UK"
+	},
+	{
+		"city": "Bromley",
+		"address": "The Glades Bromley Shopping Centre",
+		"name": "Apple Bromley",
+		"country": "UK"
+	},
+	{
+		"city": "Bristol",
+		"address": "11 Philadelphia Street, Quakers Friars",
+		"name": "Apple Cabot Circus",
+		"country": "UK"
+	},
+	{
+		"city": "Birmingham",
+		"address": "128 New Street",
+		"name": "Apple Birmingham",
+		"country": "UK"
+	},
+	{
+		"city": "Basingstoke",
+		"address": "Upper Level, Queen Anne’s Walk",
+		"name": "Apple Festival Place",
+		"country": "UK"
+	},
+	{
+		"city": "Bath",
+		"address": "SU39, Southgate Place",
+		"name": "Apple SouthGate",
+		"country": "UK"
+	},
+	{
+		"city": "Brighton",
+		"address": "Upper Mall, Churchill Square",
+		"name": "Apple Churchill Square",
+		"country": "UK"
+	},
+	{
+		"city": "Aberdeen",
+		"address": "27/28 Ground Level Mall, Union Square",
+		"name": "Apple Union Square",
+		"country": "UK"
+	},
+	{
+		"city": "Perth",
+		"region": "WA",
+		"address": "790 Hay Street",
+		"name": "Apple Perth City",
+		"country": "Australia"
+	},
+	{
+		"city": "Wien",
+		"address": "Kärntner Straße 11",
+		"name": "Apple Kärntner Straße",
+		"country": "Österreich"
+	},
+	{
+		"city": "Booragoon",
+		"region": "WA",
+		"address": "Garden City",
+		"name": "Apple Garden City Perth",
+		"country": "Australia"
+	},
+	{
+		"city": "Maribyrnong",
+		"region": "VIC",
+		"address": "Highpoint Shopping Centre",
+		"name": "Apple Highpoint",
+		"country": "Australia"
+	},
+	{
+		"city": "Doncaster",
+		"region": "VIC",
+		"address": "Westfield Doncaster",
+		"name": "Apple Doncaster",
+		"country": "Australia"
+	},
+	{
+		"city": "Adelaide",
+		"region": "SA",
+		"address": "Rundle Place Centre",
+		"name": "Apple Rundle Place",
+		"country": "Australia"
+	},
+	{
+		"city": "Fountain Gate",
+		"region": "VIC",
+		"address": "Westfield Fountain Gate",
+		"name": "Apple Fountain Gate",
+		"country": "Australia"
+	},
+	{
+		"city": "Cheltenham",
+		"region": "VIC",
+		"address": "Westfield Southland",
+		"name": "Apple Southland",
+		"country": "Australia"
+	},
+	{
+		"city": "Robina Town Centre",
+		"region": "QLD",
+		"address": "Robina Town Centre",
+		"name": "Apple Robina",
+		"country": "Australia"
+	},
+	{
+		"city": "Chermside",
+		"region": "QLD",
+		"address": "Westfield Chermside",
+		"name": "Apple Chermside",
+		"country": "Australia"
+	},
+	{
+		"city": "Carindale",
+		"region": "QLD",
+		"address": "Westfield Carindale",
+		"name": "Apple Carindale",
+		"country": "Australia"
+	},
+	{
+		"city": "Hornsby",
+		"region": "NSW",
+		"address": "Westfield Hornsby",
+		"name": "Apple Hornsby",
+		"country": "Australia"
+	},
+	{
+		"city": "Brisbane",
+		"region": "QLD",
+		"address": "MacArthur Chambers",
+		"name": "Apple Brisbane",
+		"country": "Australia"
+	},
+	{
+		"city": "Sydney",
+		"region": "NSW",
+		"address": "367 George Street",
+		"name": "Apple Sydney",
+		"country": "Australia"
+	},
+	{
+		"city": "Penrith",
+		"region": "NSW",
+		"address": "Westfield Penrith",
+		"name": "Apple Penrith",
+		"country": "Australia"
+	},
+	{
+		"city": "Miranda",
+		"region": "NSW",
+		"address": "Westfield Miranda",
+		"name": "Apple Miranda",
+		"country": "Australia"
+	},
+	{
+		"city": "Chatswood",
+		"region": "NSW",
+		"address": "Chatswood Chase Shopping Centre",
+		"name": "Apple Chatswood Chase",
+		"country": "Australia"
+	},
+	{
+		"city": "Charlestown",
+		"region": "NSW",
+		"address": "Charlestown Square",
+		"name": "Apple Charlestown",
+		"country": "Australia"
+	},
+	{
+		"city": "Wauwatosa",
+		"region": "WI",
+		"address": "2500 N. Mayfair Road",
+		"name": "Apple Mayfair",
+		"country": "United States"
+	},
+	{
+		"city": "Madison",
+		"region": "WI",
+		"address": "702 North Midvale Boulevard",
+		"name": "Apple Hilldale",
+		"country": "United States"
+	},
+	{
+		"city": "Glendale",
+		"region": "WI",
+		"address": "5715 N Centerpark Way",
+		"name": "Apple Bayshore",
+		"country": "United States"
+	},
+	{
+		"city": "Bondi Junction",
+		"region": "NSW",
+		"address": "213 Oxford Street",
+		"name": "Apple Bondi",
+		"country": "Australia"
+	},
+	{
+		"city": "Broadway",
+		"region": "NSW",
+		"address": "Broadway Shopping Centre",
+		"name": "Apple Broadway",
+		"country": "Australia"
+	},
+	{
+		"city": "Canberra",
+		"region": "ACT",
+		"address": "Canberra Centre",
+		"name": "Apple Canberra",
+		"country": "Australia"
+	},
+	{
+		"city": "Castle Hill",
+		"region": "NSW",
+		"address": "Castle Towers Shopping Centre",
+		"name": "Apple Castle Towers",
+		"country": "Australia"
+	},
+	{
+		"city": "Bellevue",
+		"region": "WA",
+		"address": "213 Bellevue Square",
+		"name": "Apple Bellevue Square",
+		"country": "United States"
+	},
+	{
+		"city": "Woodbridge",
+		"region": "VA",
+		"address": "15100 Potomac Town Place",
+		"name": "Apple Potomac Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Tukwila",
+		"region": "WA",
+		"address": "801 Southcenter Mall",
+		"name": "Apple Southcenter",
+		"country": "United States"
+	},
+	{
+		"city": "Virginia Beach",
+		"region": "VA",
+		"address": "701 Lynnhaven Parkway",
+		"name": "Apple Lynnhaven Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Spokane",
+		"region": "WA",
+		"address": "710 West Main Avenue",
+		"name": "Apple River Park Square",
+		"country": "United States"
+	},
+	{
+		"city": "McLean",
+		"region": "VA",
+		"address": "1961 Chain Bridge Road",
+		"name": "Apple Tysons Corner",
+		"country": "United States"
+	},
+	{
+		"city": "Richmond",
+		"region": "VA",
+		"address": "11800 W. Broad Street",
+		"name": "Apple Short Pump Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Norfolk",
+		"region": "VA",
+		"address": "300 Monticello Avenue",
+		"name": "Apple MacArthur Center",
+		"country": "United States"
+	},
+	{
+		"city": "Tacoma",
+		"region": "WA",
+		"address": "4502 S Steele Street",
+		"name": "Apple Tacoma Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Seattle",
+		"region": "WA",
+		"address": "2656 NE University Village Street",
+		"name": "Apple University Village",
+		"country": "United States"
+	},
+	{
+		"city": "Arlington",
+		"region": "VA",
+		"address": "2700 Clarendon Boulevard",
+		"name": "Apple Clarendon",
+		"country": "United States"
+	},
+	{
+		"city": "Arlington",
+		"region": "VA",
+		"address": "1100 South Hayes Street",
+		"name": "Apple Pentagon City",
+		"country": "United States"
+	},
+	{
+		"city": "The Woodlands",
+		"region": "TX",
+		"address": "1201 Lake Woodlands Drive",
+		"name": "Apple The Woodlands",
+		"country": "United States"
+	},
+	{
+		"city": "Lynnwood",
+		"region": "WA",
+		"address": "3000 184th Street S.W.",
+		"name": "Apple Alderwood Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Reston",
+		"region": "VA",
+		"address": "11949 Market Street",
+		"name": "Apple Reston",
+		"country": "United States"
+	},
+	{
+		"city": "Southlake",
+		"region": "TX",
+		"address": "260 Grand Avenue",
+		"name": "Apple Southlake Town Square",
+		"country": "United States"
+	},
+	{
+		"city": "Fairfax",
+		"region": "VA",
+		"address": "11750 Fair Oaks",
+		"name": "Apple Fair Oaks",
+		"country": "United States"
+	},
+	{
+		"city": "Murray",
+		"region": "UT",
+		"address": "6191 S State Street",
+		"name": "Apple Fashion Place",
+		"country": "United States"
+	},
+	{
+		"city": "San Antonio",
+		"region": "TX",
+		"address": "15900 La Cantera Parkway",
+		"name": "Apple La Cantera",
+		"country": "United States"
+	},
+	{
+		"city": "Salt Lake City",
+		"region": "UT",
+		"address": "50 South Main Street",
+		"name": "Apple City Creek Center",
+		"country": "United States"
+	},
+	{
+		"city": "Farmington",
+		"region": "UT",
+		"address": "148 N. East Promontory",
+		"name": "Apple Station Park",
+		"country": "United States"
+	},
+	{
+		"city": "Frisco",
+		"region": "TX",
+		"address": "2601 Preston Road",
+		"name": "Apple Stonebriar",
+		"country": "United States"
+	},
+	{
+		"city": "Sugar Land",
+		"region": "TX",
+		"address": "16535 Southwest Freeway",
+		"name": "Apple First Colony Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Plano",
+		"region": "TX",
+		"address": "6121 West Park Boulevard",
+		"name": "Apple Willow Bend",
+		"country": "United States"
+	},
+	{
+		"city": "San Antonio",
+		"region": "TX",
+		"address": "7400 San Pedro Avenue",
+		"name": "Apple North Star",
+		"country": "United States"
+	},
+	{
+		"city": "Houston",
+		"region": "TX",
+		"address": "2000 Willowbrook Drive",
+		"name": "Apple Willowbrook Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Houston",
+		"region": "TX",
+		"address": "4012 Westheimer Road",
+		"name": "Apple Highland Village",
+		"country": "United States"
+	},
+	{
+		"city": "Houston",
+		"region": "TX",
+		"address": "303 Memorial City",
+		"name": "Apple Memorial City",
+		"country": "United States"
+	},
+	{
+		"city": "Houston",
+		"region": "TX",
+		"address": "5085 Westheimer Road",
+		"name": "Apple Houston Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Friendswood",
+		"region": "TX",
+		"address": "500 Baybrook Mall",
+		"name": "Apple Baybrook",
+		"country": "United States"
+	},
+	{
+		"city": "Nashville",
+		"region": "TN",
+		"address": "2126 Abbott Martin Road",
+		"name": "Apple Green Hills",
+		"country": "United States"
+	},
+	{
+		"city": "El Paso",
+		"region": "TX",
+		"address": "8401 Gateway Boulevard West",
+		"name": "Apple Cielo Vista Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Fort Worth",
+		"region": "TX",
+		"address": "1620 S. University Drive",
+		"name": "Apple University Park Village",
+		"country": "United States"
+	},
+	{
+		"city": "Dallas",
+		"region": "TX",
+		"address": "8687 North Central Expressway",
+		"name": "Apple NorthPark Center",
+		"country": "United States"
+	},
+	{
+		"city": "Charleston",
+		"region": "SC",
+		"address": "301 King Street",
+		"name": "Apple King Street",
+		"country": "United States"
+	},
+	{
+		"city": "Dallas",
+		"region": "TX",
+		"address": "3101 Knox Street",
+		"name": "Apple Knox Street",
+		"country": "United States"
+	},
+	{
+		"city": "Austin",
+		"region": "TX",
+		"address": "2901 S. Capital of Texas Highway",
+		"name": "Apple Barton Creek",
+		"country": "United States"
+	},
+	{
+		"city": "Knoxville",
+		"region": "TN",
+		"address": "7600 Kingston Pike",
+		"name": "Apple West Town Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Providence",
+		"region": "RI",
+		"address": "20 Providence Place",
+		"name": "Apple Providence Place",
+		"country": "United States"
+	},
+	{
+		"city": "Austin",
+		"region": "TX",
+		"address": "3121 Palm Way",
+		"name": "Apple Domain NORTHSIDE",
+		"country": "United States"
+	},
+	{
+		"city": "Franklin",
+		"region": "TN",
+		"address": "1800 Galleria Boulevard",
+		"name": "Apple CoolSprings Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Pittsburgh",
+		"region": "PA",
+		"address": "5508 Walnut Street",
+		"name": "Apple Shadyside",
+		"country": "United States"
+	},
+	{
+		"city": "Willow Grove",
+		"region": "PA",
+		"address": "2500 West Moreland Road",
+		"name": "Apple Willow Grove Park",
+		"country": "United States"
+	},
+	{
+		"city": "Germantown",
+		"region": "TN",
+		"address": "2031 West Street",
+		"name": "Apple Saddle Creek",
+		"country": "United States"
+	},
+	{
+		"city": "Pittsburgh",
+		"region": "PA",
+		"address": "301 South Hills Village",
+		"name": "Apple South Hills Village",
+		"country": "United States"
+	},
+	{
+		"city": "Philadelphia",
+		"region": "PA",
+		"address": "1607 Walnut Street",
+		"name": "Apple Walnut Street",
+		"country": "United States"
+	},
+	{
+		"city": "Ardmore",
+		"region": "PA",
+		"address": "61 St. James Place",
+		"name": "Apple Suburban Square",
+		"country": "United States"
+	},
+	{
+		"city": "Greenville",
+		"region": "SC",
+		"address": "700 Haywood Road",
+		"name": "Apple Haywood Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Tigard",
+		"region": "OR",
+		"address": "7293 SW Bridgeport Road",
+		"name": "Apple Bridgeport Village",
+		"country": "United States"
+	},
+	{
+		"city": "Portland",
+		"region": "OR",
+		"address": "450 SW Yamhill Street",
+		"name": "Apple Pioneer Place",
+		"country": "United States"
+	},
+	{
+		"city": "Pittsburgh",
+		"region": "PA",
+		"address": "1000 Ross Park Mall Drive",
+		"name": "Apple Ross Park",
+		"country": "United States"
+	},
+	{
+		"city": "Lancaster",
+		"region": "PA",
+		"address": "541 Park City Center",
+		"name": "Apple Park City",
+		"country": "United States"
+	},
+	{
+		"city": "King of Prussia",
+		"region": "PA",
+		"address": "160 N. Gulph Road",
+		"name": "Apple King of Prussia",
+		"country": "United States"
+	},
+	{
+		"city": "Whitehall",
+		"region": "PA",
+		"address": "250 Lehigh Valley Mall",
+		"name": "Apple Lehigh Valley",
+		"country": "United States"
+	},
+	{
+		"city": "Columbus",
+		"region": "OH",
+		"address": "1500 Polaris Parkway",
+		"name": "Apple Polaris Fashion Place",
+		"country": "United States"
+	},
+	{
+		"city": "Woodmere",
+		"region": "OH",
+		"address": "28849 Chagrin Boulevard",
+		"name": "Apple Eton",
+		"country": "United States"
+	},
+	{
+		"city": "Cincinnati",
+		"region": "OH",
+		"address": "7875 Montgomery Road",
+		"name": "Apple Kenwood Towne Centre",
+		"country": "United States"
+	},
+	{
+		"city": "Westlake",
+		"region": "OH",
+		"address": "267 Crocker Park Boulevard",
+		"name": "Apple Crocker Park",
+		"country": "United States"
+	},
+	{
+		"city": "Tigard",
+		"region": "OR",
+		"address": "9585 SW Washington Square Road",
+		"name": "Apple Washington Square",
+		"country": "United States"
+	},
+	{
+		"city": "Akron",
+		"region": "OH",
+		"address": "3265 West Market Street",
+		"name": "Apple Summit Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Raleigh",
+		"region": "NC",
+		"address": "4325 Glenwood Avenue",
+		"name": "Apple Crabtree Valley Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Durham",
+		"region": "NC",
+		"address": "8030 Renaissance Parkway",
+		"name": "Apple Southpoint",
+		"country": "United States"
+	},
+	{
+		"city": "Beavercreek",
+		"region": "OH",
+		"address": "4422 Cedar Park Drive",
+		"name": "Apple The Greene",
+		"country": "United States"
+	},
+	{
+		"city": "Oklahoma City",
+		"region": "OK",
+		"address": "1901 NW Expressway Street",
+		"name": "Apple Penn Square",
+		"country": "United States"
+	},
+	{
+		"city": "Charlotte",
+		"region": "NC",
+		"address": "4400 Sharon Road",
+		"name": "Apple SouthPark",
+		"country": "United States"
+	},
+	{
+		"city": "Tulsa",
+		"region": "OK",
+		"address": "7021 S. Memorial Drive",
+		"name": "Apple Woodland Hills",
+		"country": "United States"
+	},
+	{
+		"city": "Greensboro",
+		"region": "NC",
+		"address": "3320 West Friendly Avenue",
+		"name": "Apple Friendly Center",
+		"country": "United States"
+	},
+	{
+		"city": "Toledo",
+		"region": "OH",
+		"address": "5001 Monroe Street",
+		"name": "Apple Franklin Park Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Columbus",
+		"region": "OH",
+		"address": "4210 The Strand",
+		"name": "Apple Easton Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "White Plains",
+		"region": "NY",
+		"address": "125 Westchester Avenue",
+		"name": "Apple The Westchester",
+		"country": "United States"
+	},
+	{
+		"city": "Victor",
+		"region": "NY",
+		"address": "7979 Pittsford-Victor Road",
+		"name": "Apple Eastview",
+		"country": "United States"
+	},
+	{
+		"city": "Yonkers",
+		"region": "NY",
+		"address": "143 Market Street",
+		"name": "Apple Ridge Hill",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "401 W 14th Street",
+		"name": "Apple West 14th Street",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "185 Greenwich Street",
+		"name": "Apple World Trade Center",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "940 Madison Avenue",
+		"name": "Apple Upper East Side",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "103 Prince Street",
+		"name": "Apple SoHo",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "1981 Broadway",
+		"name": "Apple Upper West Side",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "45 Grand Central Terminal",
+		"name": "Apple Grand Central",
+		"country": "United States"
+	},
+	{
+		"city": "New York",
+		"region": "NY",
+		"address": "767 Fifth Avenue",
+		"name": "Apple Fifth Avenue",
+		"country": "United States"
+	},
+	{
+		"city": "Lake Grove",
+		"region": "NY",
+		"address": "518 Smith Haven Mall",
+		"name": "Apple Smith Haven",
+		"country": "United States"
+	},
+	{
+		"city": "Nanuet",
+		"region": "NY",
+		"address": "8115 Fashion Drive",
+		"name": "Apple Nanuet",
+		"country": "United States"
+	},
+	{
+		"city": "Huntington Station",
+		"region": "NY",
+		"address": "160 Walt Whitman Road",
+		"name": "Apple Walt Whitman",
+		"country": "United States"
+	},
+	{
+		"city": "Manhasset",
+		"region": "NY",
+		"address": "1900 Northern Boulevard",
+		"name": "Apple Manhasset",
+		"country": "United States"
+	},
+	{
+		"city": "Elmhurst",
+		"region": "NY",
+		"address": "90-15 Queens Boulevard",
+		"name": "Apple Queens Center",
+		"country": "United States"
+	},
+	{
+		"city": "Syracuse",
+		"region": "NY",
+		"address": "1 Destiny USA Drive",
+		"name": "Apple Syracuse",
+		"country": "United States"
+	},
+	{
+		"city": "Staten Island",
+		"region": "NY",
+		"address": "2655 Richmond Avenue",
+		"name": "Apple Staten Island",
+		"country": "United States"
+	},
+	{
+		"city": "Charlotte",
+		"region": "NC",
+		"address": "6801 Northlake Mall Drive",
+		"name": "Apple Northlake Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Buffalo",
+		"region": "NY",
+		"address": "G116 Walden Galleria",
+		"name": "Apple Walden Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Brooklyn",
+		"region": "NY",
+		"address": "123 Flatbush Avenue",
+		"name": "Apple Downtown Brooklyn",
+		"country": "United States"
+	},
+	{
+		"city": "Albany",
+		"region": "NY",
+		"address": "1 Crossgates Mall Road",
+		"name": "Apple Crossgates",
+		"country": "United States"
+	},
+	{
+		"city": "Albuquerque",
+		"region": "NM",
+		"address": "2240 Q Street NE",
+		"name": "Apple ABQ Uptown",
+		"country": "United States"
+	},
+	{
+		"city": "Wayne",
+		"region": "NJ",
+		"address": "1400 Willowbrook Mall",
+		"name": "Apple Willowbrook",
+		"country": "United States"
+	},
+	{
+		"city": "Woodcliff Lake",
+		"region": "NJ",
+		"address": "441 Chestnut Ridge Road",
+		"name": "Apple Tice's Corner",
+		"country": "United States"
+	},
+	{
+		"city": "Brooklyn",
+		"region": "NY",
+		"address": "247 Bedford Avenue",
+		"name": "Apple Williamsburg",
+		"country": "United States"
+	},
+	{
+		"city": "Rockaway",
+		"region": "NJ",
+		"address": "301 Mt. Hope Avenue",
+		"name": "Apple Rockaway",
+		"country": "United States"
+	},
+	{
+		"city": "Paramus",
+		"region": "NJ",
+		"address": "1 Garden State Plaza",
+		"name": "Apple Garden State Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Short Hills",
+		"region": "NJ",
+		"address": "1200 Morris Turnpike",
+		"name": "Apple Short Hills",
+		"country": "United States"
+	},
+	{
+		"city": "Edison",
+		"region": "NJ",
+		"address": "55 Parsonage Road",
+		"name": "Apple Menlo Park",
+		"country": "United States"
+	},
+	{
+		"city": "Marlton",
+		"region": "NJ",
+		"address": "500 Route 73 South",
+		"name": "Apple Sagemore",
+		"country": "United States"
+	},
+	{
+		"city": "Garden City",
+		"region": "NY",
+		"address": "630 Old Country Road",
+		"name": "Apple Roosevelt Field",
+		"country": "United States"
+	},
+	{
+		"city": "Cherry Hill",
+		"region": "NJ",
+		"address": "2000 Route 38",
+		"name": "Apple Cherry Hill",
+		"country": "United States"
+	},
+	{
+		"city": "Bridgewater",
+		"region": "NJ",
+		"address": "400 Commons Way",
+		"name": "Apple Bridgewater",
+		"country": "United States"
+	},
+	{
+		"city": "Lawrence Township",
+		"region": "NJ",
+		"address": "150 Quaker Bridge Mall",
+		"name": "Apple Quaker Bridge",
+		"country": "United States"
+	},
+	{
+		"city": "Freehold",
+		"region": "NJ",
+		"address": "3710 Route 9 South",
+		"name": "Apple Freehold Raceway Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Manchester",
+		"region": "NH",
+		"address": "1500 S Willow Street",
+		"name": "Apple The Mall of New Hampshire",
+		"country": "United States"
+	},
+	{
+		"city": "Salem",
+		"region": "NH",
+		"address": "99 Rockingham Park Boulevard",
+		"name": "Apple Rockingham Park",
+		"country": "United States"
+	},
+	{
+		"city": "Nashua",
+		"region": "NH",
+		"address": "310 Daniel Webster Highway",
+		"name": "Apple Pheasant Lane",
+		"country": "United States"
+	},
+	{
+		"city": "Las Vegas",
+		"region": "NV",
+		"address": "3200 Las Vegas Boulevard",
+		"name": "Apple Fashion Show",
+		"country": "United States"
+	},
+	{
+		"city": "St. Louis",
+		"region": "MO",
+		"address": "131 West County Center",
+		"name": "Apple West County",
+		"country": "United States"
+	},
+	{
+		"city": "Omaha",
+		"region": "NE",
+		"address": "17170 Davenport Street",
+		"name": "Apple Village Pointe",
+		"country": "United States"
+	},
+	{
+		"city": "Kansas City",
+		"region": "MO",
+		"address": "227 Nichols Road",
+		"name": "Apple Country Club Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Atlantic City",
+		"region": "NJ",
+		"address": "The Pier at Caesars",
+		"name": "Apple The Pier",
+		"country": "United States"
+	},
+	{
+		"city": "Ridgeland",
+		"region": "MS",
+		"address": "1000 Highland Colony Parkway",
+		"name": "Apple Renaissance at Colony Park",
+		"country": "United States"
+	},
+	{
+		"city": "St. Louis",
+		"region": "MO",
+		"address": "2440 Saint Louis Galleria",
+		"name": "Apple Saint Louis Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Roseville",
+		"region": "MN",
+		"address": "1595 Highway 36 W",
+		"name": "Apple Rosedale Center",
+		"country": "United States"
+	},
+	{
+		"city": "Las Vegas",
+		"region": "NV",
+		"address": "3500 Las Vegas Blvd South, Caesars Palace",
+		"name": "Apple The Forum Shops",
+		"country": "United States"
+	},
+	{
+		"city": "Las Vegas",
+		"region": "NV",
+		"address": "6671 Las Vegas Boulevard South",
+		"name": "Apple Town Square",
+		"country": "United States"
+	},
+	{
+		"city": "Reno",
+		"region": "NV",
+		"address": "13945 South Virginia Street",
+		"name": "Apple Summit Sierra",
+		"country": "United States"
+	},
+	{
+		"city": "Bloomington",
+		"region": "MN",
+		"address": "132 South Avenue",
+		"name": "Apple Mall of America",
+		"country": "United States"
+	},
+	{
+		"city": "Minneapolis",
+		"region": "MN",
+		"address": "3018 Hennepin Avenue",
+		"name": "Apple Uptown",
+		"country": "United States"
+	},
+	{
+		"city": "Edina",
+		"region": "MN",
+		"address": "1560 Southdale Center",
+		"name": "Apple Southdale",
+		"country": "United States"
+	},
+	{
+		"city": "Troy",
+		"region": "MI",
+		"address": "2800 W Big Beaver Road",
+		"name": "Apple Somerset",
+		"country": "United States"
+	},
+	{
+		"city": "Grand Rapids",
+		"region": "MI",
+		"address": "3195 28th Street",
+		"name": "Apple Woodland",
+		"country": "United States"
+	},
+	{
+		"city": "Lansing",
+		"region": "MI",
+		"address": "3025 Preyde Boulevard",
+		"name": "Apple Eastwood Towne Center",
+		"country": "United States"
+	},
+	{
+		"city": "Clinton Township",
+		"region": "MI",
+		"address": "17360 Hall Road",
+		"name": "Apple Partridge Creek",
+		"country": "United States"
+	},
+	{
+		"city": "Las Vegas",
+		"region": "NV",
+		"address": "1985 Festival Plaza Drive",
+		"name": "Apple Summerlin",
+		"country": "United States"
+	},
+	{
+		"city": "Natick",
+		"region": "MA",
+		"address": "1245 Worcester Street",
+		"name": "Apple Natick Collection",
+		"country": "United States"
+	},
+	{
+		"city": "Marlborough",
+		"region": "MA",
+		"address": "601 Donald Lynch Boulevard",
+		"name": "Apple Solomon Pond Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Minnetonka",
+		"region": "MN",
+		"address": "12531 Wayzata Boulevard",
+		"name": "Apple Ridgedale",
+		"country": "United States"
+	},
+	{
+		"city": "Holyoke",
+		"region": "MA",
+		"address": "50 Holyoke Street",
+		"name": "Apple Holyoke",
+		"country": "United States"
+	},
+	{
+		"city": "Chestnut Hill",
+		"region": "MA",
+		"address": "199 Boylston Street",
+		"name": "Apple Chestnut Hill",
+		"country": "United States"
+	},
+	{
+		"city": "Dedham",
+		"region": "MA",
+		"address": "508 Legacy Place",
+		"name": "Apple Legacy Place",
+		"country": "United States"
+	},
+	{
+		"city": "Burlington",
+		"region": "MA",
+		"address": "75 Middlesex Turnpike",
+		"name": "Apple Burlington",
+		"country": "United States"
+	},
+	{
+		"city": "Ann Arbor",
+		"region": "MI",
+		"address": "100 Briarwood Circle",
+		"name": "Apple Briarwood",
+		"country": "United States"
+	},
+	{
+		"city": "Lynnfield",
+		"region": "MA",
+		"address": "1220 Market Street",
+		"name": "Apple MarketStreet",
+		"country": "United States"
+	},
+	{
+		"city": "Braintree",
+		"region": "MA",
+		"address": "250 Granite Street",
+		"name": "Apple South Shore",
+		"country": "United States"
+	},
+	{
+		"city": "Boston",
+		"region": "MA",
+		"address": "815 Boylston Street",
+		"name": "Apple Boylston Street",
+		"country": "United States"
+	},
+	{
+		"city": "Novi",
+		"region": "MI",
+		"address": "27500 Novi Road",
+		"name": "Apple Twelve Oaks",
+		"country": "United States"
+	},
+	{
+		"city": "Annapolis",
+		"region": "MD",
+		"address": "1735 Annapolis Mall",
+		"name": "Apple Annapolis",
+		"country": "United States"
+	},
+	{
+		"city": "Towson",
+		"region": "MD",
+		"address": "825 Dulaney Valley Road",
+		"name": "Apple Towson Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Baton Rouge",
+		"region": "LA",
+		"address": "6401 Bluebonnet Boulevard",
+		"name": "Apple Mall of Louisiana",
+		"country": "United States"
+	},
+	{
+		"city": "Cambridge",
+		"region": "MA",
+		"address": "100 CambridgeSide Place",
+		"name": "Apple CambridgeSide",
+		"country": "United States"
+	},
+	{
+		"city": "Hingham",
+		"region": "MA",
+		"address": "94 Derby Street",
+		"name": "Apple Derby Street",
+		"country": "United States"
+	},
+	{
+		"city": "Columbia",
+		"region": "MD",
+		"address": "10300 Little Patuxent Parkway",
+		"name": "Apple Columbia",
+		"country": "United States"
+	},
+	{
+		"city": "Metairie",
+		"region": "LA",
+		"address": "3301 Veterans Memorial Boulevard",
+		"name": "Apple Lakeside Shopping Center",
+		"country": "United States"
+	},
+	{
+		"city": "Leawood",
+		"region": "KS",
+		"address": "4529 West 119th Street",
+		"name": "Apple Leawood",
+		"country": "United States"
+	},
+	{
+		"city": "Louisville",
+		"region": "KY",
+		"address": "7900 Shelbyville Road",
+		"name": "Apple Oxmoor",
+		"country": "United States"
+	},
+	{
+		"city": "Lexington",
+		"region": "KY",
+		"address": "3401 Nicholasville Road",
+		"name": "Apple Fayette Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Skokie",
+		"region": "IL",
+		"address": "4999 Old Orchard Center",
+		"name": "Apple Old Orchard",
+		"country": "United States"
+	},
+	{
+		"city": "Indianapolis",
+		"region": "IN",
+		"address": "8702 Keystone Crossing",
+		"name": "Apple The Fashion Mall at Keystone",
+		"country": "United States"
+	},
+	{
+		"city": "Schaumburg",
+		"region": "IL",
+		"address": "N311 Woodfield Mall",
+		"name": "Apple Woodfield",
+		"country": "United States"
+	},
+	{
+		"city": "Bethesda",
+		"region": "MD",
+		"address": "7101 Democracy Boulevard",
+		"name": "Apple Montgomery Mall",
+		"country": "United States"
+	},
+	{
+		"city": "South Portland",
+		"region": "ME",
+		"address": "364 Maine Mall Road",
+		"name": "Apple Maine Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Mishawaka",
+		"region": "IN",
+		"address": "6501 North Grape Road",
+		"name": "Apple University Park Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Naperville",
+		"region": "IL",
+		"address": "120 West Jefferson Avenue",
+		"name": "Apple Main Place",
+		"country": "United States"
+	},
+	{
+		"city": "Northbrook",
+		"region": "IL",
+		"address": "1056 Northbrook Court",
+		"name": "Apple Northbrook",
+		"country": "United States"
+	},
+	{
+		"city": "Bethesda",
+		"region": "MD",
+		"address": "4860 Bethesda Avenue",
+		"name": "Apple Bethesda Row",
+		"country": "United States"
+	},
+	{
+		"city": "Oak Brook",
+		"region": "IL",
+		"address": "70 Oakbrook Center",
+		"name": "Apple Oakbrook",
+		"country": "United States"
+	},
+	{
+		"city": "Orland Park",
+		"region": "IL",
+		"address": "428 Orland Square",
+		"name": "Apple Orland Square Mall",
+		"country": "United States"
+	},
+	{
+		"city": "West Des Moines",
+		"region": "IA",
+		"address": "101 Jordan Creek Parkway",
+		"name": "Apple Jordan Creek",
+		"country": "United States"
+	},
+	{
+		"country": "United States",
+		"name": "Apple Michigan Avenue"
+	},
+	{
+		"city": "Chicago",
+		"region": "IL",
+		"address": "801 W. North Avenue",
+		"name": "Apple Lincoln Park",
+		"country": "United States"
+	},
+	{
+		"city": "Deer Park",
+		"region": "IL",
+		"address": "20530 N. Rand Road",
+		"name": "Apple Deer Park",
+		"country": "United States"
+	},
+	{
+		"city": "Augusta",
+		"region": "GA",
+		"address": "3450 Wrightsboro Road",
+		"name": "Apple Augusta",
+		"country": "United States"
+	},
+	{
+		"city": "Atlanta",
+		"region": "GA",
+		"address": "4400 Ashford Dunwoody Road",
+		"name": "Apple Perimeter",
+		"country": "United States"
+	},
+	{
+		"city": "Buford",
+		"region": "GA",
+		"address": "3333 Buford Drive",
+		"name": "Apple Mall of Georgia",
+		"country": "United States"
+	},
+	{
+		"city": "Honolulu",
+		"region": "HI",
+		"address": "1450 Ala Moana Boulevard",
+		"name": "Apple Ala Moana",
+		"country": "United States"
+	},
+	{
+		"city": "Alpharetta",
+		"region": "GA",
+		"address": "8130 Avalon Boulevard",
+		"name": "Apple Avalon",
+		"country": "United States"
+	},
+	{
+		"city": "Atlanta",
+		"region": "GA",
+		"address": "3393 Peachtree Road NE",
+		"name": "Apple Lenox Square",
+		"country": "United States"
+	},
+	{
+		"city": "Atlanta",
+		"region": "GA",
+		"address": "1000 Cumberland Mall",
+		"name": "Apple Cumberland Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Sarasota",
+		"region": "FL",
+		"address": "140 University Town Center Drive",
+		"name": "Apple University Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Honolulu",
+		"region": "HI",
+		"address": "2301 Kalakaua Avenue",
+		"name": "Apple Royal Hawaiian",
+		"country": "United States"
+	},
+	{
+		"city": "Honolulu",
+		"region": "HI",
+		"address": "4211 Waialae Avenue",
+		"name": "Apple Kahala",
+		"country": "United States"
+	},
+	{
+		"city": "Boise",
+		"region": "ID",
+		"address": "350 North Milwaukee Street",
+		"name": "Apple Boise Towne Square",
+		"country": "United States"
+	},
+	{
+		"city": "Palm Beach Gardens",
+		"region": "FL",
+		"address": "3101 PGA Boulevard",
+		"name": "Apple The Gardens Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Miami",
+		"region": "FL",
+		"address": "8888 SW 136th Street",
+		"name": "Apple The Falls",
+		"country": "United States"
+	},
+	{
+		"city": "Miami",
+		"region": "FL",
+		"address": "7535 Dadeland Mall",
+		"name": "Apple Dadeland",
+		"country": "United States"
+	},
+	{
+		"city": "Wellington",
+		"region": "FL",
+		"address": "10300 W. Forest Hill Boulevard",
+		"name": "Apple Wellington Green",
+		"country": "United States"
+	},
+	{
+		"city": "Tampa",
+		"region": "FL",
+		"address": "2223 N West Shore Boulevard",
+		"name": "Apple International Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Jacksonville",
+		"region": "FL",
+		"address": "4835 River City Drive",
+		"name": "Apple St. Johns Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Fort Lauderdale",
+		"region": "FL",
+		"address": "2388 E. Sunrise Boulevard",
+		"name": "Apple The Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Orlando",
+		"region": "FL",
+		"address": "4200 Conroy Road",
+		"name": "Apple Millenia",
+		"country": "United States"
+	},
+	{
+		"city": "Miami Beach",
+		"region": "FL",
+		"address": "1021 Lincoln Road",
+		"name": "Apple Lincoln Road",
+		"country": "United States"
+	},
+	{
+		"city": "Miami",
+		"region": "FL",
+		"address": "701 S. Miami Avenue",
+		"name": "Apple Brickell City Centre",
+		"country": "United States"
+	},
+	{
+		"city": "Orlando",
+		"region": "FL",
+		"address": "8001 South Orange Blossom Trail",
+		"name": "Apple Florida Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Altamonte Springs",
+		"region": "FL",
+		"address": "451 E Altamonte Drive",
+		"name": "Apple Altamonte",
+		"country": "United States"
+	},
+	{
+		"city": "Estero",
+		"region": "FL",
+		"address": "23151 Fashion Drive",
+		"name": "Apple Coconut Point",
+		"country": "United States"
+	},
+	{
+		"city": "Boca Raton",
+		"region": "FL",
+		"address": "6000 Glades Road",
+		"name": "Apple Boca Raton",
+		"country": "United States"
+	},
+	{
+		"city": "Newark",
+		"region": "DE",
+		"address": "125 Christiana Mall",
+		"name": "Apple Christiana Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Washington",
+		"region": "DC",
+		"address": "1229 Wisconsin Avenue NW",
+		"name": "Apple Georgetown",
+		"country": "United States"
+	},
+	{
+		"city": "Naples",
+		"region": "FL",
+		"address": "5555 Tamiami Trail North",
+		"name": "Apple Waterside Shops",
+		"country": "United States"
+	},
+	{
+		"city": "Stamford",
+		"region": "CT",
+		"address": "100 Greyrock Place",
+		"name": "Apple Stamford",
+		"country": "United States"
+	},
+	{
+		"city": "Trumbull",
+		"region": "CT",
+		"address": "5065 Main Street",
+		"name": "Apple Trumbull",
+		"country": "United States"
+	},
+	{
+		"city": "Danbury",
+		"region": "CT",
+		"address": "Seven Backus Avenue",
+		"name": "Apple Danbury Fair Mall",
+		"country": "United States"
+	},
+	{
+		"city": "South Windsor",
+		"region": "CT",
+		"address": "401 Evergreen Walk",
+		"name": "Apple Evergreen Walk",
+		"country": "United States"
+	},
+	{
+		"city": "New Haven",
+		"region": "CT",
+		"address": "65 Broadway",
+		"name": "Apple New Haven",
+		"country": "United States"
+	},
+	{
+		"city": "Littleton",
+		"region": "CO",
+		"address": "7301 S Santa Fe Drive",
+		"name": "Apple Aspen Grove",
+		"country": "United States"
+	},
+	{
+		"city": "Denver",
+		"region": "CO",
+		"address": "3000 E 1st Avenue",
+		"name": "Apple Cherry Creek",
+		"country": "United States"
+	},
+	{
+		"city": "Colorado Springs",
+		"region": "CO",
+		"address": "1685 Briargate Parkway",
+		"name": "Apple The Promenade Shops at Briargate",
+		"country": "United States"
+	},
+	{
+		"city": "Broomfield",
+		"region": "CO",
+		"address": "One West Flatiron Crossing Drive",
+		"name": "Apple FlatIron Crossing",
+		"country": "United States"
+	},
+	{
+		"city": "Aventura",
+		"region": "FL",
+		"address": "19501 Biscayne Boulevard",
+		"name": "Apple Aventura",
+		"country": "United States"
+	},
+	{
+		"city": "Brandon",
+		"region": "FL",
+		"address": "459 Brandon Town Center Drive",
+		"name": "Apple Brandon",
+		"country": "United States"
+	},
+	{
+		"city": "Walnut Creek",
+		"region": "CA",
+		"address": "1129 S. Main Street",
+		"name": "Apple Walnut Creek",
+		"country": "United States"
+	},
+	{
+		"city": "Valencia",
+		"region": "CA",
+		"address": "24201 West Valencia Boulevard",
+		"name": "Apple Valencia Town Center",
+		"country": "United States"
+	},
+	{
+		"city": "Thousand Oaks",
+		"region": "CA",
+		"address": "432 West Hillcrest Drive",
+		"name": "Apple The Oaks",
+		"country": "United States"
+	},
+	{
+		"city": "Greenwich",
+		"region": "CT",
+		"address": "356 Greenwich Avenue",
+		"name": "Apple Greenwich Avenue",
+		"country": "United States"
+	},
+	{
+		"city": "Farmington",
+		"region": "CT",
+		"address": "500 Westfarms Mall",
+		"name": "Apple Westfarms",
+		"country": "United States"
+	},
+	{
+		"city": "Santa Rosa",
+		"region": "CA",
+		"address": "1071 Santa Rosa Plaza",
+		"name": "Apple Santa Rosa Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Santa Monica",
+		"region": "CA",
+		"address": "1415 Third Street Promenade",
+		"name": "Apple Third Street Promenade",
+		"country": "United States"
+	},
+	{
+		"city": "Santa Barbara",
+		"region": "CA",
+		"address": "928 State Street",
+		"name": "Apple State Street",
+		"country": "United States"
+	},
+	{
+		"city": "San Mateo",
+		"region": "CA",
+		"address": "340 Hillsdale Shopping Center",
+		"name": "Apple Hillsdale",
+		"country": "United States"
+	},
+	{
+		"city": "San Luis Obispo",
+		"region": "CA",
+		"address": "899 Higuera Street",
+		"name": "Apple Higuera Street",
+		"country": "United States"
+	},
+	{
+		"city": "San Jose",
+		"region": "CA",
+		"address": "925 Blossom Hill Road",
+		"name": "Apple Oakridge",
+		"country": "United States"
+	},
+	{
+		"city": "San Francisco",
+		"region": "CA",
+		"address": "300 Post Street",
+		"name": "Apple Union Square",
+		"country": "United States"
+	},
+	{
+		"city": "Boulder",
+		"region": "CO",
+		"address": "1755 29th Street",
+		"name": "Apple Twenty Ninth Street",
+		"country": "United States"
+	},
+	{
+		"city": "San Francisco",
+		"region": "CA",
+		"address": "3251 20th Avenue",
+		"name": "Apple Stonestown",
+		"country": "United States"
+	},
+	{
+		"city": "San Diego",
+		"region": "CA",
+		"address": "4305 La Jolla Village Drive",
+		"name": "Apple UTC",
+		"country": "United States"
+	},
+	{
+		"city": "San Diego",
+		"region": "CA",
+		"address": "7007 Friars Road",
+		"name": "Apple Fashion Valley",
+		"country": "United States"
+	},
+	{
+		"city": "Sacramento",
+		"region": "CA",
+		"address": "1689 Arden Way",
+		"name": "Apple Arden Fair",
+		"country": "United States"
+	},
+	{
+		"city": "Temecula",
+		"region": "CA",
+		"address": "40764 Winchester Road",
+		"name": "Apple Promenade Temecula",
+		"country": "United States"
+	},
+	{
+		"city": "San Francisco",
+		"region": "CA",
+		"address": "2125 Chestnut Street",
+		"name": "Apple Chestnut Street",
+		"country": "United States"
+	},
+	{
+		"city": "Lone Tree",
+		"region": "CO",
+		"address": "8405 Park Meadows Center Drive",
+		"name": "Apple Park Meadows",
+		"country": "United States"
+	},
+	{
+		"city": "Sherman Oaks",
+		"region": "CA",
+		"address": "14006 Riverside Drive",
+		"name": "Apple Sherman Oaks",
+		"country": "United States"
+	},
+	{
+		"city": "Roseville",
+		"region": "CA",
+		"address": "1151 Galleria Boulevard",
+		"name": "Apple Roseville",
+		"country": "United States"
+	},
+	{
+		"city": "Rancho Cucamonga",
+		"region": "CA",
+		"address": "12461 South Main Street",
+		"name": "Apple Victoria Gardens",
+		"country": "United States"
+	},
+	{
+		"city": "Santa Clara",
+		"region": "CA",
+		"address": "2855 Stevens Creek Boulevard",
+		"name": "Apple Valley Fair",
+		"country": "United States"
+	},
+	{
+		"city": "Cupertino",
+		"region": "CA",
+		"address": "One Infinite Loop",
+		"name": "Apple Infinite Loop",
+		"country": "United States"
+	},
+	{
+		"city": "Glendale",
+		"region": "CA",
+		"address": "2126 Glendale Galleria",
+		"name": "Apple Glendale Galleria",
+		"country": "United States"
+	},
+	{
+		"city": "Irvine",
+		"region": "CA",
+		"address": "763 Spectrum Center Drive",
+		"name": "Apple Irvine Spectrum Center",
+		"country": "United States"
+	},
+	{
+		"country": "United States",
+		"name": "Apple Park Visitor Center"
+	},
+	{
+		"city": "Glendale",
+		"region": "CA",
+		"address": "877 Americana Way",
+		"name": "Apple The Americana at Brand",
+		"country": "United States"
+	},
+	{
+		"city": "Escondido",
+		"region": "CA",
+		"address": "272 E Via Rancho Parkway",
+		"name": "Apple North County",
+		"country": "United States"
+	},
+	{
+		"city": "Fresno",
+		"region": "CA",
+		"address": "645 E. Shaw Avenue",
+		"name": "Apple Fashion Fair",
+		"country": "United States"
+	},
+	{
+		"city": "Chula Vista",
+		"region": "CA",
+		"address": "2015 Birch Road",
+		"name": "Apple Otay Ranch",
+		"country": "United States"
+	},
+	{
+		"city": "Emeryville",
+		"region": "CA",
+		"address": "5640 Bay Street",
+		"name": "Apple Bay Street",
+		"country": "United States"
+	},
+	{
+		"city": "Brea",
+		"region": "CA",
+		"address": "1016C Brea Mall",
+		"name": "Apple Brea Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Costa Mesa",
+		"region": "CA",
+		"address": "3333 Bear Street",
+		"name": "Apple South Coast Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Corte Madera",
+		"region": "CA",
+		"address": "1520 Redwood Highway",
+		"name": "Apple Corte Madera",
+		"country": "United States"
+	},
+	{
+		"city": "Tucson",
+		"region": "AZ",
+		"address": "2905 East Skyline Drive",
+		"name": "Apple La Encantada",
+		"country": "United States"
+	},
+	{
+		"city": "Cerritos",
+		"region": "CA",
+		"address": "242 Los Cerritos Center",
+		"name": "Apple Los Cerritos",
+		"country": "United States"
+	},
+	{
+		"city": "Carlsbad",
+		"region": "CA",
+		"address": "1923 Calle Barcelona",
+		"name": "Apple Carlsbad",
+		"country": "United States"
+	},
+	{
+		"city": "Berkeley",
+		"region": "CA",
+		"address": "1823 4th Street",
+		"name": "Apple 4th Street",
+		"country": "United States"
+	},
+	{
+		"city": "Canoga Park",
+		"region": "CA",
+		"address": "6600 Topanga Canyon Boulevard",
+		"name": "Apple Topanga",
+		"country": "United States"
+	},
+	{
+		"city": "Burlingame",
+		"region": "CA",
+		"address": "1301 Burlingame Avenue",
+		"name": "Apple Burlingame",
+		"country": "United States"
+	},
+	{
+		"city": "Anchorage",
+		"region": "AK",
+		"address": "320 West 5th Avenue",
+		"name": "Apple Anchorage 5th Avenue Mall",
+		"country": "United States"
+	},
+	{
+		"city": "Little Rock",
+		"region": "AR",
+		"address": "17711 Chenal Parkway",
+		"name": "Apple The Promenade at Chenal",
+		"country": "United States"
+	},
+	{
+		"city": "Bakersfield",
+		"region": "CA",
+		"address": "2701 Ming Avenue",
+		"name": "Apple Valley Plaza",
+		"country": "United States"
+	},
+	{
+		"city": "Huntsville",
+		"region": "AL",
+		"address": "320 The Bridge Street",
+		"name": "Apple Bridge Street",
+		"country": "United States"
+	},
+	{
+		"city": "Scottsdale",
+		"region": "AZ",
+		"address": "15169 North Scottsdale Road",
+		"name": "Apple Scottsdale Quarter",
+		"country": "United States"
+	},
+	{
+		"city": "Phoenix",
+		"region": "AZ",
+		"address": "2502 East Camelback Road",
+		"name": "Apple Biltmore",
+		"country": "United States"
+	},
+	{
+		"city": "Glendale",
+		"region": "AZ",
+		"address": "7700 West Arrowhead Towne Center",
+		"name": "Apple Arrowhead",
+		"country": "United States"
+	},
+	{
+		"city": "Chandler",
+		"region": "AZ",
+		"address": "3111 W Chandler Boulevard",
+		"name": "Apple Chandler Fashion Center",
+		"country": "United States"
+	},
+	{
+		"city": "Gilbert",
+		"region": "AZ",
+		"address": "2218 E. Williams Field Road",
+		"name": "Apple SanTan Village",
+		"country": "United States"
+	}
+]
