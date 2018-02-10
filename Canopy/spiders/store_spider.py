@@ -10,13 +10,19 @@ NOTE: This script runs on python 3.6
 '''
 
 import scrapy
+from Canopy.items import AppleItem
 
 class AppleStoreSpider(scrapy.Spider):
 	'''Basic spider class'''
-	name = 'Apple Spider'
-	urls = ['https://www.apple.com/retail/storelist/']
+	name = 'apple'
+	allowed_domains = ['apple.com']
+	start_urls = ['https://www.apple.com/retail/storelist/']
 
-	def crawl(self, response):
+	def parse(self, response):
 		# Gather and organize response data from website
-		pass
-
+		base_domain = AppleStoreSpider.allowed_domains[0]
+		sites = response.xpath("//*[contains(@id, 'stores')]").xpath('*//a/@href').extract() # Get all store links
+		for site in sites:
+			item = AppleItem()
+			item['name'] = 'HEY'
+			item['address'] = site
