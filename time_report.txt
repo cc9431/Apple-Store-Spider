@@ -1,0 +1,5 @@
+February 10th, 11am - 5pm
+	- Installed and learned to use scrapy
+	- Worked on extracting Name, Region, City, Address, and Country
+February 10th, 11pm - 11:30pm
+	- Comments
