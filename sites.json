@@ -1,43 +1,23 @@
 [
 	{
+		"city": "Sacramento",
+		"name": "Apple Arden Fair",
+		"img": "https://www.apple.com/retail/ardenfair/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "1689 Arden Way",
+		"lat": 38.6016345,
+		"lng": -121.4270007
+	},
+	{
 		"city": "Birmingham",
 		"name": "Apple The Summit",
 		"img": "https://www.apple.com/retail/thesummit/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AL",
-		"address": "217 Summit Boulevard"
-	},
-	{
-		"city": "Pasadena",
-		"name": "Apple Pasadena",
-		"img": "https://www.apple.com/retail/pasadena/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "54 West Colorado Boulevard"
-	},
-	{
-		"city": "Rancho Cucamonga",
-		"name": "Apple Victoria Gardens",
-		"img": "https://www.apple.com/retail/victoriagardens/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "12461 South Main Street"
-	},
-	{
-		"city": "Roseville",
-		"name": "Apple Roseville",
-		"img": "https://www.apple.com/retail/roseville/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "1151 Galleria Boulevard"
-	},
-	{
-		"city": "San Diego",
-		"name": "Apple UTC",
-		"img": "https://www.apple.com/retail/utc/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "4305 La Jolla Village Drive"
+		"address": "217 Summit Boulevard",
+		"lat": 33.447519,
+		"lng": -86.72834
 	},
 	{
 		"city": "Pleasanton",
@@ -45,7 +25,29 @@
 		"img": "https://www.apple.com/retail/stoneridgemall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "One Stoneridge Mall"
+		"address": "One Stoneridge Mall",
+		"lat": 37.6947627,
+		"lng": -121.9287454
+	},
+	{
+		"city": "Rancho Cucamonga",
+		"name": "Apple Victoria Gardens",
+		"img": "https://www.apple.com/retail/victoriagardens/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "12461 South Main Street",
+		"lat": 34.11056240000001,
+		"lng": -117.533595
+	},
+	{
+		"city": "Roseville",
+		"name": "Apple Roseville",
+		"img": "https://www.apple.com/retail/roseville/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "1151 Galleria Boulevard",
+		"lat": 38.7729086,
+		"lng": -121.2697902
 	},
 	{
 		"city": "San Diego",
@@ -53,23 +55,19 @@
 		"img": "https://www.apple.com/retail/fashionvalley/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "7007 Friars Road"
-	},
-	{
-		"city": "Sacramento",
-		"name": "Apple Arden Fair",
-		"img": "https://www.apple.com/retail/ardenfair/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "1689 Arden Way"
+		"address": "7007 Friars Road",
+		"lat": 32.76851,
+		"lng": -117.165885
 	},
 	{
 		"city": "San Francisco",
-		"name": "Apple Chestnut Street",
-		"img": "https://www.apple.com/retail/chestnutstreet/images/hero_medium.jpg",
+		"name": "Apple Stonestown",
+		"img": "https://www.apple.com/retail/stonestown/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "2125 Chestnut Street"
+		"address": "3251 20th Avenue",
+		"lat": 37.7272035,
+		"lng": -122.4768916
 	},
 	{
 		"city": "Palo Alto",
@@ -77,7 +75,39 @@
 		"img": "https://www.apple.com/retail/stanford/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "379 Stanford Shopping Center"
+		"address": "379 Stanford Shopping Center",
+		"lat": 37.441794,
+		"lng": -122.1725249
+	},
+	{
+		"city": "Pasadena",
+		"name": "Apple Pasadena",
+		"img": "https://www.apple.com/retail/pasadena/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "54 West Colorado Boulevard",
+		"lat": 34.145369,
+		"lng": -118.1516662
+	},
+	{
+		"city": "San Francisco",
+		"name": "Apple Chestnut Street",
+		"img": "https://www.apple.com/retail/chestnutstreet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "2125 Chestnut Street",
+		"lat": 37.80039900000001,
+		"lng": -122.438338
+	},
+	{
+		"city": "San Diego",
+		"name": "Apple UTC",
+		"img": "https://www.apple.com/retail/utc/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "4305 La Jolla Village Drive",
+		"lat": 32.8717161,
+		"lng": -117.2124407
 	},
 	{
 		"city": "Palo Alto",
@@ -85,7 +115,9 @@
 		"img": "https://www.apple.com/retail/paloalto/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "340 University Avenue"
+		"address": "340 University Avenue",
+		"lat": 37.446356,
+		"lng": -122.160711
 	},
 	{
 		"city": "Palm Desert",
@@ -93,15 +125,9 @@
 		"img": "https://www.apple.com/retail/elpaseovillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "73445 El Paseo"
-	},
-	{
-		"city": "Modesto",
-		"name": "Apple Vintage Faire",
-		"img": "https://www.apple.com/retail/vintagefaire/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "3401 Dale Road"
+		"address": "73445 El Paseo",
+		"lat": 33.7204178,
+		"lng": -116.3793959
 	},
 	{
 		"city": "Northridge",
@@ -109,7 +135,9 @@
 		"img": "https://www.apple.com/retail/northridge/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "9301 Tampa Avenue"
+		"address": "9301 Tampa Avenue",
+		"lat": 34.2393583,
+		"lng": -118.5561433
 	},
 	{
 		"city": "Newport Beach",
@@ -117,15 +145,9 @@
 		"img": "https://www.apple.com/retail/fashionisland/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1113 Newport Center Drive"
-	},
-	{
-		"city": "Dedham",
-		"name": "Apple Legacy Place",
-		"img": "https://www.apple.com/retail/legacyplace/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MA",
-		"address": "508 Legacy Place"
+		"address": "1113 Newport Center Drive",
+		"lat": 33.614905,
+		"lng": -117.876865
 	},
 	{
 		"city": "Monterey",
@@ -133,28 +155,36 @@
 		"img": "https://www.apple.com/retail/delmonte/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "240 Del Monte Center"
+		"address": "240 Del Monte Center",
+		"lat": 36.584218,
+		"lng": -121.897308
 	},
 	{
-		"country": "대한민국",
-		"address": "압구정로 12길 46",
+		"city": "서울 강남구",
 		"name": "Apple 가로수길",
 		"img": "https://www.apple.com/kr/retail/garosugil/images/hero_medium.jpg",
-		"city": "서울 강남구"
+		"country": "대한민국",
+		"address": "압구정로 12길 46",
+		"lat": 37.5209001,
+		"lng": 127.0227625
 	},
 	{
-		"country": "台灣",
-		"address": "信義區市府路 45 號",
+		"city": "台北",
 		"name": "Apple 台北 101",
 		"img": "https://www.apple.com/tw/retail/taipei101/images/hero_medium.jpg",
-		"city": "台北"
+		"country": "台灣",
+		"address": "信義區市府路 45 號",
+		"lat": 25.033736,
+		"lng": 121.564271
 	},
 	{
-		"country": "Singapore",
-		"address": "270 Orchard Road",
+		"city": "Singapore",
 		"name": "Apple Orchard Road",
 		"img": "https://www.apple.com/sg/retail/orchardroad/images/hero_medium.jpg",
-		"city": "Singapore"
+		"country": "Singapore",
+		"address": "270 Orchard Road",
+		"lat": 28.446833,
+		"lng": -82.58180449999999
 	},
 	{
 		"city": "Del. Cuajimalpa",
@@ -162,49 +192,63 @@
 		"img": "https://www.apple.com/mx/retail/viasantafe/images/hero_medium.jpg",
 		"country": "México",
 		"region": "CDMX",
-		"address": "Avenida Vasco de Quiroga 3800"
+		"address": "Avenida Vasco de Quiroga 3800",
+		"lat": 19.3615565,
+		"lng": -99.2758083
 	},
 	{
-		"country": "United Arab Emirates",
-		"address": "The Dubai Mall",
-		"name": "Apple Dubai Mall",
-		"img": "https://www.apple.com/ae/retail/dubaimall/images/hero_medium.jpg",
-		"city": "Dubai"
-	},
-	{
-		"country": "United Arab Emirates",
-		"address": "Mall of the Emirates",
+		"city": "Dubai",
 		"name": "Apple Mall of the Emirates",
 		"img": "https://www.apple.com/ae/retail/malloftheemirates/images/hero_medium.jpg",
-		"city": "Dubai"
+		"country": "United Arab Emirates",
+		"address": "Mall of the Emirates",
+		"lat": 25.1183079,
+		"lng": 55.20048079999999
 	},
 	{
+		"city": "Dubai",
+		"name": "Apple Dubai Mall",
+		"img": "https://www.apple.com/ae/retail/dubaimall/images/hero_medium.jpg",
 		"country": "United Arab Emirates",
-		"address": "Yas Mall",
+		"address": "The Dubai Mall",
+		"lat": 25.1958613,
+		"lng": 55.2778246
+	},
+	{
+		"city": "Abu Dhabi",
 		"name": "Apple Yas Mall",
 		"img": "https://www.apple.com/ae/retail/yasmall/images/hero_medium.jpg",
-		"city": "Abu Dhabi"
+		"country": "United Arab Emirates",
+		"address": "Yas Mall",
+		"lat": 24.4884911,
+		"lng": 54.6086705
 	},
 	{
-		"country": "Türkiye",
-		"address": "Akasya AVM",
-		"name": "Apple Akasya",
-		"img": "https://www.apple.com/tr/retail/akasya/images/hero_medium.jpg",
-		"city": "Üsküdar İstanbul"
-	},
-	{
-		"country": "Belgique",
-		"address": "Avenue de la Toison d’Or 26/28",
+		"city": "Bruxelles",
 		"name": "Apple Brussels",
 		"img": "https://www.apple.com/befr/retail/brussels/images/hero_medium.jpg",
-		"city": "Bruxelles"
+		"country": "Belgique",
+		"address": "Avenue de la Toison d’Or 26/28",
+		"lat": 50.8365358,
+		"lng": 4.358177899999999
 	},
 	{
+		"city": "Üsküdar İstanbul",
+		"name": "Apple Akasya",
+		"img": "https://www.apple.com/tr/retail/akasya/images/hero_medium.jpg",
 		"country": "Türkiye",
-		"address": "Zorlu Center",
+		"address": "Akasya AVM",
+		"lat": 41.00131,
+		"lng": 29.05481
+	},
+	{
+		"city": "Beşiktaş İstanbul",
 		"name": "Apple Zorlu Center",
 		"img": "https://www.apple.com/tr/retail/zorlucenter/images/hero_medium.jpg",
-		"city": "Beşiktaş İstanbul"
+		"country": "Türkiye",
+		"address": "Zorlu Center",
+		"lat": 41.0663094,
+		"lng": 29.0178135
 	},
 	{
 		"city": "São Paulo",
@@ -212,7 +256,9 @@
 		"img": "https://www.apple.com/br/retail/morumbi/images/hero_medium.jpg",
 		"country": "Brasil",
 		"region": "SP",
-		"address": "Av. Roque Petroni Júnior, 1089"
+		"address": "Av. Roque Petroni Júnior, 1089",
+		"lat": -23.6228316,
+		"lng": -46.6985035
 	},
 	{
 		"city": "Rio de Janeiro",
@@ -220,14 +266,36 @@
 		"img": "https://www.apple.com/br/retail/villagemall/images/hero_medium.jpg",
 		"country": "Brasil",
 		"region": "RJ",
-		"address": "Avenida das Américas, 3.900"
+		"address": "Avenida das Américas, 3.900",
+		"lat": -22.9980436,
+		"lng": -43.3514791
 	},
 	{
-		"country": "Sverige",
-		"address": "Täby Centrum",
+		"city": "Täby",
 		"name": "Apple Täby Centrum",
 		"img": "https://www.apple.com/se/retail/tabycentrum/images/hero_medium.jpg",
-		"city": "Täby"
+		"country": "Sverige",
+		"address": "Täby Centrum",
+		"lat": 59.44486789999999,
+		"lng": 18.0713119
+	},
+	{
+		"city": "Malmö",
+		"name": "Apple Emporia",
+		"img": "https://www.apple.com/se/retail/emporia/images/hero_medium.jpg",
+		"country": "Sverige",
+		"address": "Emporia",
+		"lat": 55.5635908,
+		"lng": 12.9746738
+	},
+	{
+		"city": "Helsingborg",
+		"name": "Apple Väla Centrum",
+		"img": "https://www.apple.com/se/retail/valacentrum/images/hero_medium.jpg",
+		"country": "Sverige",
+		"address": "Väla Centrum",
+		"lat": 56.091733,
+		"lng": 12.757633
 	},
 	{
 		"city": "Hong Kong",
@@ -235,69 +303,9 @@
 		"img": "https://www.apple.com/hk/en/retail/newtownplaza/images/hero_medium.jpg",
 		"country": "Hong Kong",
 		"region": "Sha Tin",
-		"address": "New Town Plaza Phase 1 L4"
-	},
-	{
-		"country": "Sverige",
-		"address": "Väla Centrum",
-		"name": "Apple Väla Centrum",
-		"img": "https://www.apple.com/se/retail/valacentrum/images/hero_medium.jpg",
-		"city": "Helsingborg"
-	},
-	{
-		"country": "Sverige",
-		"address": "Emporia",
-		"name": "Apple Emporia",
-		"img": "https://www.apple.com/se/retail/emporia/images/hero_medium.jpg",
-		"city": "Malmö"
-	},
-	{
-		"city": "Hong Kong",
-		"name": "Apple Festival Walk",
-		"img": "https://www.apple.com/hk/en/retail/festivalwalk/images/hero_medium.jpg",
-		"country": "Hong Kong",
-		"region": "Kowloon Tong",
-		"address": "Festival Walk"
-	},
-	{
-		"city": "Hong Kong",
-		"name": "Apple Causeway Bay",
-		"img": "https://www.apple.com/hk/en/retail/causewaybay/images/hero_medium.jpg",
-		"country": "Hong Kong",
-		"region": "Causeway Bay",
-		"address": "Hysan Place"
-	},
-	{
-		"city": "Hong Kong",
-		"name": "Apple Canton Road",
-		"img": "https://www.apple.com/hk/en/retail/cantonroad/images/hero_medium.jpg",
-		"country": "Hong Kong",
-		"region": "Tsim Sha Tsui",
-		"address": "100 Canton Road"
-	},
-	{
-		"city": "Hong Kong",
-		"name": "Apple apm Hong Kong",
-		"img": "https://www.apple.com/hk/en/retail/apmhongkong/images/hero_medium.jpg",
-		"country": "Hong Kong",
-		"region": "Kwun Tong",
-		"address": "418 Kwun Tong Road"
-	},
-	{
-		"city": "Zaragoza",
-		"name": "Apple Puerto Venecia",
-		"img": "https://www.apple.com/es/retail/puertovenecia/images/hero_medium.jpg",
-		"country": "España",
-		"region": "Zaragoza",
-		"address": "Puerto Venecia Shopping Resort, The Gallery"
-	},
-	{
-		"city": "Valencia",
-		"name": "Apple Calle Colón",
-		"img": "https://www.apple.com/es/retail/callecolon/images/hero_medium.jpg",
-		"country": "España",
-		"region": "Valencia",
-		"address": "Calle Colón, 25"
+		"address": "New Town Plaza Phase 1 L4",
+		"lat": 22.3821058,
+		"lng": 114.1890229
 	},
 	{
 		"city": "Hong Kong",
@@ -305,7 +313,69 @@
 		"img": "https://www.apple.com/hk/en/retail/ifcmall/images/hero_medium.jpg",
 		"country": "Hong Kong",
 		"region": "Central",
-		"address": "International Finance Centre"
+		"address": "International Finance Centre",
+		"lat": 22.2846018,
+		"lng": 114.1590723
+	},
+	{
+		"city": "Hong Kong",
+		"name": "Apple Festival Walk",
+		"img": "https://www.apple.com/hk/en/retail/festivalwalk/images/hero_medium.jpg",
+		"country": "Hong Kong",
+		"region": "Kowloon Tong",
+		"address": "Festival Walk",
+		"lat": 22.3374215,
+		"lng": 114.1746385
+	},
+	{
+		"city": "Hong Kong",
+		"name": "Apple Causeway Bay",
+		"img": "https://www.apple.com/hk/en/retail/causewaybay/images/hero_medium.jpg",
+		"country": "Hong Kong",
+		"region": "Causeway Bay",
+		"address": "Hysan Place",
+		"lat": 22.2797509,
+		"lng": 114.183808
+	},
+	{
+		"city": "Hong Kong",
+		"name": "Apple Canton Road",
+		"img": "https://www.apple.com/hk/en/retail/cantonroad/images/hero_medium.jpg",
+		"country": "Hong Kong",
+		"region": "Tsim Sha Tsui",
+		"address": "100 Canton Road",
+		"lat": 22.299129,
+		"lng": 114.1687871
+	},
+	{
+		"city": "Hong Kong",
+		"name": "Apple apm Hong Kong",
+		"img": "https://www.apple.com/hk/en/retail/apmhongkong/images/hero_medium.jpg",
+		"country": "Hong Kong",
+		"region": "Kwun Tong",
+		"address": "418 Kwun Tong Road",
+		"lat": 22.3119582,
+		"lng": 114.2249443
+	},
+	{
+		"city": "Zaragoza",
+		"name": "Apple Puerto Venecia",
+		"img": "https://www.apple.com/es/retail/puertovenecia/images/hero_medium.jpg",
+		"country": "España",
+		"region": "Zaragoza",
+		"address": "Puerto Venecia Shopping Resort, The Gallery",
+		"lat": 41.609159,
+		"lng": -0.8859442
+	},
+	{
+		"city": "Valencia",
+		"name": "Apple Calle Colón",
+		"img": "https://www.apple.com/es/retail/callecolon/images/hero_medium.jpg",
+		"country": "España",
+		"region": "Valencia",
+		"address": "Calle Colón, 25",
+		"lat": 39.469065,
+		"lng": -0.372329
 	},
 	{
 		"city": "Marbella",
@@ -313,23 +383,9 @@
 		"img": "https://www.apple.com/es/retail/lacanada/images/hero_medium.jpg",
 		"country": "España",
 		"region": "Málaga",
-		"address": "Parque Comercial La Cañada"
-	},
-	{
-		"city": "Madrid",
-		"name": "Apple Puerta del Sol",
-		"img": "https://www.apple.com/es/retail/puertadelsol/images/hero_medium.jpg",
-		"country": "España",
-		"region": "Madrid",
-		"address": "Plaza de la Puerta del Sol, 1"
-	},
-	{
-		"city": "Leganés",
-		"name": "Apple Parquesur",
-		"img": "https://www.apple.com/es/retail/parquesur/images/hero_medium.jpg",
-		"country": "España",
-		"region": "Madrid",
-		"address": "Centro Comercial Parquesur"
+		"address": "Parque Comercial La Cañada",
+		"lat": 44.055805,
+		"lng": -79.485173
 	},
 	{
 		"city": "Majadahonda",
@@ -337,37 +393,28 @@
 		"img": "https://www.apple.com/es/retail/granplaza2/images/hero_medium.jpg",
 		"country": "España",
 		"region": "Madrid",
-		"address": "Centro Comercial Gran Plaza 2"
+		"address": "Centro Comercial Gran Plaza 2",
+		"lat": 40.4910872,
+		"lng": -3.8988559
 	},
 	{
-		"country": "澳門",
-		"address": "路氹城",
-		"name": "Apple 澳門銀河",
-		"img": "https://www.apple.com/mo/retail/galaxymacau/images/hero_medium.jpg",
-		"city": "澳門"
-	},
-	{
-		"country": "España",
-		"address": "Centro Comercial Nueva Condomina",
-		"name": "Apple Nueva Condomina",
-		"img": "https://www.apple.com/es/retail/nuevacondomina/images/hero_medium.jpg",
-		"city": "Murcia"
-	},
-	{
-		"city": "Barcelona",
-		"name": "Apple La Maquinista",
-		"img": "https://www.apple.com/es/retail/lamaquinista/images/hero_medium.jpg",
-		"country": "España",
-		"region": "Barcelona",
-		"address": "Centro comercial La Maquinista"
-	},
-	{
-		"city": "Arroyomolinos",
-		"name": "Apple Xanadú",
-		"img": "https://www.apple.com/es/retail/xanadu/images/hero_medium.jpg",
+		"city": "Leganés",
+		"name": "Apple Parquesur",
+		"img": "https://www.apple.com/es/retail/parquesur/images/hero_medium.jpg",
 		"country": "España",
 		"region": "Madrid",
-		"address": "Centro comercial de Ocio Madrid Xanadú"
+		"address": "Centro Comercial Parquesur",
+		"lat": 40.340501,
+		"lng": -3.731827
+	},
+	{
+		"city": "Murcia",
+		"name": "Apple Nueva Condomina",
+		"img": "https://www.apple.com/es/retail/nuevacondomina/images/hero_medium.jpg",
+		"country": "España",
+		"address": "Centro Comercial Nueva Condomina",
+		"lat": 38.0391837,
+		"lng": -1.1487934
 	},
 	{
 		"city": "Barcelona",
@@ -375,56 +422,29 @@
 		"img": "https://www.apple.com/es/retail/passeigdegracia/images/hero_medium.jpg",
 		"country": "España",
 		"region": "Barcelona",
-		"address": "Passeig de Gràcia, 1"
+		"address": "Passeig de Gràcia, 1",
+		"lat": 41.387953,
+		"lng": 2.169367
 	},
 	{
-		"country": "Nederland",
-		"address": "Passage 39",
-		"name": "Apple Den Haag",
-		"img": "https://www.apple.com/nl/retail/denhaag/images/hero_medium.jpg",
-		"city": "Den Haag"
+		"city": "Barcelona",
+		"name": "Apple La Maquinista",
+		"img": "https://www.apple.com/es/retail/lamaquinista/images/hero_medium.jpg",
+		"country": "España",
+		"region": "Barcelona",
+		"address": "Centro comercial La Maquinista",
+		"lat": 41.4395604,
+		"lng": 2.1986537
 	},
 	{
-		"country": "Nederland",
-		"address": "Hirschgebouw, Leidseplein 25",
-		"name": "Apple Amsterdam",
-		"img": "https://www.apple.com/nl/retail/amsterdam/images/hero_medium.jpg",
-		"city": "Amsterdam"
-	},
-	{
-		"country": "Nederland",
-		"address": "Grote Houtstraat 99",
-		"name": "Apple Haarlem",
-		"img": "https://www.apple.com/nl/retail/haarlem/images/hero_medium.jpg",
-		"city": "Haarlem"
-	},
-	{
-		"country": "France",
-		"address": "2 Avenue de l’Europe",
-		"name": "Apple Vélizy 2",
-		"img": "https://www.apple.com/fr/retail/velizy2/images/hero_medium.jpg",
-		"city": "Vélizy-Villacoublay"
-	},
-	{
-		"country": "France",
-		"address": "L’Aubette",
-		"name": "Apple Strasbourg",
-		"img": "https://www.apple.com/fr/retail/strasbourg/images/hero_medium.jpg",
-		"city": "Strasbourg"
-	},
-	{
-		"country": "France",
-		"address": "Galerie Atlantis Le Centre",
-		"name": "Apple Atlantis",
-		"img": "https://www.apple.com/fr/retail/atlantis/images/hero_medium.jpg",
-		"city": "Saint Herblain"
-	},
-	{
-		"country": "France",
-		"address": "Centre Commercial Rosny 2",
-		"name": "Apple Rosny 2",
-		"img": "https://www.apple.com/fr/retail/rosny2/images/hero_medium.jpg",
-		"city": "Rosny-Sous-Bois"
+		"city": "Arroyomolinos",
+		"name": "Apple Xanadú",
+		"img": "https://www.apple.com/es/retail/xanadu/images/hero_medium.jpg",
+		"country": "España",
+		"region": "Madrid",
+		"address": "Centro comercial de Ocio Madrid Xanadú",
+		"lat": 40.29905710000001,
+		"lng": -3.9265886
 	},
 	{
 		"city": "Arroyo de la Encomienda",
@@ -432,276 +452,454 @@
 		"img": "https://www.apple.com/es/retail/rioshopping/images/hero_medium.jpg",
 		"country": "España",
 		"region": "Valladolid",
-		"address": "Centro Comercial Río Shopping"
+		"address": "Centro Comercial Río Shopping",
+		"lat": 41.6283909,
+		"lng": -4.7853085
 	},
 	{
+		"city": "Madrid",
+		"name": "Apple Puerta del Sol",
+		"img": "https://www.apple.com/es/retail/puertadelsol/images/hero_medium.jpg",
+		"country": "España",
+		"region": "Madrid",
+		"address": "Plaza de la Puerta del Sol, 1",
+		"lat": 40.41689830000001,
+		"lng": -3.7020653
+	},
+	{
+		"city": "Den Haag",
+		"name": "Apple Den Haag",
+		"img": "https://www.apple.com/nl/retail/denhaag/images/hero_medium.jpg",
+		"country": "Nederland",
+		"address": "Passage 39",
+		"lat": 52.0779605,
+		"lng": 4.3113476
+	},
+	{
+		"city": "Amsterdam",
+		"name": "Apple Amsterdam",
+		"img": "https://www.apple.com/nl/retail/amsterdam/images/hero_medium.jpg",
+		"country": "Nederland",
+		"address": "Hirschgebouw, Leidseplein 25",
+		"lat": 52.3635453,
+		"lng": 4.8824664
+	},
+	{
+		"city": "Vélizy-Villacoublay",
+		"name": "Apple Vélizy 2",
+		"img": "https://www.apple.com/fr/retail/velizy2/images/hero_medium.jpg",
 		"country": "France",
-		"address": "Centre commercial Les Quatre Temps",
+		"address": "2 Avenue de l’Europe",
+		"lat": 48.780402,
+		"lng": 2.219799
+	},
+	{
+		"city": "Strasbourg",
+		"name": "Apple Strasbourg",
+		"img": "https://www.apple.com/fr/retail/strasbourg/images/hero_medium.jpg",
+		"country": "France",
+		"address": "L’Aubette",
+		"lat": 48.583813,
+		"lng": 7.745419999999999
+	},
+	{
+		"city": "Saint Herblain",
+		"name": "Apple Atlantis",
+		"img": "https://www.apple.com/fr/retail/atlantis/images/hero_medium.jpg",
+		"country": "France",
+		"address": "Galerie Atlantis Le Centre",
+		"lat": 47.225372,
+		"lng": -1.630622
+	},
+	{
+		"city": "Rosny-Sous-Bois",
+		"name": "Apple Rosny 2",
+		"img": "https://www.apple.com/fr/retail/rosny2/images/hero_medium.jpg",
+		"country": "France",
+		"address": "Centre Commercial Rosny 2",
+		"lat": 48.88373060000001,
+		"lng": 2.4780224
+	},
+	{
+		"city": "Haarlem",
+		"name": "Apple Haarlem",
+		"img": "https://www.apple.com/nl/retail/haarlem/images/hero_medium.jpg",
+		"country": "Nederland",
+		"address": "Grote Houtstraat 99",
+		"lat": 52.37843300000001,
+		"lng": 4.6329655
+	},
+	{
+		"city": "Puteaux - la Défense",
 		"name": "Apple Les Quatre Temps",
 		"img": "https://www.apple.com/fr/retail/lesquatretemps/images/hero_medium.jpg",
-		"city": "Puteaux - la Défense"
+		"country": "France",
+		"address": "Centre commercial Les Quatre Temps",
+		"lat": 48.8899999,
+		"lng": 2.23703
 	},
 	{
-		"country": "France",
-		"address": "9 rue Clément",
-		"name": "Apple Marché Saint-Germain",
-		"img": "https://www.apple.com/fr/retail/marchesaintgermain/images/hero_medium.jpg",
-		"city": "Paris"
+		"city": "澳門",
+		"name": "Apple 澳門銀河",
+		"img": "https://www.apple.com/mo/retail/galaxymacau/images/hero_medium.jpg",
+		"country": "澳門",
+		"address": "路氹城",
+		"lat": 22.1503994,
+		"lng": 113.5520643
 	},
 	{
-		"country": "France",
-		"address": "99 rue de Rivoli",
-		"name": "Apple Carrousel du Louvre",
-		"img": "https://www.apple.com/fr/retail/carrouseldulouvre/images/hero_medium.jpg",
-		"city": "Paris"
-	},
-	{
-		"country": "France",
-		"address": "12 rue Halévy",
+		"city": "Paris",
 		"name": "Apple Opéra",
 		"img": "https://www.apple.com/fr/retail/opera/images/hero_medium.jpg",
-		"city": "Paris"
+		"country": "France",
+		"address": "12 rue Halévy",
+		"lat": 48.872315,
+		"lng": 2.33332
 	},
 	{
+		"city": "Paris",
+		"name": "Apple Marché Saint-Germain",
+		"img": "https://www.apple.com/fr/retail/marchesaintgermain/images/hero_medium.jpg",
 		"country": "France",
-		"address": "Centre Commercial Val d’Europe",
-		"name": "Apple Val d’Europe",
-		"img": "https://www.apple.com/fr/retail/valdeurope/images/hero_medium.jpg",
-		"city": "Marne-la-Vallée"
+		"address": "9 rue Clément",
+		"lat": 48.852099,
+		"lng": 2.3359975
 	},
 	{
+		"city": "Paris",
+		"name": "Apple Carrousel du Louvre",
+		"img": "https://www.apple.com/fr/retail/carrouseldulouvre/images/hero_medium.jpg",
 		"country": "France",
-		"address": "Avenue Eugène Donadeï",
+		"address": "99 rue de Rivoli",
+		"lat": 48.8627862,
+		"lng": 2.334415
+	},
+	{
+		"city": "Nice",
 		"name": "Apple CAP 3000",
 		"img": "https://www.apple.com/fr/retail/cap3000/images/hero_medium.jpg",
-		"city": "Nice"
+		"country": "France",
+		"address": "Avenue Eugène Donadeï",
+		"lat": 43.658902,
+		"lng": 7.197018
 	},
 	{
-		"country": "France",
-		"address": "Les Terrasses du Port",
-		"name": "Apple Marseille",
-		"img": "https://www.apple.com/fr/retail/marseille/images/hero_medium.jpg",
-		"city": "Marseille"
-	},
-	{
-		"country": "France",
-		"address": "Centre Commercial Odysseum",
+		"city": "Montpellier",
 		"name": "Apple Odysseum",
 		"img": "https://www.apple.com/fr/retail/odysseum/images/hero_medium.jpg",
-		"city": "Montpellier"
+		"country": "France",
+		"address": "Centre Commercial Odysseum",
+		"lat": 43.603846,
+		"lng": 3.920935
 	},
 	{
+		"city": "Marseille",
+		"name": "Apple Marseille",
+		"img": "https://www.apple.com/fr/retail/marseille/images/hero_medium.jpg",
 		"country": "France",
-		"address": "Centre Commercial Confluence",
-		"name": "Apple Confluence",
-		"img": "https://www.apple.com/fr/retail/confluence/images/hero_medium.jpg",
-		"city": "Lyon"
+		"address": "Les Terrasses du Port",
+		"lat": 43.30666950000001,
+		"lng": 5.3635094
 	},
 	{
+		"city": "Marne-la-Vallée",
+		"name": "Apple Val d’Europe",
+		"img": "https://www.apple.com/fr/retail/valdeurope/images/hero_medium.jpg",
 		"country": "France",
-		"address": "Centre commercial La Part-Dieu",
+		"address": "Centre Commercial Val d’Europe",
+		"lat": 48.8554918,
+		"lng": 2.7825183
+	},
+	{
+		"city": "Lyon",
 		"name": "Apple Part-Dieu",
 		"img": "https://www.apple.com/fr/retail/part-dieu/images/hero_medium.jpg",
-		"city": "Lyon"
+		"country": "France",
+		"address": "Centre commercial La Part-Dieu",
+		"lat": 45.7612816,
+		"lng": 4.8554758
 	},
 	{
+		"city": "Lyon",
+		"name": "Apple Confluence",
+		"img": "https://www.apple.com/fr/retail/confluence/images/hero_medium.jpg",
 		"country": "France",
-		"address": "1 rue Faidherbe",
+		"address": "Centre Commercial Confluence",
+		"lat": 40.7155589,
+		"lng": -73.9598644
+	},
+	{
+		"city": "Lille",
 		"name": "Apple Lille",
 		"img": "https://www.apple.com/fr/retail/lille/images/hero_medium.jpg",
-		"city": "Lille"
+		"country": "France",
+		"address": "1 rue Faidherbe",
+		"lat": 50.6372355,
+		"lng": 3.0656971
 	},
 	{
-		"country": "France",
-		"address": "Centre commercial régional",
+		"city": "Lieusaint",
 		"name": "Apple Carré Sénart",
 		"img": "https://www.apple.com/fr/retail/carresenart/images/hero_medium.jpg",
-		"city": "Lieusaint"
+		"country": "France",
+		"address": "Centre commercial régional",
+		"lat": 48.6143101,
+		"lng": 2.546669000000001
 	},
 	{
-		"country": "France",
-		"address": "Centre commercial régional Parly 2",
+		"city": "Le Chesnay",
 		"name": "Apple Parly 2",
 		"img": "https://www.apple.com/fr/retail/parly2/images/hero_medium.jpg",
-		"city": "Le Chesnay"
+		"country": "France",
+		"address": "Centre commercial régional Parly 2",
+		"lat": 48.8267338,
+		"lng": 2.1168124
 	},
 	{
-		"country": "France",
-		"address": "Centre Commercial de la Toison d’Or",
+		"city": "Dijon",
 		"name": "Apple La Toison d’Or",
 		"img": "https://www.apple.com/fr/retail/latoisondor/images/hero_medium.jpg",
-		"city": "Dijon"
+		"country": "France",
+		"address": "Centre Commercial de la Toison d’Or",
+		"lat": 47.356723,
+		"lng": 5.050998
 	},
 	{
-		"country": "France",
-		"address": "2 Place du Général de Gaulle",
-		"name": "Apple Aix-en-Provence",
-		"img": "https://www.apple.com/fr/retail/aix-en-provence/images/hero_medium.jpg",
-		"city": "Aix-en-Provence"
-	},
-	{
-		"country": "France",
-		"address": "2-4 rue Sainte-Catherine",
+		"city": "Bordeaux",
 		"name": "Apple Sainte-Catherine",
 		"img": "https://www.apple.com/fr/retail/sainte-catherine/images/hero_medium.jpg",
-		"city": "Bordeaux"
+		"country": "France",
+		"address": "2-4 rue Sainte-Catherine",
+		"lat": 45.497642,
+		"lng": -73.575745
 	},
 	{
-		"country": "Deutschland",
-		"address": "CentrO Oberhausen",
-		"name": "Apple CentrO",
-		"img": "https://www.apple.com/de/retail/centro/images/hero_medium.jpg",
-		"city": "Oberhausen"
+		"city": "Aix-en-Provence",
+		"name": "Apple Aix-en-Provence",
+		"img": "https://www.apple.com/fr/retail/aix-en-provence/images/hero_medium.jpg",
+		"country": "France",
+		"address": "2 Place du Général de Gaulle",
+		"lat": 43.52571690000001,
+		"lng": 5.4455602
 	},
 	{
-		"country": "Deutschland",
-		"address": "Main-Taunus-Zentrum",
+		"city": "Sulzbach",
 		"name": "Apple MTZ",
 		"img": "https://www.apple.com/de/retail/mtz/images/hero_medium.jpg",
-		"city": "Sulzbach"
+		"country": "Deutschland",
+		"address": "Main-Taunus-Zentrum",
+		"lat": 50.1187107,
+		"lng": 8.5285108
 	},
 	{
-		"country": "Deutschland",
-		"address": "Breuningerland Sindelfingen",
+		"city": "Sindelfingen",
 		"name": "Apple Sindelfingen",
 		"img": "https://www.apple.com/de/retail/sindelfingen/images/hero_medium.jpg",
-		"city": "Sindelfingen"
+		"country": "Deutschland",
+		"address": "Breuningerland Sindelfingen",
+		"lat": 48.7042286,
+		"lng": 9.0318423
 	},
 	{
+		"city": "Oberhausen",
+		"name": "Apple CentrO",
+		"img": "https://www.apple.com/de/retail/centro/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Olympia-Einkaufszentrum",
-		"name": "Apple OEZ",
-		"img": "https://www.apple.com/de/retail/oez/images/hero_medium.jpg",
-		"city": "München"
+		"address": "CentrO Oberhausen",
+		"lat": 51.48937780000001,
+		"lng": 6.8766922
 	},
 	{
-		"country": "Deutschland",
-		"address": "Bahnhofstraße 5",
-		"name": "Apple Hannover",
-		"img": "https://www.apple.com/de/retail/hannover/images/hero_medium.jpg",
-		"city": "Hannover"
-	},
-	{
-		"country": "Deutschland",
-		"address": "Jungfernstieg 12",
-		"name": "Apple Jungfernstieg",
-		"img": "https://www.apple.com/de/retail/jungfernstieg/images/hero_medium.jpg",
-		"city": "Hamburg"
-	},
-	{
-		"country": "Deutschland",
-		"address": "Rosenstraße 1",
+		"city": "München",
 		"name": "Apple Rosenstraße",
 		"img": "https://www.apple.com/de/retail/rosenstrasse/images/hero_medium.jpg",
-		"city": "München"
+		"country": "Deutschland",
+		"address": "Rosenstraße 1",
+		"lat": 48.136843,
+		"lng": 11.574534
 	},
 	{
+		"city": "München",
+		"name": "Apple OEZ",
+		"img": "https://www.apple.com/de/retail/oez/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Kö-Bogen",
-		"name": "Apple Düsseldorf",
-		"img": "https://www.apple.com/de/retail/duesseldorf/images/hero_medium.jpg",
-		"city": "Düsseldorf"
+		"address": "Olympia-Einkaufszentrum",
+		"lat": 48.1830587,
+		"lng": 11.5330604
 	},
 	{
+		"city": "Hannover",
+		"name": "Apple Hannover",
+		"img": "https://www.apple.com/de/retail/hannover/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Altmarkt 25",
-		"name": "Apple Altmarkt-Galerie",
-		"img": "https://www.apple.com/de/retail/altmarkt-galerie/images/hero_medium.jpg",
-		"city": "Dresden"
+		"address": "Bahnhofstraße 5",
+		"lat": 52.3750228,
+		"lng": 9.7395623
 	},
 	{
+		"city": "Hamburg",
+		"name": "Apple Jungfernstieg",
+		"img": "https://www.apple.com/de/retail/jungfernstieg/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Große Bockenheimer Straße 30",
-		"name": "Apple Große Bockenheimer Straße",
-		"img": "https://www.apple.com/de/retail/grossebockenheimerstrasse/images/hero_medium.jpg",
-		"city": "Frankfurt"
+		"address": "Jungfernstieg 12",
+		"lat": 53.5526724,
+		"lng": 9.992582299999999
 	},
 	{
-		"country": "Deutschland",
-		"address": "Alstertal-Einkaufszentrum",
+		"city": "Hamburg",
 		"name": "Apple Alstertal",
 		"img": "https://www.apple.com/de/retail/alstertal/images/hero_medium.jpg",
-		"city": "Hamburg"
+		"country": "Deutschland",
+		"address": "Alstertal-Einkaufszentrum",
+		"lat": 53.654137,
+		"lng": 10.091859
 	},
 	{
+		"city": "Frankfurt",
+		"name": "Apple Große Bockenheimer Straße",
+		"img": "https://www.apple.com/de/retail/grossebockenheimerstrasse/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Rhein Center Köln-Weiden",
-		"name": "Apple Rhein Center",
-		"img": "https://www.apple.com/de/retail/rheincenter/images/hero_medium.jpg",
-		"city": "Köln"
+		"address": "Große Bockenheimer Straße 30",
+		"lat": 50.1147374,
+		"lng": 8.6749633
 	},
 	{
+		"city": "Düsseldorf",
+		"name": "Apple Düsseldorf",
+		"img": "https://www.apple.com/de/retail/duesseldorf/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "Schildergasse 1-9",
+		"address": "Kö-Bogen",
+		"lat": 51.2268829,
+		"lng": 6.7808926
+	},
+	{
+		"city": "Dresden",
+		"name": "Apple Altmarkt-Galerie",
+		"img": "https://www.apple.com/de/retail/altmarkt-galerie/images/hero_medium.jpg",
+		"country": "Deutschland",
+		"address": "Altmarkt 25",
+		"lat": 51.0499898,
+		"lng": 13.7357733
+	},
+	{
+		"city": "Köln",
 		"name": "Apple Schildergasse",
 		"img": "https://www.apple.com/de/retail/schildergasse/images/hero_medium.jpg",
-		"city": "Köln"
+		"country": "Deutschland",
+		"address": "Schildergasse 1-9",
+		"lat": 50.9369028,
+		"lng": 6.956115
 	},
 	{
+		"city": "Köln",
+		"name": "Apple Rhein Center",
+		"img": "https://www.apple.com/de/retail/rheincenter/images/hero_medium.jpg",
 		"country": "Deutschland",
-		"address": "City-Galerie Augsburg",
-		"name": "Apple City-Galerie",
-		"img": "https://www.apple.com/de/retail/city-galerie/images/hero_medium.jpg",
-		"city": "Augsburg"
+		"address": "Rhein Center Köln-Weiden",
+		"lat": 50.9374663,
+		"lng": 6.8342994
 	},
 	{
-		"country": "Deutschland",
-		"address": "Kurfürstendamm 26",
+		"city": "Berlin",
 		"name": "Apple Kurfürstendamm",
 		"img": "https://www.apple.com/de/retail/kurfuerstendamm/images/hero_medium.jpg",
-		"city": "Berlin"
+		"country": "Deutschland",
+		"address": "Kurfürstendamm 26",
+		"lat": 52.5037315,
+		"lng": 13.3289036
 	},
 	{
-		"country": "Suisse",
-		"address": "Bahnhofstrasse 77",
+		"city": "Augsburg",
+		"name": "Apple City-Galerie",
+		"img": "https://www.apple.com/de/retail/city-galerie/images/hero_medium.jpg",
+		"country": "Deutschland",
+		"address": "City-Galerie Augsburg",
+		"lat": 48.365696,
+		"lng": 10.907881
+	},
+	{
+		"city": "Zurich",
 		"name": "Apple Bahnhofstrasse",
 		"img": "https://www.apple.com/chfr/retail/bahnhofstrasse/images/hero_medium.jpg",
-		"city": "Zurich"
+		"country": "Suisse",
+		"address": "Bahnhofstrasse 77",
+		"lat": 47.3749884,
+		"lng": 8.5384744
 	},
 	{
-		"country": "Suisse",
-		"address": "Einkaufszentrum Glatt",
+		"city": "Wallisellen",
 		"name": "Apple Glattzentrum",
 		"img": "https://www.apple.com/chfr/retail/glattzentrum/images/hero_medium.jpg",
-		"city": "Wallisellen"
+		"country": "Suisse",
+		"address": "Einkaufszentrum Glatt",
+		"lat": 47.4080093,
+		"lng": 8.596012499999999
 	},
 	{
-		"country": "Suisse",
-		"address": "Rue de Rive 4",
+		"city": "Genève",
 		"name": "Apple Rue de Rive",
 		"img": "https://www.apple.com/chfr/retail/ruederive/images/hero_medium.jpg",
-		"city": "Genève"
+		"country": "Suisse",
+		"address": "Rue de Rive 4",
+		"lat": 46.2022301,
+		"lng": 6.1502984
 	},
 	{
-		"country": "Suisse",
-		"address": "Freie Strasse 47",
+		"city": "Bâle",
 		"name": "Apple Freie Strasse",
 		"img": "https://www.apple.com/chfr/retail/freiestrasse/images/hero_medium.jpg",
-		"city": "Bâle"
+		"country": "Suisse",
+		"address": "Freie Strasse 47",
+		"lat": 47.556258,
+		"lng": 7.590187500000001
 	},
 	{
-		"country": "中国",
 		"name": "Apple 天一广场",
 		"img": "https://www.apple.com/cn/retail/tianyisquare/images/hero_medium.jpg",
-		"address": "宁波市海曙区碶闸街 133 号"
+		"country": "中国",
+		"address": "宁波市海曙区碶闸街 133 号",
+		"lat": 32.0427849,
+		"lng": 118.7843993
 	},
 	{
-		"country": "中国",
 		"name": "Apple 西湖",
 		"img": "https://www.apple.com/cn/retail/westlake/images/hero_medium.jpg",
-		"address": "杭州市上城区平海路 100 号"
+		"country": "中国",
+		"address": "杭州市上城区平海路 100 号",
+		"lat": 30.254129,
+		"lng": 120.163602
 	},
 	{
-		"country": "中国",
 		"name": "Apple 杭州万象城",
 		"img": "https://www.apple.com/cn/retail/mixchangzhou/images/hero_medium.jpg",
-		"address": "杭州市江干区富春路 701 号"
+		"country": "中国",
+		"address": "杭州市江干区富春路 701 号",
+		"lat": 30.252011,
+		"lng": 120.21382
 	},
 	{
-		"country": "中国",
 		"name": "Apple 昆明",
 		"img": "https://www.apple.com/cn/retail/kunming/images/hero_medium.jpg",
-		"address": "昆明市五华区东风西路 11 号"
+		"country": "中国",
+		"address": "昆明市五华区东风西路 11 号",
+		"lat": 25.045983,
+		"lng": 102.697454
+	},
+	{
+		"name": "Apple 天津大悦城",
+		"img": "https://www.apple.com/cn/retail/tianjinjoycity/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "天津市南开区南门外大街 2 号",
+		"lat": 39.1350492,
+		"lng": 117.1809437
+	},
+	{
+		"name": "Apple 天津恒隆广场",
+		"img": "https://www.apple.com/cn/retail/riverside66tianjin/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "天津市和平区兴安路 166 号",
+		"lat": 39.1270264,
+		"lng": 117.2003979
 	},
 	{
 		"country": "中国",
@@ -711,45 +909,65 @@
 	},
 	{
 		"country": "中国",
-		"name": "Apple 天津大悦城",
-		"img": "https://www.apple.com/cn/retail/tianjinjoycity/images/hero_medium.jpg",
-		"address": "天津市南开区南门外大街 2 号"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 成都太古里",
 		"img": "https://www.apple.com/cn/retail/taikoolichengdu/images/hero_medium.jpg",
 		"address": "成都市锦江区中纱帽街 8 号"
 	},
 	{
-		"country": "中国",
-		"name": "Apple 天津恒隆广场",
-		"img": "https://www.apple.com/cn/retail/riverside66tianjin/images/hero_medium.jpg",
-		"address": "天津市和平区兴安路 166 号"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 成都万象城",
 		"img": "https://www.apple.com/cn/retail/mixcchengdu/images/hero_medium.jpg",
-		"address": "成都市成华区双庆路 8 号万象城"
+		"country": "中国",
+		"address": "成都市成华区双庆路 8 号万象城",
+		"lat": 30.664572,
+		"lng": 104.009954
 	},
 	{
-		"country": "中国",
-		"name": "Apple 上海环贸 iapm",
-		"img": "https://www.apple.com/cn/retail/shanghaiiapm/images/hero_medium.jpg",
-		"address": "上海市徐汇区淮海中路 999 号"
-	},
-	{
-		"country": "中国",
-		"name": "Apple 七宝",
-		"img": "https://www.apple.com/cn/retail/qibao/images/hero_medium.jpg",
-		"address": "上海市闵行区漕宝路 3366 号"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 五角场",
 		"img": "https://www.apple.com/cn/retail/wujiaochang/images/hero_medium.jpg",
-		"address": "上海市杨浦区翔殷路 1099 号"
+		"country": "中国",
+		"address": "上海市杨浦区翔殷路 1099 号",
+		"lat": 31.2913286,
+		"lng": 121.5185093
+	},
+	{
+		"name": "Apple 上海环贸 iapm",
+		"img": "https://www.apple.com/cn/retail/shanghaiiapm/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "上海市徐汇区淮海中路 999 号",
+		"lat": 31.237346,
+		"lng": 121.501405
+	},
+	{
+		"name": "Apple 七宝",
+		"img": "https://www.apple.com/cn/retail/qibao/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "上海市闵行区漕宝路 3366 号",
+		"lat": 31.1917271,
+		"lng": 121.3849612
+	},
+	{
+		"name": "Apple 浦东",
+		"img": "https://www.apple.com/cn/retail/pudong/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "上海市浦东新区陆家嘴世纪大道 8 号",
+		"lat": 31.237346,
+		"lng": 121.501405
+	},
+	{
+		"name": "Apple 南京东路",
+		"img": "https://www.apple.com/cn/retail/nanjingeast/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "上海市黄浦区南京东路 300 号",
+		"lat": 31.2348395,
+		"lng": 121.4761405
+	},
+	{
+		"name": "Apple 香港广场",
+		"img": "https://www.apple.com/cn/retail/hongkongplaza/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "上海市黄浦区淮海中路 282 号",
+		"lat": 22.2797509,
+		"lng": 114.183808
 	},
 	{
 		"country": "中国",
@@ -758,52 +976,36 @@
 		"address": "上海市普陀区中山北路 3300 号"
 	},
 	{
-		"country": "中国",
-		"name": "Apple 南京东路",
-		"img": "https://www.apple.com/cn/retail/nanjingeast/images/hero_medium.jpg",
-		"address": "上海市黄浦区南京东路 300 号"
-	},
-	{
-		"country": "中国",
-		"name": "Apple 香港广场",
-		"img": "https://www.apple.com/cn/retail/hongkongplaza/images/hero_medium.jpg",
-		"address": "上海市黄浦区淮海中路 282 号"
-	},
-	{
-		"country": "中国",
-		"name": "Apple 浦东",
-		"img": "https://www.apple.com/cn/retail/pudong/images/hero_medium.jpg",
-		"address": "上海市浦东新区陆家嘴世纪大道 8 号"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 青岛万象城",
 		"img": "https://www.apple.com/cn/retail/mixcqingdao/images/hero_medium.jpg",
-		"address": "青岛市市南区山东路 6A 号"
+		"country": "中国",
+		"address": "青岛市市南区山东路 6A 号",
+		"lat": 36.255437,
+		"lng": 120.417648
 	},
 	{
-		"country": "中国",
-		"name": "Apple 中街大悦城",
-		"img": "https://www.apple.com/cn/retail/zhongjiejoycity/images/hero_medium.jpg",
-		"address": "沈阳市大东区小东路 5 号"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 济南恒隆广场",
 		"img": "https://www.apple.com/cn/retail/parc66jinan/images/hero_medium.jpg",
-		"address": "济南市历下区泉城路 188 号"
+		"country": "中国",
+		"address": "济南市历下区泉城路 188 号",
+		"lat": 36.664537,
+		"lng": 117.023878
 	},
 	{
+		"name": "Apple 中街大悦城",
+		"img": "https://www.apple.com/cn/retail/zhongjiejoycity/images/hero_medium.jpg",
 		"country": "中国",
+		"address": "沈阳市大东区小东路 5 号",
+		"lat": 41.801988,
+		"lng": 123.467384
+	},
+	{
 		"name": "Apple 沈阳万象城",
 		"img": "https://www.apple.com/cn/retail/mixcshenyang/images/hero_medium.jpg",
-		"address": "沈阳市和平区青年大街 288 号"
-	},
-	{
 		"country": "中国",
-		"name": "Apple 无锡恒隆广场",
-		"img": "https://www.apple.com/cn/retail/center66wuxi/images/hero_medium.jpg",
-		"address": "无锡市梁溪区"
+		"address": "沈阳市和平区青年大街 288 号",
+		"lat": 41.801988,
+		"lng": 123.467384
 	},
 	{
 		"country": "中国",
@@ -812,22 +1014,28 @@
 		"address": "大连市中山区解放路 19 号"
 	},
 	{
-		"country": "中国",
 		"name": "Apple 大连恒隆广场",
 		"img": "https://www.apple.com/cn/retail/olympia66dalian/images/hero_medium.jpg",
-		"address": "大连市西岗区五四路 66 号"
+		"country": "中国",
+		"address": "大连市西岗区五四路 66 号",
+		"lat": 38.919819,
+		"lng": 121.637049
 	},
 	{
+		"name": "Apple 无锡恒隆广场",
+		"img": "https://www.apple.com/cn/retail/center66wuxi/images/hero_medium.jpg",
 		"country": "中国",
+		"address": "无锡市梁溪区",
+		"lat": 31.574751,
+		"lng": 120.296828
+	},
+	{
 		"name": "Apple 虹悦城",
 		"img": "https://www.apple.com/cn/retail/wondercity/images/hero_medium.jpg",
-		"address": "南京市雨花台区应天大街 619 号"
-	},
-	{
 		"country": "中国",
-		"name": "Apple 南京艾尚天地",
-		"img": "https://www.apple.com/cn/retail/nanjingist/images/hero_medium.jpg",
-		"address": "南京市玄武区中山路 100 号"
+		"address": "南京市雨花台区应天大街 619 号",
+		"lat": 32.009451,
+		"lng": 118.766134
 	},
 	{
 		"country": "中国",
@@ -836,22 +1044,36 @@
 		"address": "南京市鼓楼区中央路 201 号"
 	},
 	{
+		"name": "Apple 南京艾尚天地",
+		"img": "https://www.apple.com/cn/retail/nanjingist/images/hero_medium.jpg",
 		"country": "中国",
+		"address": "南京市玄武区中山路 100 号",
+		"lat": 32.0427849,
+		"lng": 118.7843993
+	},
+	{
 		"name": "Apple 郑州万象城",
 		"img": "https://www.apple.com/cn/retail/mixczhengzhou/images/hero_medium.jpg",
-		"address": "郑州市二七区民主路 10 号"
+		"country": "中国",
+		"address": "郑州市二七区民主路 10 号",
+		"lat": 34.75443,
+		"lng": 113.662952
 	},
 	{
-		"country": "中国",
-		"name": "Apple 深圳益田假日广场",
-		"img": "https://www.apple.com/cn/retail/holidayplazashenzhen/images/hero_medium.jpg",
-		"address": "深圳市南山区深南大道 9028 号益田假日广场"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 南宁万象城",
 		"img": "https://www.apple.com/cn/retail/mixcnanning/images/hero_medium.jpg",
-		"address": "南宁市青秀区民族大道 136 号"
+		"country": "中国",
+		"address": "南宁市青秀区民族大道 136 号",
+		"lat": 22.81616,
+		"lng": 108.320289
+	},
+	{
+		"name": "Apple 深圳益田假日广场",
+		"img": "https://www.apple.com/cn/retail/holidayplazashenzhen/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "深圳市南山区深南大道 9028 号益田假日广场",
+		"lat": 22.536814,
+		"lng": 113.975931
 	},
 	{
 		"country": "中国",
@@ -866,28 +1088,12 @@
 		"address": "广州市天河区天河路 218 号"
 	},
 	{
-		"country": "中国",
 		"name": "Apple 厦门新生活广场",
 		"img": "https://www.apple.com/cn/retail/xiamenlifestylecenter/images/hero_medium.jpg",
-		"address": "厦门市思明区嘉禾路 399 号"
-	},
-	{
 		"country": "中国",
-		"name": "Apple 解放碑",
-		"img": "https://www.apple.com/cn/retail/jiefangbei/images/hero_medium.jpg",
-		"address": "重庆市渝中区邹容路 108 号"
-	},
-	{
-		"country": "中国",
-		"name": "Apple 西单大悦城",
-		"img": "https://www.apple.com/cn/retail/xidanjoycity/images/hero_medium.jpg",
-		"address": "北京市西城区西单北大街 131 号大悦城"
-	},
-	{
-		"country": "中国",
-		"name": "Apple 重庆万象城",
-		"img": "https://www.apple.com/cn/retail/mixcchongqing/images/hero_medium.jpg",
-		"address": "重庆市九龙坡区谢家湾正街 55 号"
+		"address": "厦门市思明区嘉禾路 399 号",
+		"lat": 24.499313,
+		"lng": 118.125519
 	},
 	{
 		"country": "中国",
@@ -896,49 +1102,69 @@
 		"address": "福州市晋安区竹屿路 6 号"
 	},
 	{
-		"country": "中国",
 		"name": "Apple 重庆北城天街",
 		"img": "https://www.apple.com/cn/retail/paradisewalkchongqing/images/hero_medium.jpg",
-		"address": "重庆市江北区北城天街 8 号"
+		"country": "中国",
+		"address": "重庆市江北区北城天街 8 号",
+		"lat": 29.577867,
+		"lng": 106.533561
 	},
 	{
+		"name": "Apple 重庆万象城",
+		"img": "https://www.apple.com/cn/retail/mixcchongqing/images/hero_medium.jpg",
 		"country": "中国",
+		"address": "重庆市九龙坡区谢家湾正街 55 号",
+		"lat": 29.516111,
+		"lng": 106.517658
+	},
+	{
+		"name": "Apple 解放碑",
+		"img": "https://www.apple.com/cn/retail/jiefangbei/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "重庆市渝中区邹容路 108 号",
+		"lat": 29.5579662,
+		"lng": 106.5760798
+	},
+	{
+		"name": "Apple 西单大悦城",
+		"img": "https://www.apple.com/cn/retail/xidanjoycity/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "北京市西城区西单北大街 131 号大悦城",
+		"lat": 39.9108162,
+		"lng": 116.3733659
+	},
+	{
 		"name": "Apple 王府井",
 		"img": "https://www.apple.com/cn/retail/wangfujing/images/hero_medium.jpg",
-		"address": "北京市东城区王府井大街 138 号北京 apm"
+		"country": "中国",
+		"address": "北京市东城区王府井大街 138 号北京 apm",
+		"lat": 39.915172,
+		"lng": 116.411692
 	},
 	{
-		"country": "中国",
 		"name": "Apple 三里屯",
 		"img": "https://www.apple.com/cn/retail/sanlitun/images/hero_medium.jpg",
-		"address": "北京市朝阳区三里屯路 19 号院"
+		"country": "中国",
+		"address": "北京市朝阳区三里屯路 19 号院",
+		"lat": 39.9350343,
+		"lng": 116.4540841
 	},
 	{
-		"country": "中国",
-		"name": "Apple 华贸购物中心",
-		"img": "https://www.apple.com/cn/retail/chinacentralmall/images/hero_medium.jpg",
-		"address": "北京市朝阳区建国路 81 号华贸购物中心"
-	},
-	{
-		"country": "中国",
 		"name": "Apple 朝阳大悦城",
 		"img": "https://www.apple.com/cn/retail/chaoyangjoycity/images/hero_medium.jpg",
-		"address": "北京市朝阳区朝阳北路 101 号"
+		"country": "中国",
+		"address": "北京市朝阳区朝阳北路 101 号",
+		"lat": 39.924659,
+		"lng": 116.517981
 	},
 	{
-		"city": "Lunghezza",
-		"name": "Apple RomaEst",
-		"img": "https://www.apple.com/it/retail/romaest/images/hero_medium.jpg",
-		"country": "Italia",
-		"region": "Roma",
-		"address": "Centro commerciale RomaEst"
-	},
-	{
-		"country": "Italia",
-		"address": "Via Roma, 82",
+		"city": "Torino",
 		"name": "Apple Via Roma",
 		"img": "https://www.apple.com/it/retail/viaroma/images/hero_medium.jpg",
-		"city": "Torino"
+		"country": "Italia",
+		"address": "Via Roma, 82",
+		"lat": 45.06920640000001,
+		"lng": 7.6834314
 	},
 	{
 		"city": "Rozzano",
@@ -946,15 +1172,27 @@
 		"img": "https://www.apple.com/it/retail/fiordaliso/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Milano",
-		"address": "Centro Commerciale Fiordaliso"
+		"address": "Centro Commerciale Fiordaliso",
+		"lat": 45.3921536,
+		"lng": 9.174828300000001
 	},
 	{
-		"city": "Bufalotta",
-		"name": "Apple Porta di Roma",
-		"img": "https://www.apple.com/it/retail/portadiroma/images/hero_medium.jpg",
+		"name": "Apple 华贸购物中心",
+		"img": "https://www.apple.com/cn/retail/chinacentralmall/images/hero_medium.jpg",
+		"country": "中国",
+		"address": "北京市朝阳区建国路 81 号华贸购物中心",
+		"lat": 39.9091,
+		"lng": 116.47926
+	},
+	{
+		"city": "Lunghezza",
+		"name": "Apple RomaEst",
+		"img": "https://www.apple.com/it/retail/romaest/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Roma",
-		"address": "Galleria Porta di Roma"
+		"address": "Centro commerciale RomaEst",
+		"lat": 41.913728,
+		"lng": 12.6610623
 	},
 	{
 		"city": "EUR",
@@ -962,14 +1200,28 @@
 		"img": "https://www.apple.com/it/retail/euroma2/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Roma",
-		"address": "Centro Commerciale Euroma2"
+		"address": "Centro Commerciale Euroma2",
+		"lat": 41.816433,
+		"lng": 12.459793
 	},
 	{
+		"city": "Bufalotta",
+		"name": "Apple Porta di Roma",
+		"img": "https://www.apple.com/it/retail/portadiroma/images/hero_medium.jpg",
 		"country": "Italia",
-		"address": "Centro Commerciale Le Befane",
+		"region": "Roma",
+		"address": "Galleria Porta di Roma",
+		"lat": 41.971393,
+		"lng": 12.540239
+	},
+	{
+		"city": "Rimini",
 		"name": "Apple Le Befane",
 		"img": "https://www.apple.com/it/retail/lebefane/images/hero_medium.jpg",
-		"city": "Rimini"
+		"country": "Italia",
+		"address": "Centro Commerciale Le Befane",
+		"lat": 44.0389821,
+		"lng": 12.5875785
 	},
 	{
 		"city": "Orio al Serio",
@@ -977,7 +1229,9 @@
 		"img": "https://www.apple.com/it/retail/oriocenter/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Bergamo",
-		"address": "Centro commerciale Oriocenter"
+		"address": "Centro commerciale Oriocenter",
+		"lat": 45.664559,
+		"lng": 9.693085
 	},
 	{
 		"city": "Misterbianco",
@@ -985,23 +1239,9 @@
 		"img": "https://www.apple.com/it/retail/centrosicilia/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Catania",
-		"address": "Strada provinciale 54 - Località La Tenutella"
-	},
-	{
-		"city": "Marcianise",
-		"name": "Apple Campania",
-		"img": "https://www.apple.com/it/retail/campania/images/hero_medium.jpg",
-		"country": "Italia",
-		"region": "Caserta",
-		"address": "Centro Commerciale Campania"
-	},
-	{
-		"city": "Grugliasco",
-		"name": "Apple Le Gru",
-		"img": "https://www.apple.com/it/retail/legru/images/hero_medium.jpg",
-		"country": "Italia",
-		"region": "Torino",
-		"address": "Centro commerciale Le Gru"
+		"address": "Strada provinciale 54 - Località La Tenutella",
+		"lat": 37.477801,
+		"lng": 15.008424
 	},
 	{
 		"city": "Mestre",
@@ -1009,7 +1249,19 @@
 		"img": "https://www.apple.com/it/retail/navedevero/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Venezia",
-		"address": "Centro commerciale Nave de Vero"
+		"address": "Centro commerciale Nave de Vero",
+		"lat": 45.4590316,
+		"lng": 12.2126814
+	},
+	{
+		"city": "Marcianise",
+		"name": "Apple Campania",
+		"img": "https://www.apple.com/it/retail/campania/images/hero_medium.jpg",
+		"country": "Italia",
+		"region": "Caserta",
+		"address": "Centro Commerciale Campania",
+		"lat": 41.0029777,
+		"lng": 14.3280379
 	},
 	{
 		"city": "Lonato",
@@ -1017,22 +1269,28 @@
 		"img": "https://www.apple.com/it/retail/illeone/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Brescia",
-		"address": "Il Leone Shopping Center"
+		"address": "Il Leone Shopping Center",
+		"lat": 45.4301724,
+		"lng": 10.5134537
 	},
 	{
+		"city": "Grugliasco",
+		"name": "Apple Le Gru",
+		"img": "https://www.apple.com/it/retail/legru/images/hero_medium.jpg",
 		"country": "Italia",
-		"address": "Piazza della Repubblica",
+		"region": "Torino",
+		"address": "Centro commerciale Le Gru",
+		"lat": 45.0557928,
+		"lng": 7.613055800000001
+	},
+	{
+		"city": "Firenze",
 		"name": "Apple Firenze",
 		"img": "https://www.apple.com/it/retail/firenze/images/hero_medium.jpg",
-		"city": "Firenze"
-	},
-	{
-		"city": "Campi Bisenzio",
-		"name": "Apple I Gigli",
-		"img": "https://www.apple.com/it/retail/igigli/images/hero_medium.jpg",
 		"country": "Italia",
-		"region": "Firenze",
-		"address": "Centro Commerciale I Gigli"
+		"address": "Piazza della Repubblica",
+		"lat": 43.771272,
+		"lng": 11.2534373
 	},
 	{
 		"city": "Carugate",
@@ -1040,22 +1298,28 @@
 		"img": "https://www.apple.com/it/retail/carosello/images/hero_medium.jpg",
 		"country": "Italia",
 		"region": "Milano",
-		"address": "Centro Commerciale Carosello"
+		"address": "Centro Commerciale Carosello",
+		"lat": 45.545613,
+		"lng": 9.327498
 	},
 	{
+		"city": "Campi Bisenzio",
+		"name": "Apple I Gigli",
+		"img": "https://www.apple.com/it/retail/igigli/images/hero_medium.jpg",
 		"country": "Italia",
-		"address": "Via Rizzoli, 16",
+		"region": "Firenze",
+		"address": "Centro Commerciale I Gigli",
+		"lat": 43.8458247,
+		"lng": 11.1421632
+	},
+	{
+		"city": "Bologna",
 		"name": "Apple Via Rizzoli",
 		"img": "https://www.apple.com/it/retail/viarizzoli/images/hero_medium.jpg",
-		"city": "Bologna"
-	},
-	{
-		"city": "Montreal",
-		"name": "Apple Sainte-Catherine",
-		"img": "https://www.apple.com/ca/retail/saintecatherine/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "QC",
-		"address": "1321 Rue Ste-Catherine Ouest"
+		"country": "Italia",
+		"address": "Via Rizzoli, 16",
+		"lat": 44.494765,
+		"lng": 11.344236
 	},
 	{
 		"city": "Quebec City",
@@ -1063,7 +1327,9 @@
 		"img": "https://www.apple.com/ca/retail/placestefoy/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "QC",
-		"address": "2450 Boulevard Laurier"
+		"address": "2450 Boulevard Laurier",
+		"lat": 46.774422,
+		"lng": -71.27951999999999
 	},
 	{
 		"city": "Pointe-Claire",
@@ -1071,15 +1337,19 @@
 		"img": "https://www.apple.com/ca/retail/fairviewpointeclaire/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "QC",
-		"address": "6801, Transcanada Highway"
+		"address": "6801, Transcanada Highway",
+		"lat": 45.4638275,
+		"lng": -73.8318184
 	},
 	{
-		"city": "Brossard",
-		"name": "Apple DIX30",
-		"img": "https://www.apple.com/ca/retail/dix30/images/hero_medium.jpg",
+		"city": "Montreal",
+		"name": "Apple Sainte-Catherine",
+		"img": "https://www.apple.com/ca/retail/saintecatherine/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "QC",
-		"address": "9120 boul. Leduc"
+		"address": "1321 Rue Ste-Catherine Ouest",
+		"lat": 45.497642,
+		"lng": -73.575745
 	},
 	{
 		"city": "Laval",
@@ -1087,7 +1357,19 @@
 		"img": "https://www.apple.com/ca/retail/carrefourlaval/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "QC",
-		"address": "3035, boulevard Le Carrefour, local C14B"
+		"address": "3035, boulevard Le Carrefour, local C14B",
+		"lat": 45.57165819999999,
+		"lng": -73.7520777
+	},
+	{
+		"city": "Brossard",
+		"name": "Apple DIX30",
+		"img": "https://www.apple.com/ca/retail/dix30/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "QC",
+		"address": "9120 boul. Leduc",
+		"lat": 45.4466324,
+		"lng": -73.4385537
 	},
 	{
 		"city": "Waterloo",
@@ -1095,7 +1377,9 @@
 		"img": "https://www.apple.com/ca/retail/conestoga/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "550 King Street North"
+		"address": "550 King Street North",
+		"lat": 43.497689,
+		"lng": -80.52710800000001
 	},
 	{
 		"city": "Toronto",
@@ -1103,7 +1387,9 @@
 		"img": "https://www.apple.com/ca/retail/yorkdale/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "3401 Dufferin Street"
+		"address": "3401 Dufferin Street",
+		"lat": 43.7242414,
+		"lng": -79.45313709999999
 	},
 	{
 		"city": "Toronto",
@@ -1111,7 +1397,9 @@
 		"img": "https://www.apple.com/ca/retail/sherwaygardens/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "25 The West Mall"
+		"address": "25 The West Mall",
+		"lat": 43.6121493,
+		"lng": -79.55630120000001
 	},
 	{
 		"city": "Toronto",
@@ -1119,23 +1407,9 @@
 		"img": "https://www.apple.com/ca/retail/fairview/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "1800 Sheppard Avenue East"
-	},
-	{
-		"city": "Ottawa",
-		"name": "Apple Rideau",
-		"img": "https://www.apple.com/ca/retail/rideau/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "ON",
-		"address": "50 Rideau Street"
-	},
-	{
-		"city": "Ottawa",
-		"name": "Apple Bayshore Shopping Centre",
-		"img": "https://www.apple.com/ca/retail/bayshoreshoppingcentre/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "ON",
-		"address": "100 Bayshore Drive"
+		"address": "1800 Sheppard Avenue East",
+		"lat": 43.777952,
+		"lng": -79.343582
 	},
 	{
 		"city": "Toronto",
@@ -1143,7 +1417,29 @@
 		"img": "https://www.apple.com/ca/retail/eatoncentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "220 Yonge Street"
+		"address": "220 Yonge Street",
+		"lat": 43.652823,
+		"lng": -79.38061499999999
+	},
+	{
+		"city": "Ottawa",
+		"name": "Apple Rideau",
+		"img": "https://www.apple.com/ca/retail/rideau/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "ON",
+		"address": "50 Rideau Street",
+		"lat": 45.425265,
+		"lng": -75.69066529999999
+	},
+	{
+		"city": "Ottawa",
+		"name": "Apple Bayshore Shopping Centre",
+		"img": "https://www.apple.com/ca/retail/bayshoreshoppingcentre/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "ON",
+		"address": "100 Bayshore Drive",
+		"lat": 45.347034,
+		"lng": -75.807789
 	},
 	{
 		"city": "Newmarket",
@@ -1151,15 +1447,9 @@
 		"img": "https://www.apple.com/ca/retail/uppercanadamall/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "17600 Yonge Street"
-	},
-	{
-		"city": "Markham",
-		"name": "Apple Markville Shopping Centre",
-		"img": "https://www.apple.com/ca/retail/markvilleshoppingcentre/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "ON",
-		"address": "5000 Highway 7 East"
+		"address": "17600 Yonge Street",
+		"lat": 44.055805,
+		"lng": -79.485173
 	},
 	{
 		"city": "Mississauga",
@@ -1167,7 +1457,19 @@
 		"img": "https://www.apple.com/ca/retail/squareone/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "100 City Centre Drive"
+		"address": "100 City Centre Drive",
+		"lat": 43.591966,
+		"lng": -79.64320599999999
+	},
+	{
+		"city": "Markham",
+		"name": "Apple Markville Shopping Centre",
+		"img": "https://www.apple.com/ca/retail/markvilleshoppingcentre/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "ON",
+		"address": "5000 Highway 7 East",
+		"lat": 43.868307,
+		"lng": -79.28786199999999
 	},
 	{
 		"city": "London",
@@ -1175,7 +1477,9 @@
 		"img": "https://www.apple.com/ca/retail/masonville/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "1680 Richmond Street North"
+		"address": "1680 Richmond Street North",
+		"lat": 43.02562,
+		"lng": -81.277613
 	},
 	{
 		"city": "Burlington",
@@ -1183,7 +1487,9 @@
 		"img": "https://www.apple.com/ca/retail/mapleviewcentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "ON",
-		"address": "900 Maple Avenue"
+		"address": "900 Maple Avenue",
+		"lat": 43.325079,
+		"lng": -79.81977599999999
 	},
 	{
 		"city": "Halifax",
@@ -1191,15 +1497,9 @@
 		"img": "https://www.apple.com/ca/retail/halifaxshoppingcentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "NS",
-		"address": "7001 Mumford Road"
-	},
-	{
-		"city": "Vancouver",
-		"name": "Apple Pacific Centre",
-		"img": "https://www.apple.com/ca/retail/pacificcentre/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "BC",
-		"address": "701 West Georgia Street"
+		"address": "7001 Mumford Road",
+		"lat": 44.648895,
+		"lng": -63.619319
 	},
 	{
 		"city": "Winnipeg",
@@ -1207,7 +1507,19 @@
 		"img": "https://www.apple.com/ca/retail/polopark/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "MB",
-		"address": "1485 Portage Avenue"
+		"address": "1485 Portage Avenue",
+		"lat": 49.883091,
+		"lng": -97.198669
+	},
+	{
+		"city": "Vancouver",
+		"name": "Apple Pacific Centre",
+		"img": "https://www.apple.com/ca/retail/pacificcentre/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "BC",
+		"address": "701 West Georgia Street",
+		"lat": 49.283293,
+		"lng": -123.11754
 	},
 	{
 		"city": "Vancouver",
@@ -1215,7 +1527,9 @@
 		"img": "https://www.apple.com/ca/retail/oakridgecentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "BC",
-		"address": "650 West 41st Avenue"
+		"address": "650 West 41st Avenue",
+		"lat": 49.2320615,
+		"lng": -123.1193555
 	},
 	{
 		"city": "Surrey",
@@ -1223,7 +1537,9 @@
 		"img": "https://www.apple.com/ca/retail/guildfordtowncentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "BC",
-		"address": "10355 152 Street"
+		"address": "10355 152 Street",
+		"lat": 49.1892804,
+		"lng": -122.8036056
 	},
 	{
 		"city": "Richmond",
@@ -1231,7 +1547,9 @@
 		"img": "https://www.apple.com/ca/retail/richmondcentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "BC",
-		"address": "6551 No. 3 Road"
+		"address": "6551 No. 3 Road",
+		"lat": 49.165761,
+		"lng": -123.138536
 	},
 	{
 		"city": "Coquitlam",
@@ -1239,15 +1557,9 @@
 		"img": "https://www.apple.com/ca/retail/coquitlamcentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "BC",
-		"address": "2929 Barnet Highway"
-	},
-	{
-		"city": "Edmonton",
-		"name": "Apple West Edmonton",
-		"img": "https://www.apple.com/ca/retail/westedmonton/images/hero_medium.jpg",
-		"country": "Canada (English)",
-		"region": "AB",
-		"address": "8882-170 Street"
+		"address": "2929 Barnet Highway",
+		"lat": 49.279562,
+		"lng": -122.7987591
 	},
 	{
 		"city": "Burnaby",
@@ -1255,15 +1567,19 @@
 		"img": "https://www.apple.com/ca/retail/metrotown/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "BC",
-		"address": "320 4700 Kingsway"
+		"address": "320 4700 Kingsway",
+		"lat": 49.226245,
+		"lng": -122.9993191
 	},
 	{
-		"city": "Calgary",
-		"name": "Apple Market Mall",
-		"img": "https://www.apple.com/ca/retail/marketmall/images/hero_medium.jpg",
+		"city": "Edmonton",
+		"name": "Apple West Edmonton",
+		"img": "https://www.apple.com/ca/retail/westedmonton/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "AB",
-		"address": "3625 Shaganappi Trail NW"
+		"address": "8882-170 Street",
+		"lat": 53.522239,
+		"lng": -113.620964
 	},
 	{
 		"city": "Edmonton",
@@ -1271,7 +1587,19 @@
 		"img": "https://www.apple.com/ca/retail/southgatecentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "AB",
-		"address": "5015 111 St"
+		"address": "5015 111 St",
+		"lat": 53.4862559,
+		"lng": -113.51474
+	},
+	{
+		"city": "Calgary",
+		"name": "Apple Market Mall",
+		"img": "https://www.apple.com/ca/retail/marketmall/images/hero_medium.jpg",
+		"country": "Canada (English)",
+		"region": "AB",
+		"address": "3625 Shaganappi Trail NW",
+		"lat": 41.134704,
+		"lng": -81.61735159999999
 	},
 	{
 		"city": "Calgary",
@@ -1279,315 +1607,416 @@
 		"img": "https://www.apple.com/ca/retail/chinookcentre/images/hero_medium.jpg",
 		"country": "Canada (English)",
 		"region": "AB",
-		"address": "6455 Macleod Trail SW"
+		"address": "6455 Macleod Trail SW",
+		"lat": 50.9964781,
+		"lng": -114.0741403
 	},
 	{
-		"country": "日本",
 		"name": "Apple 渋谷（休業中）",
 		"img": "https://www.apple.com/jp/retail/shibuya/images/hero_medium.jpg",
-		"address": "東京都渋谷区神南1-20-9"
+		"country": "日本",
+		"address": "東京都渋谷区神南1-20-9",
+		"lat": 35.661931,
+		"lng": 139.699798
 	},
 	{
-		"country": "日本",
 		"name": "Apple 表参道",
 		"img": "https://www.apple.com/jp/retail/omotesando/images/hero_medium.jpg",
-		"address": "東京都渋谷区神宮前4-2-13"
+		"country": "日本",
+		"address": "東京都渋谷区神宮前4-2-13",
+		"lat": 35.666194,
+		"lng": 139.710944
 	},
 	{
-		"country": "日本",
 		"name": "Apple 仙台一番町",
 		"img": "https://www.apple.com/jp/retail/sendaiichibancho/images/hero_medium.jpg",
-		"address": "宮城県仙台市青葉区一番町3-10-24"
+		"country": "日本",
+		"address": "宮城県仙台市青葉区一番町3-10-24",
+		"lat": 38.2617245,
+		"lng": 140.8712671
 	},
 	{
-		"country": "日本",
-		"name": "Apple 名古屋栄",
-		"img": "https://www.apple.com/jp/retail/nagoyasakae/images/hero_medium.jpg",
-		"address": "愛知県名古屋市中区栄3-17-15"
-	},
-	{
-		"country": "日本",
 		"name": "Apple 心斎橋",
 		"img": "https://www.apple.com/jp/retail/shinsaibashi/images/hero_medium.jpg",
-		"address": "大阪府大阪市中央区西心斎橋1-5-5"
+		"country": "日本",
+		"address": "大阪府大阪市中央区西心斎橋1-5-5",
+		"lat": 34.672077,
+		"lng": 135.500021
 	},
 	{
+		"name": "Apple 名古屋栄",
+		"img": "https://www.apple.com/jp/retail/nagoyasakae/images/hero_medium.jpg",
 		"country": "日本",
+		"address": "愛知県名古屋市中区栄3-17-15",
+		"lat": 35.165492,
+		"lng": 136.906979
+	},
+	{
 		"name": "Apple 福岡天神",
 		"img": "https://www.apple.com/jp/retail/fukuokatenjin/images/hero_medium.jpg",
-		"address": "福岡県福岡市中央区天神2-3-24"
+		"country": "日本",
+		"address": "福岡県福岡市中央区天神2-3-24",
+		"lat": 33.586636,
+		"lng": 130.397579
 	},
 	{
-		"country": "日本",
 		"name": "Apple 銀座",
 		"img": "https://www.apple.com/jp/retail/ginza/images/hero_medium.jpg",
-		"address": "東京都中央区銀座3-5-12"
+		"country": "日本",
+		"address": "東京都中央区銀座3-5-12",
+		"lat": 35.672256,
+		"lng": 139.765812
 	},
 	{
-		"country": "UK",
-		"address": "Intu Watford Shopping Centre",
+		"city": "Watford",
 		"name": "Apple Watford",
 		"img": "https://www.apple.com/uk/retail/watford/images/hero_medium.jpg",
-		"city": "Watford"
+		"country": "UK",
+		"address": "Intu Watford Shopping Centre",
+		"lat": 51.655144,
+		"lng": -0.392721
 	},
 	{
-		"country": "UK",
-		"address": "Upper High Street",
-		"name": "Apple Meadowhall",
-		"img": "https://www.apple.com/uk/retail/meadowhall/images/hero_medium.jpg",
-		"city": "Sheffield"
-	},
-	{
-		"country": "UK",
-		"address": "Upper Shopping",
+		"city": "Southampton",
 		"name": "Apple Southampton",
 		"img": "https://www.apple.com/uk/retail/southampton/images/hero_medium.jpg",
-		"city": "Southampton"
+		"country": "UK",
+		"address": "Upper Shopping",
+		"lat": 50.9041377,
+		"lng": -1.4069693
 	},
 	{
-		"country": "UK",
-		"address": "Upper Level, The Oracle Shopping Centre",
-		"name": "Apple The Oracle",
-		"img": "https://www.apple.com/uk/retail/theoracle/images/hero_medium.jpg",
-		"city": "Reading"
-	},
-	{
-		"country": "UK",
-		"address": "The Touchwood Centre",
+		"city": "Solihull",
 		"name": "Apple Touchwood Centre",
 		"img": "https://www.apple.com/uk/retail/touchwoodcentre/images/hero_medium.jpg",
-		"city": "Solihull"
+		"country": "UK",
+		"address": "The Touchwood Centre",
+		"lat": 52.41253889999999,
+		"lng": -1.7787299
 	},
 	{
+		"city": "Sheffield",
+		"name": "Apple Meadowhall",
+		"img": "https://www.apple.com/uk/retail/meadowhall/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "1 Charles Street",
+		"address": "Upper High Street",
+		"lat": 53.4139101,
+		"lng": -1.4114022
+	},
+	{
+		"city": "Reading",
+		"name": "Apple The Oracle",
+		"img": "https://www.apple.com/uk/retail/theoracle/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Upper Level, The Oracle Shopping Centre",
+		"lat": 51.4535517,
+		"lng": -0.9710380999999999
+	},
+	{
+		"city": "Plymouth",
 		"name": "Apple Drake Circus",
 		"img": "https://www.apple.com/uk/retail/drakecircus/images/hero_medium.jpg",
-		"city": "Plymouth"
+		"country": "UK",
+		"address": "1 Charles Street",
+		"lat": 50.371917,
+		"lng": -4.138555
 	},
 	{
-		"country": "UK",
-		"address": "St Andrew’s Way",
-		"name": "Apple Eldon Square",
-		"img": "https://www.apple.com/uk/retail/eldonsquare/images/hero_medium.jpg",
-		"city": "Newcastle upon Tyne"
-	},
-	{
-		"country": "UK",
-		"address": "Merchants Hall",
+		"city": "Norwich",
 		"name": "Apple Chapelfield",
 		"img": "https://www.apple.com/uk/retail/chapelfield/images/hero_medium.jpg",
-		"city": "Norwich"
+		"country": "UK",
+		"address": "Merchants Hall",
+		"lat": 52.6256757,
+		"lng": 1.2894734
 	},
 	{
+		"city": "Newcastle upon Tyne",
+		"name": "Apple Eldon Square",
+		"img": "https://www.apple.com/uk/retail/eldonsquare/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "26 Midsummer Place",
+		"address": "St Andrew’s Way",
+		"lat": 54.973405,
+		"lng": -1.617025
+	},
+	{
+		"city": "Milton Keynes",
 		"name": "Apple Milton Keynes",
 		"img": "https://www.apple.com/uk/retail/miltonkeynes/images/hero_medium.jpg",
-		"city": "Milton Keynes"
+		"country": "UK",
+		"address": "26 Midsummer Place",
+		"lat": 52.04046100000001,
+		"lng": -0.7576189999999999
 	},
 	{
-		"country": "UK",
-		"address": "Westfield London",
-		"name": "Apple White City",
-		"img": "https://www.apple.com/uk/retail/whitecity/images/hero_medium.jpg",
-		"city": "London"
-	},
-	{
-		"country": "UK",
-		"address": "New Cannon Street Mall",
-		"name": "Apple Manchester Arndale",
-		"img": "https://www.apple.com/uk/retail/manchesterarndale/images/hero_medium.jpg",
-		"city": "Manchester"
-	},
-	{
-		"country": "UK",
-		"address": "146 Peel Avenue",
+		"city": "Manchester",
 		"name": "Apple Trafford Centre",
 		"img": "https://www.apple.com/uk/retail/traffordcentre/images/hero_medium.jpg",
-		"city": "Manchester"
+		"country": "UK",
+		"address": "146 Peel Avenue",
+		"lat": 53.465919,
+		"lng": -2.34655
 	},
 	{
+		"city": "Manchester",
+		"name": "Apple Manchester Arndale",
+		"img": "https://www.apple.com/uk/retail/manchesterarndale/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "The Arcade, Westfield Stratford City",
+		"address": "New Cannon Street Mall",
+		"lat": 53.4836301,
+		"lng": -2.2408697
+	},
+	{
+		"city": "London",
+		"name": "Apple White City",
+		"img": "https://www.apple.com/uk/retail/whitecity/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Westfield London",
+		"lat": 51.5075205,
+		"lng": -0.2207065
+	},
+	{
+		"city": "London",
 		"name": "Apple Stratford City",
 		"img": "https://www.apple.com/uk/retail/stratfordcity/images/hero_medium.jpg",
-		"city": "London"
+		"country": "UK",
+		"address": "The Arcade, Westfield Stratford City",
+		"lat": 51.544207,
+		"lng": -0.006767
 	},
 	{
-		"country": "UK",
-		"address": "235 Regent Street",
+		"city": "London",
 		"name": "Apple Regent Street",
 		"img": "https://www.apple.com/uk/retail/regentstreet/images/hero_medium.jpg",
-		"city": "London"
+		"country": "UK",
+		"address": "235 Regent Street",
+		"lat": 51.5142202,
+		"lng": -0.1419841
 	},
 	{
-		"country": "UK",
-		"address": "Upper West Mall",
-		"name": "Apple Brent Cross",
-		"img": "https://www.apple.com/uk/retail/brentcross/images/hero_medium.jpg",
-		"city": "London"
-	},
-	{
-		"country": "UK",
-		"address": "Upper Mall, Highcross",
-		"name": "Apple Highcross",
-		"img": "https://www.apple.com/uk/retail/highcross/images/hero_medium.jpg",
-		"city": "Leicester"
-	},
-	{
-		"country": "UK",
-		"address": "Liverpool One",
-		"name": "Apple Liverpool",
-		"img": "https://www.apple.com/uk/retail/liverpool/images/hero_medium.jpg",
-		"city": "Liverpool"
-	},
-	{
-		"country": "UK",
-		"address": "No. 1-7 The Piazza",
+		"city": "London",
 		"name": "Apple Covent Garden",
 		"img": "https://www.apple.com/uk/retail/coventgarden/images/hero_medium.jpg",
-		"city": "London"
+		"country": "UK",
+		"address": "No. 1-7 The Piazza",
+		"lat": 51.512214,
+		"lng": -0.123568
 	},
 	{
+		"city": "London",
+		"name": "Apple Brent Cross",
+		"img": "https://www.apple.com/uk/retail/brentcross/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "Albion Street, 209 Trinity Leeds",
+		"address": "Upper West Mall",
+		"lat": 51.5763488,
+		"lng": -0.2246912
+	},
+	{
+		"city": "Liverpool",
+		"name": "Apple Liverpool",
+		"img": "https://www.apple.com/uk/retail/liverpool/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Liverpool One",
+		"lat": 53.4036796,
+		"lng": -2.9863848
+	},
+	{
+		"city": "Leicester",
+		"name": "Apple Highcross",
+		"img": "https://www.apple.com/uk/retail/highcross/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Upper Mall, Highcross",
+		"lat": 52.6370668,
+		"lng": -1.137104
+	},
+	{
+		"city": "Leeds",
 		"name": "Apple Trinity Leeds",
 		"img": "https://www.apple.com/uk/retail/trinityleeds/images/hero_medium.jpg",
-		"city": "Leeds"
+		"country": "UK",
+		"address": "Albion Street, 209 Trinity Leeds",
+		"lat": 53.79671099999999,
+		"lng": -1.543848
 	},
 	{
-		"country": "UK",
-		"address": "The Bentall Centre",
+		"city": "Kingston upon Thames",
 		"name": "Apple Bentall Centre",
 		"img": "https://www.apple.com/uk/retail/bentallcentre/images/hero_medium.jpg",
-		"city": "Kingston upon Thames"
+		"country": "UK",
+		"address": "The Bentall Centre",
+		"lat": 51.41145789999999,
+		"lng": -0.3050942
 	},
 	{
-		"country": "UK",
-		"address": "Upper Mall",
+		"city": "Greenhithe",
 		"name": "Apple Bluewater",
 		"img": "https://www.apple.com/uk/retail/bluewater/images/hero_medium.jpg",
-		"city": "Greenhithe"
-	},
-	{
-		"country": "UK",
-		"address": "147 Buchanan Street",
-		"name": "Apple Buchanan Street",
-		"img": "https://www.apple.com/uk/retail/buchananstreet/images/hero_medium.jpg",
-		"city": "Glasgow"
-	},
-	{
-		"country": "UK",
-		"address": "West Thurrock Way",
-		"name": "Apple Lakeside",
-		"img": "https://www.apple.com/uk/retail/lakeside/images/hero_medium.jpg",
-		"city": "Grays"
-	},
-	{
-		"country": "UK",
-		"address": "Metrocentre",
-		"name": "Apple Metrocentre",
-		"img": "https://www.apple.com/uk/retail/metrocentre/images/hero_medium.jpg",
-		"city": "Gateshead"
-	},
-	{
-		"country": "UK",
-		"address": "Braehead Shopping Centre",
-		"name": "Apple Braehead",
-		"img": "https://www.apple.com/uk/retail/braehead/images/hero_medium.jpg",
-		"city": "Glasgow"
-	},
-	{
-		"country": "UK",
-		"address": "24 Princesshay",
-		"name": "Apple Princesshay",
-		"img": "https://www.apple.com/uk/retail/princesshay/images/hero_medium.jpg",
-		"city": "Exeter"
-	},
-	{
-		"country": "UK",
-		"address": "Grand Arcade Shopping Centre",
-		"name": "Apple Grand Arcade",
-		"img": "https://www.apple.com/uk/retail/grandarcade/images/hero_medium.jpg",
-		"city": "Cambridge"
-	},
-	{
-		"country": "UK",
-		"address": "10 Princes Street",
-		"name": "Apple Princes Street",
-		"img": "https://www.apple.com/uk/retail/princesstreet/images/hero_medium.jpg",
-		"city": "Edinburgh"
-	},
-	{
-		"country": "UK",
-		"address": "63-66 Grand Arcade",
-		"name": "Apple St David's 2",
-		"img": "https://www.apple.com/uk/retail/stdavids2/images/hero_medium.jpg",
-		"city": "Cardiff"
-	},
-	{
-		"country": "UK",
-		"address": "The Glades Bromley Shopping Centre",
-		"name": "Apple Bromley",
-		"img": "https://www.apple.com/uk/retail/bromley/images/hero_medium.jpg",
-		"city": "Bromley"
-	},
-	{
 		"country": "UK",
 		"address": "Upper Mall",
+		"lat": 51.4389018,
+		"lng": 0.2713436
+	},
+	{
+		"city": "Grays",
+		"name": "Apple Lakeside",
+		"img": "https://www.apple.com/uk/retail/lakeside/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "West Thurrock Way",
+		"lat": 30.005941,
+		"lng": -90.156984
+	},
+	{
+		"city": "Glasgow",
+		"name": "Apple Buchanan Street",
+		"img": "https://www.apple.com/uk/retail/buchananstreet/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "147 Buchanan Street",
+		"lat": 55.8614651,
+		"lng": -4.2540586
+	},
+	{
+		"city": "Glasgow",
+		"name": "Apple Braehead",
+		"img": "https://www.apple.com/uk/retail/braehead/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Braehead Shopping Centre",
+		"lat": 55.8763251,
+		"lng": -4.365632
+	},
+	{
+		"city": "Gateshead",
+		"name": "Apple Metrocentre",
+		"img": "https://www.apple.com/uk/retail/metrocentre/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Metrocentre",
+		"lat": 54.95717680000001,
+		"lng": -1.6718401
+	},
+	{
+		"city": "Exeter",
+		"name": "Apple Princesshay",
+		"img": "https://www.apple.com/uk/retail/princesshay/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "24 Princesshay",
+		"lat": 50.7245557,
+		"lng": -3.5279895
+	},
+	{
+		"city": "Edinburgh",
+		"name": "Apple Princes Street",
+		"img": "https://www.apple.com/uk/retail/princesstreet/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "10 Princes Street",
+		"lat": 40.725058,
+		"lng": -73.999029
+	},
+	{
+		"city": "Cardiff",
+		"name": "Apple St David's 2",
+		"img": "https://www.apple.com/uk/retail/stdavids2/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "63-66 Grand Arcade",
+		"lat": 51.4786875,
+		"lng": -3.1747931
+	},
+	{
+		"city": "Cambridge",
+		"name": "Apple Grand Arcade",
+		"img": "https://www.apple.com/uk/retail/grandarcade/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "Grand Arcade Shopping Centre",
+		"lat": 52.203917,
+		"lng": 0.1209201
+	},
+	{
+		"city": "Bromley",
+		"name": "Apple Bromley",
+		"img": "https://www.apple.com/uk/retail/bromley/images/hero_medium.jpg",
+		"country": "UK",
+		"address": "The Glades Bromley Shopping Centre",
+		"lat": 51.4028515,
+		"lng": 0.016347
+	},
+	{
+		"city": "Bristol",
 		"name": "Apple Cribbs Causeway",
 		"img": "https://www.apple.com/uk/retail/cribbscauseway/images/hero_medium.jpg",
-		"city": "Bristol"
+		"country": "UK",
+		"address": "Upper Mall",
+		"lat": 51.52562959999999,
+		"lng": -2.5953967
 	},
 	{
-		"country": "UK",
-		"address": "11 Philadelphia Street, Quakers Friars",
+		"city": "Bristol",
 		"name": "Apple Cabot Circus",
 		"img": "https://www.apple.com/uk/retail/cabotcircus/images/hero_medium.jpg",
-		"city": "Bristol"
+		"country": "UK",
+		"address": "11 Philadelphia Street, Quakers Friars",
+		"lat": 51.4567212,
+		"lng": -2.5873205
 	},
 	{
-		"country": "UK",
-		"address": "Upper Mall, Churchill Square",
+		"city": "Brighton",
 		"name": "Apple Churchill Square",
 		"img": "https://www.apple.com/uk/retail/churchillsquare/images/hero_medium.jpg",
-		"city": "Brighton"
+		"country": "UK",
+		"address": "Upper Mall, Churchill Square",
+		"lat": 50.822238,
+		"lng": -0.1456064
 	},
 	{
-		"country": "UK",
-		"address": "Upper Ground Floor",
-		"name": "Apple Victoria Square",
-		"img": "https://www.apple.com/uk/retail/victoriasquare/images/hero_medium.jpg",
-		"city": "Belfast"
-	},
-	{
-		"country": "UK",
-		"address": "Upper Level, Queen Anne’s Walk",
-		"name": "Apple Festival Place",
-		"img": "https://www.apple.com/uk/retail/festivalplace/images/hero_medium.jpg",
-		"city": "Basingstoke"
-	},
-	{
-		"country": "UK",
-		"address": "128 New Street",
+		"city": "Birmingham",
 		"name": "Apple Birmingham",
 		"img": "https://www.apple.com/uk/retail/birmingham/images/hero_medium.jpg",
-		"city": "Birmingham"
+		"country": "UK",
+		"address": "128 New Street",
+		"lat": 33.447519,
+		"lng": -86.72834
 	},
 	{
+		"city": "Belfast",
+		"name": "Apple Victoria Square",
+		"img": "https://www.apple.com/uk/retail/victoriasquare/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "SU39, Southgate Place",
+		"address": "Upper Ground Floor",
+		"lat": 54.5979334,
+		"lng": -5.925737300000001
+	},
+	{
+		"city": "Bath",
 		"name": "Apple SouthGate",
 		"img": "https://www.apple.com/uk/retail/southgate/images/hero_medium.jpg",
-		"city": "Bath"
+		"country": "UK",
+		"address": "SU39, Southgate Place",
+		"lat": 46.8459661,
+		"lng": -114.0267597
 	},
 	{
+		"city": "Basingstoke",
+		"name": "Apple Festival Place",
+		"img": "https://www.apple.com/uk/retail/festivalplace/images/hero_medium.jpg",
 		"country": "UK",
-		"address": "27/28 Ground Level Mall, Union Square",
+		"address": "Upper Level, Queen Anne’s Walk",
+		"lat": 51.2651565,
+		"lng": -1.0861701
+	},
+	{
+		"city": "Aberdeen",
 		"name": "Apple Union Square",
 		"img": "https://www.apple.com/uk/retail/unionsquare/images/hero_medium.jpg",
-		"city": "Aberdeen"
+		"country": "UK",
+		"address": "27/28 Ground Level Mall, Union Square",
+		"lat": 37.7887802,
+		"lng": -122.4070931
+	},
+	{
+		"city": "Wien",
+		"name": "Apple Kärntner Straße",
+		"img": "https://www.apple.com/at/retail/kaerntnerstrasse/images/hero_medium.jpg",
+		"country": "Österreich",
+		"address": "Kärntner Straße 11",
+		"lat": 48.2070385,
+		"lng": 16.3717154
 	},
 	{
 		"city": "Perth",
@@ -1595,14 +2024,9 @@
 		"img": "https://www.apple.com/au/retail/perthcity/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "WA",
-		"address": "790 Hay Street"
-	},
-	{
-		"country": "Österreich",
-		"address": "Kärntner Straße 11",
-		"name": "Apple Kärntner Straße",
-		"img": "https://www.apple.com/at/retail/kaerntnerstrasse/images/hero_medium.jpg",
-		"city": "Wien"
+		"address": "790 Hay Street",
+		"lat": -31.952893,
+		"lng": 115.855735
 	},
 	{
 		"city": "Booragoon",
@@ -1610,15 +2034,9 @@
 		"img": "https://www.apple.com/au/retail/gardencityperth/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "WA",
-		"address": "Garden City"
-	},
-	{
-		"city": "Fountain Gate",
-		"name": "Apple Fountain Gate",
-		"img": "https://www.apple.com/au/retail/fountaingate/images/hero_medium.jpg",
-		"country": "Australia",
-		"region": "VIC",
-		"address": "Westfield Fountain Gate"
+		"address": "Garden City",
+		"lat": -32.034254,
+		"lng": 115.837177
 	},
 	{
 		"city": "Maribyrnong",
@@ -1626,7 +2044,19 @@
 		"img": "https://www.apple.com/au/retail/highpoint/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "VIC",
-		"address": "Highpoint Shopping Centre"
+		"address": "Highpoint Shopping Centre",
+		"lat": -37.7725066,
+		"lng": 144.8904879
+	},
+	{
+		"city": "Fountain Gate",
+		"name": "Apple Fountain Gate",
+		"img": "https://www.apple.com/au/retail/fountaingate/images/hero_medium.jpg",
+		"country": "Australia",
+		"region": "VIC",
+		"address": "Westfield Fountain Gate",
+		"lat": -38.0179019,
+		"lng": 145.3050188
 	},
 	{
 		"city": "Doncaster",
@@ -1634,15 +2064,9 @@
 		"img": "https://www.apple.com/au/retail/doncaster/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "VIC",
-		"address": "Westfield Doncaster"
-	},
-	{
-		"city": "Chadstone",
-		"name": "Apple Chadstone",
-		"img": "https://www.apple.com/au/retail/chadstone/images/hero_medium.jpg",
-		"country": "Australia",
-		"region": "VIC",
-		"address": "Chadstone Shopping Centre"
+		"address": "Westfield Doncaster",
+		"lat": -37.7844445,
+		"lng": 145.1260632
 	},
 	{
 		"city": "Cheltenham",
@@ -1650,15 +2074,19 @@
 		"img": "https://www.apple.com/au/retail/southland/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "VIC",
-		"address": "Westfield Southland"
+		"address": "Westfield Southland",
+		"lat": -37.9582409,
+		"lng": 145.0524167
 	},
 	{
-		"city": "Robina Town Centre",
-		"name": "Apple Robina",
-		"img": "https://www.apple.com/au/retail/robina/images/hero_medium.jpg",
+		"city": "Chadstone",
+		"name": "Apple Chadstone",
+		"img": "https://www.apple.com/au/retail/chadstone/images/hero_medium.jpg",
 		"country": "Australia",
-		"region": "QLD",
-		"address": "Robina Town Centre"
+		"region": "VIC",
+		"address": "Chadstone Shopping Centre",
+		"lat": -37.886466,
+		"lng": 145.083044
 	},
 	{
 		"city": "Adelaide",
@@ -1666,7 +2094,19 @@
 		"img": "https://www.apple.com/au/retail/rundleplace/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "SA",
-		"address": "Rundle Place Centre"
+		"address": "Rundle Place Centre",
+		"lat": -34.9224638,
+		"lng": 138.6027694
+	},
+	{
+		"city": "Robina Town Centre",
+		"name": "Apple Robina",
+		"img": "https://www.apple.com/au/retail/robina/images/hero_medium.jpg",
+		"country": "Australia",
+		"region": "QLD",
+		"address": "Robina Town Centre",
+		"lat": -28.0770949,
+		"lng": 153.3849683
 	},
 	{
 		"city": "Chermside",
@@ -1674,7 +2114,9 @@
 		"img": "https://www.apple.com/au/retail/chermside/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "QLD",
-		"address": "Westfield Chermside"
+		"address": "Westfield Chermside",
+		"lat": -27.381126,
+		"lng": 153.03297
 	},
 	{
 		"city": "Carindale",
@@ -1682,15 +2124,9 @@
 		"img": "https://www.apple.com/au/retail/carindale/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "QLD",
-		"address": "Westfield Carindale"
-	},
-	{
-		"city": "Penrith",
-		"name": "Apple Penrith",
-		"img": "https://www.apple.com/au/retail/penrith/images/hero_medium.jpg",
-		"country": "Australia",
-		"region": "NSW",
-		"address": "Westfield Penrith"
+		"address": "Westfield Carindale",
+		"lat": -27.5024015,
+		"lng": 153.1020482
 	},
 	{
 		"city": "Brisbane",
@@ -1698,7 +2134,9 @@
 		"img": "https://www.apple.com/au/retail/brisbane/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "QLD",
-		"address": "MacArthur Chambers"
+		"address": "MacArthur Chambers",
+		"lat": -27.4684214,
+		"lng": 153.0273555
 	},
 	{
 		"city": "Sydney",
@@ -1706,7 +2144,19 @@
 		"img": "https://www.apple.com/au/retail/sydney/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "367 George Street"
+		"address": "367 George Street",
+		"lat": -33.869,
+		"lng": 151.20666
+	},
+	{
+		"city": "Penrith",
+		"name": "Apple Penrith",
+		"img": "https://www.apple.com/au/retail/penrith/images/hero_medium.jpg",
+		"country": "Australia",
+		"region": "NSW",
+		"address": "Westfield Penrith",
+		"lat": -33.751343,
+		"lng": 150.694633
 	},
 	{
 		"city": "Miranda",
@@ -1714,15 +2164,9 @@
 		"img": "https://www.apple.com/au/retail/miranda/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Westfield Miranda"
-	},
-	{
-		"city": "Wauwatosa",
-		"name": "Apple Mayfair",
-		"img": "https://www.apple.com/retail/mayfair/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "WI",
-		"address": "2500 N. Mayfair Road"
+		"address": "Westfield Miranda",
+		"lat": -34.0345283,
+		"lng": 151.1008363
 	},
 	{
 		"city": "Hornsby",
@@ -1730,7 +2174,9 @@
 		"img": "https://www.apple.com/au/retail/hornsby/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Westfield Hornsby"
+		"address": "Westfield Hornsby",
+		"lat": -33.704974,
+		"lng": 151.1002
 	},
 	{
 		"city": "Chatswood",
@@ -1738,7 +2184,9 @@
 		"img": "https://www.apple.com/au/retail/chatswoodchase/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Chatswood Chase Shopping Centre"
+		"address": "Chatswood Chase Shopping Centre",
+		"lat": -33.794683,
+		"lng": 151.186119
 	},
 	{
 		"city": "Charlestown",
@@ -1746,7 +2194,9 @@
 		"img": "https://www.apple.com/au/retail/charlestown/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Charlestown Square"
+		"address": "Charlestown Square",
+		"lat": -32.96391,
+		"lng": 151.694124
 	},
 	{
 		"city": "Castle Hill",
@@ -1754,7 +2204,9 @@
 		"img": "https://www.apple.com/au/retail/castletowers/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Castle Towers Shopping Centre"
+		"address": "Castle Towers Shopping Centre",
+		"lat": -33.7307092,
+		"lng": 151.0062647
 	},
 	{
 		"city": "Broadway",
@@ -1762,7 +2214,9 @@
 		"img": "https://www.apple.com/au/retail/broadway/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "Broadway Shopping Centre"
+		"address": "Broadway Shopping Centre",
+		"lat": 40.8111677,
+		"lng": -73.9614732
 	},
 	{
 		"city": "Bondi Junction",
@@ -1770,7 +2224,9 @@
 		"img": "https://www.apple.com/au/retail/bondi/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "NSW",
-		"address": "213 Oxford Street"
+		"address": "213 Oxford Street",
+		"lat": -33.8923854,
+		"lng": 151.2502488
 	},
 	{
 		"city": "Canberra",
@@ -1778,23 +2234,19 @@
 		"img": "https://www.apple.com/au/retail/canberra/images/hero_medium.jpg",
 		"country": "Australia",
 		"region": "ACT",
-		"address": "Canberra Centre"
+		"address": "Canberra Centre",
+		"lat": -35.280284,
+		"lng": 149.133653
 	},
 	{
-		"city": "Tukwila",
-		"name": "Apple Southcenter",
-		"img": "https://www.apple.com/retail/southcenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "WA",
-		"address": "801 Southcenter Mall"
-	},
-	{
-		"city": "Glendale",
-		"name": "Apple Bayshore",
-		"img": "https://www.apple.com/retail/bayshore/images/hero_medium.jpg",
+		"city": "Wauwatosa",
+		"name": "Apple Mayfair",
+		"img": "https://www.apple.com/retail/mayfair/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WI",
-		"address": "5715 N Centerpark Way"
+		"address": "2500 N. Mayfair Road",
+		"lat": 43.0633233,
+		"lng": -88.04442
 	},
 	{
 		"city": "Madison",
@@ -1802,15 +2254,29 @@
 		"img": "https://www.apple.com/retail/hilldale/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WI",
-		"address": "702 North Midvale Boulevard"
+		"address": "702 North Midvale Boulevard",
+		"lat": 43.0719745,
+		"lng": -89.4532471
 	},
 	{
-		"city": "Spokane",
-		"name": "Apple River Park Square",
-		"img": "https://www.apple.com/retail/riverparksquare/images/hero_medium.jpg",
+		"city": "Glendale",
+		"name": "Apple Bayshore",
+		"img": "https://www.apple.com/retail/bayshore/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "WI",
+		"address": "5715 N Centerpark Way",
+		"lat": 45.347034,
+		"lng": -75.807789
+	},
+	{
+		"city": "Tukwila",
+		"name": "Apple Southcenter",
+		"img": "https://www.apple.com/retail/southcenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WA",
-		"address": "710 West Main Avenue"
+		"address": "801 Southcenter Mall",
+		"lat": 47.4588539,
+		"lng": -122.258162
 	},
 	{
 		"city": "Tacoma",
@@ -1818,7 +2284,19 @@
 		"img": "https://www.apple.com/retail/tacomamall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WA",
-		"address": "4502 S Steele Street"
+		"address": "4502 S Steele Street",
+		"lat": 47.215887,
+		"lng": -122.4694859
+	},
+	{
+		"city": "Spokane",
+		"name": "Apple River Park Square",
+		"img": "https://www.apple.com/retail/riverparksquare/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "WA",
+		"address": "710 West Main Avenue",
+		"lat": 47.659384,
+		"lng": -117.4225751
 	},
 	{
 		"city": "Seattle",
@@ -1826,39 +2304,9 @@
 		"img": "https://www.apple.com/retail/universityvillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WA",
-		"address": "2656 NE University Village Street"
-	},
-	{
-		"city": "Bellevue",
-		"name": "Apple Bellevue Square",
-		"img": "https://www.apple.com/retail/bellevuesquare/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "WA",
-		"address": "213 Bellevue Square"
-	},
-	{
-		"city": "Woodbridge",
-		"name": "Apple Potomac Town Center",
-		"img": "https://www.apple.com/retail/potomactowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "VA",
-		"address": "15100 Potomac Town Place"
-	},
-	{
-		"city": "Virginia Beach",
-		"name": "Apple Lynnhaven Mall",
-		"img": "https://www.apple.com/retail/lynnhavenmall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "VA",
-		"address": "701 Lynnhaven Parkway"
-	},
-	{
-		"city": "Richmond",
-		"name": "Apple Short Pump Town Center",
-		"img": "https://www.apple.com/retail/shortpumptowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "VA",
-		"address": "11800 W. Broad Street"
+		"address": "2656 NE University Village Street",
+		"lat": 47.663958,
+		"lng": -122.297898
 	},
 	{
 		"city": "Lynnwood",
@@ -1866,23 +2314,49 @@
 		"img": "https://www.apple.com/retail/alderwoodmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "WA",
-		"address": "3000 184th Street S.W."
+		"address": "3000 184th Street S.W.",
+		"lat": 47.830345,
+		"lng": -122.2717091
 	},
 	{
-		"city": "McLean",
-		"name": "Apple Tysons Corner",
-		"img": "https://www.apple.com/retail/tysonscorner/images/hero_medium.jpg",
+		"city": "Bellevue",
+		"name": "Apple Bellevue Square",
+		"img": "https://www.apple.com/retail/bellevuesquare/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "VA",
-		"address": "1961 Chain Bridge Road"
+		"region": "WA",
+		"address": "213 Bellevue Square",
+		"lat": 47.616291,
+		"lng": -122.204164
 	},
 	{
-		"city": "Norfolk",
-		"name": "Apple MacArthur Center",
-		"img": "https://www.apple.com/retail/macarthurcenter/images/hero_medium.jpg",
+		"city": "Woodbridge",
+		"name": "Apple Potomac Town Center",
+		"img": "https://www.apple.com/retail/potomactowncenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "VA",
-		"address": "300 Monticello Avenue"
+		"address": "15100 Potomac Town Place",
+		"lat": 38.6281724,
+		"lng": -77.2879535
+	},
+	{
+		"city": "Virginia Beach",
+		"name": "Apple Lynnhaven Mall",
+		"img": "https://www.apple.com/retail/lynnhavenmall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "VA",
+		"address": "701 Lynnhaven Parkway",
+		"lat": 36.8166802,
+		"lng": -76.071094
+	},
+	{
+		"city": "Richmond",
+		"name": "Apple Short Pump Town Center",
+		"img": "https://www.apple.com/retail/shortpumptowncenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "VA",
+		"address": "11800 W. Broad Street",
+		"lat": 37.655929,
+		"lng": -77.61868199999999
 	},
 	{
 		"city": "Reston",
@@ -1890,23 +2364,29 @@
 		"img": "https://www.apple.com/retail/reston/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "VA",
-		"address": "11949 Market Street"
+		"address": "11949 Market Street",
+		"lat": 38.95847,
+		"lng": -77.358357
 	},
 	{
-		"city": "Arlington",
-		"name": "Apple Pentagon City",
-		"img": "https://www.apple.com/retail/pentagoncity/images/hero_medium.jpg",
+		"city": "Norfolk",
+		"name": "Apple MacArthur Center",
+		"img": "https://www.apple.com/retail/macarthurcenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "VA",
-		"address": "1100 South Hayes Street"
+		"address": "300 Monticello Avenue",
+		"lat": 36.84899900000001,
+		"lng": -76.28844360000001
 	},
 	{
-		"city": "Arlington",
-		"name": "Apple Clarendon",
-		"img": "https://www.apple.com/retail/clarendon/images/hero_medium.jpg",
+		"city": "McLean",
+		"name": "Apple Tysons Corner",
+		"img": "https://www.apple.com/retail/tysonscorner/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "VA",
-		"address": "2700 Clarendon Boulevard"
+		"address": "1961 Chain Bridge Road",
+		"lat": 38.916869,
+		"lng": -77.22286749999999
 	},
 	{
 		"city": "Fairfax",
@@ -1914,15 +2394,29 @@
 		"img": "https://www.apple.com/retail/fairoaks/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "VA",
-		"address": "11750 Fair Oaks"
+		"address": "11750 Fair Oaks",
+		"lat": 38.862747,
+		"lng": -77.358907
 	},
 	{
-		"city": "Farmington",
-		"name": "Apple Station Park",
-		"img": "https://www.apple.com/retail/stationpark/images/hero_medium.jpg",
+		"city": "Arlington",
+		"name": "Apple Pentagon City",
+		"img": "https://www.apple.com/retail/pentagoncity/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "UT",
-		"address": "148 N. East Promontory"
+		"region": "VA",
+		"address": "1100 South Hayes Street",
+		"lat": 38.86393169999999,
+		"lng": -77.0601118
+	},
+	{
+		"city": "Arlington",
+		"name": "Apple Clarendon",
+		"img": "https://www.apple.com/retail/clarendon/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "VA",
+		"address": "2700 Clarendon Boulevard",
+		"lat": 38.8878725,
+		"lng": -77.0911225
 	},
 	{
 		"city": "Salt Lake City",
@@ -1930,15 +2424,9 @@
 		"img": "https://www.apple.com/retail/citycreekcenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "UT",
-		"address": "50 South Main Street"
-	},
-	{
-		"city": "Sugar Land",
-		"name": "Apple First Colony Mall",
-		"img": "https://www.apple.com/retail/firstcolonymall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TX",
-		"address": "16535 Southwest Freeway"
+		"address": "50 South Main Street",
+		"lat": 40.768043,
+		"lng": -111.891919
 	},
 	{
 		"city": "Murray",
@@ -1946,7 +2434,19 @@
 		"img": "https://www.apple.com/retail/fashionplace/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "UT",
-		"address": "6191 S State Street"
+		"address": "6191 S State Street",
+		"lat": 40.6362464,
+		"lng": -111.8875216
+	},
+	{
+		"city": "Farmington",
+		"name": "Apple Station Park",
+		"img": "https://www.apple.com/retail/stationpark/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "UT",
+		"address": "148 N. East Promontory",
+		"lat": 40.9832451,
+		"lng": -111.906341
 	},
 	{
 		"city": "The Woodlands",
@@ -1954,15 +2454,19 @@
 		"img": "https://www.apple.com/retail/thewoodlands/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "1201 Lake Woodlands Drive"
+		"address": "1201 Lake Woodlands Drive",
+		"lat": 30.164586,
+		"lng": -95.45586999999999
 	},
 	{
-		"city": "San Antonio",
-		"name": "Apple North Star",
-		"img": "https://www.apple.com/retail/northstar/images/hero_medium.jpg",
+		"city": "Sugar Land",
+		"name": "Apple First Colony Mall",
+		"img": "https://www.apple.com/retail/firstcolonymall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "7400 San Pedro Avenue"
+		"address": "16535 Southwest Freeway",
+		"lat": 29.591476,
+		"lng": -95.62497499999999
 	},
 	{
 		"city": "Southlake",
@@ -1970,7 +2474,19 @@
 		"img": "https://www.apple.com/retail/southlaketownsquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "260 Grand Avenue"
+		"address": "260 Grand Avenue",
+		"lat": 32.943862,
+		"lng": -97.13067099999999
+	},
+	{
+		"city": "San Antonio",
+		"name": "Apple North Star",
+		"img": "https://www.apple.com/retail/northstar/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TX",
+		"address": "7400 San Pedro Avenue",
+		"lat": 29.518141,
+		"lng": -98.495924
 	},
 	{
 		"city": "San Antonio",
@@ -1978,15 +2494,9 @@
 		"img": "https://www.apple.com/retail/lacantera/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "15900 La Cantera Parkway"
-	},
-	{
-		"city": "Houston",
-		"name": "Apple Memorial City",
-		"img": "https://www.apple.com/retail/memorialcity/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TX",
-		"address": "303 Memorial City"
+		"address": "15900 La Cantera Parkway",
+		"lat": 29.59335939999999,
+		"lng": -98.61558529999999
 	},
 	{
 		"city": "Plano",
@@ -1994,15 +2504,9 @@
 		"img": "https://www.apple.com/retail/willowbend/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "6121 West Park Boulevard"
-	},
-	{
-		"city": "Houston",
-		"name": "Apple Highland Village",
-		"img": "https://www.apple.com/retail/highlandvillage/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TX",
-		"address": "4012 Westheimer Road"
+		"address": "6121 West Park Boulevard",
+		"lat": 33.0310511,
+		"lng": -96.83166589999999
 	},
 	{
 		"city": "Houston",
@@ -2010,7 +2514,19 @@
 		"img": "https://www.apple.com/retail/willowbrookmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "2000 Willowbrook Drive"
+		"address": "2000 Willowbrook Drive",
+		"lat": 40.8898577,
+		"lng": -74.2589939
+	},
+	{
+		"city": "Houston",
+		"name": "Apple Memorial City",
+		"img": "https://www.apple.com/retail/memorialcity/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TX",
+		"address": "303 Memorial City",
+		"lat": 29.7813158,
+		"lng": -95.5388988
 	},
 	{
 		"city": "Houston",
@@ -2018,7 +2534,19 @@
 		"img": "https://www.apple.com/retail/houstongalleria/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "5085 Westheimer Road"
+		"address": "5085 Westheimer Road",
+		"lat": 29.73884019999999,
+		"lng": -95.464699
+	},
+	{
+		"city": "Houston",
+		"name": "Apple Highland Village",
+		"img": "https://www.apple.com/retail/highlandvillage/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TX",
+		"address": "4012 Westheimer Road",
+		"lat": 29.74203,
+		"lng": -95.445797
 	},
 	{
 		"city": "Frisco",
@@ -2026,7 +2554,9 @@
 		"img": "https://www.apple.com/retail/stonebriar/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "2601 Preston Road"
+		"address": "2601 Preston Road",
+		"lat": 33.099019,
+		"lng": -96.812176
 	},
 	{
 		"city": "Friendswood",
@@ -2034,31 +2564,9 @@
 		"img": "https://www.apple.com/retail/baybrook/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "500 Baybrook Mall"
-	},
-	{
-		"city": "Dallas",
-		"name": "Apple NorthPark Center",
-		"img": "https://www.apple.com/retail/northparkcenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TX",
-		"address": "8687 North Central Expressway"
-	},
-	{
-		"city": "Nashville",
-		"name": "Apple Green Hills",
-		"img": "https://www.apple.com/retail/greenhills/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TN",
-		"address": "2126 Abbott Martin Road"
-	},
-	{
-		"city": "Dallas",
-		"name": "Apple Knox Street",
-		"img": "https://www.apple.com/retail/knoxstreet/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TX",
-		"address": "3101 Knox Street"
+		"address": "500 Baybrook Mall",
+		"lat": 29.541504,
+		"lng": -95.148041
 	},
 	{
 		"city": "Fort Worth",
@@ -2066,15 +2574,9 @@
 		"img": "https://www.apple.com/retail/universityparkvillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "1620 S. University Drive"
-	},
-	{
-		"city": "Franklin",
-		"name": "Apple CoolSprings Galleria",
-		"img": "https://www.apple.com/retail/coolspringsgalleria/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "TN",
-		"address": "1800 Galleria Boulevard"
+		"address": "1620 S. University Drive",
+		"lat": 32.727423,
+		"lng": -97.361667
 	},
 	{
 		"city": "El Paso",
@@ -2082,7 +2584,29 @@
 		"img": "https://www.apple.com/retail/cielovistamall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "8401 Gateway Boulevard West"
+		"address": "8401 Gateway Boulevard West",
+		"lat": 31.775343,
+		"lng": -106.379517
+	},
+	{
+		"city": "Dallas",
+		"name": "Apple NorthPark Center",
+		"img": "https://www.apple.com/retail/northparkcenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TX",
+		"address": "8687 North Central Expressway",
+		"lat": 32.8694375,
+		"lng": -96.774281
+	},
+	{
+		"city": "Dallas",
+		"name": "Apple Knox Street",
+		"img": "https://www.apple.com/retail/knoxstreet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TX",
+		"address": "3101 Knox Street",
+		"lat": 32.822578,
+		"lng": -96.787874
 	},
 	{
 		"city": "Austin",
@@ -2090,7 +2614,9 @@
 		"img": "https://www.apple.com/retail/domainnorthside/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "3121 Palm Way"
+		"address": "3121 Palm Way",
+		"lat": 30.4028565,
+		"lng": -97.7213448
 	},
 	{
 		"city": "Austin",
@@ -2098,23 +2624,19 @@
 		"img": "https://www.apple.com/retail/bartoncreek/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TX",
-		"address": "2901 S. Capital of Texas Highway"
+		"address": "2901 S. Capital of Texas Highway",
+		"lat": 30.257994,
+		"lng": -97.807498
 	},
 	{
-		"city": "Charleston",
-		"name": "Apple King Street",
-		"img": "https://www.apple.com/retail/kingstreet/images/hero_medium.jpg",
+		"city": "Nashville",
+		"name": "Apple Green Hills",
+		"img": "https://www.apple.com/retail/greenhills/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "SC",
-		"address": "301 King Street"
-	},
-	{
-		"city": "Whitehall",
-		"name": "Apple Lehigh Valley",
-		"img": "https://www.apple.com/retail/lehighvalley/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "PA",
-		"address": "250 Lehigh Valley Mall"
+		"region": "TN",
+		"address": "2126 Abbott Martin Road",
+		"lat": 36.10693,
+		"lng": -86.815969
 	},
 	{
 		"city": "Knoxville",
@@ -2122,7 +2644,9 @@
 		"img": "https://www.apple.com/retail/westtownmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TN",
-		"address": "7600 Kingston Pike"
+		"address": "7600 Kingston Pike",
+		"lat": 35.9243692,
+		"lng": -84.0371037
 	},
 	{
 		"city": "Germantown",
@@ -2130,7 +2654,19 @@
 		"img": "https://www.apple.com/retail/saddlecreek/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "TN",
-		"address": "2031 West Street"
+		"address": "2031 West Street",
+		"lat": 35.0934759,
+		"lng": -89.81280930000001
+	},
+	{
+		"city": "Franklin",
+		"name": "Apple CoolSprings Galleria",
+		"img": "https://www.apple.com/retail/coolspringsgalleria/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "TN",
+		"address": "1800 Galleria Boulevard",
+		"lat": 35.958114,
+		"lng": -86.81309
 	},
 	{
 		"city": "Greenville",
@@ -2138,15 +2674,19 @@
 		"img": "https://www.apple.com/retail/haywoodmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "SC",
-		"address": "700 Haywood Road"
+		"address": "700 Haywood Road",
+		"lat": 34.849459,
+		"lng": -82.334186
 	},
 	{
-		"city": "Willow Grove",
-		"name": "Apple Willow Grove Park",
-		"img": "https://www.apple.com/retail/willowgrovepark/images/hero_medium.jpg",
+		"city": "Charleston",
+		"name": "Apple King Street",
+		"img": "https://www.apple.com/retail/kingstreet/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "PA",
-		"address": "2500 West Moreland Road"
+		"region": "SC",
+		"address": "301 King Street",
+		"lat": 32.783382,
+		"lng": -79.934854
 	},
 	{
 		"city": "Providence",
@@ -2154,39 +2694,29 @@
 		"img": "https://www.apple.com/retail/providenceplace/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "RI",
-		"address": "20 Providence Place"
+		"address": "20 Providence Place",
+		"lat": 41.8270844,
+		"lng": -71.41661979999999
 	},
 	{
-		"city": "Lancaster",
-		"name": "Apple Park City",
-		"img": "https://www.apple.com/retail/parkcity/images/hero_medium.jpg",
+		"city": "Willow Grove",
+		"name": "Apple Willow Grove Park",
+		"img": "https://www.apple.com/retail/willowgrovepark/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "541 Park City Center"
+		"address": "2500 West Moreland Road",
+		"lat": 40.14046,
+		"lng": -75.12340999999999
 	},
 	{
-		"city": "King of Prussia",
-		"name": "Apple King of Prussia",
-		"img": "https://www.apple.com/retail/kingofprussia/images/hero_medium.jpg",
+		"city": "Whitehall",
+		"name": "Apple Lehigh Valley",
+		"img": "https://www.apple.com/retail/lehighvalley/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "160 N. Gulph Road"
-	},
-	{
-		"city": "Pittsburgh",
-		"name": "Apple Shadyside",
-		"img": "https://www.apple.com/retail/shadyside/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "PA",
-		"address": "5508 Walnut Street"
-	},
-	{
-		"city": "Portland",
-		"name": "Apple Pioneer Place",
-		"img": "https://www.apple.com/retail/pioneerplace/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OR",
-		"address": "450 SW Yamhill Street"
+		"address": "250 Lehigh Valley Mall",
+		"lat": 40.62900399999999,
+		"lng": -75.48135599999999
 	},
 	{
 		"city": "Pittsburgh",
@@ -2194,7 +2724,19 @@
 		"img": "https://www.apple.com/retail/southhillsvillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "301 South Hills Village"
+		"address": "301 South Hills Village",
+		"lat": 40.3423893,
+		"lng": -80.0556363
+	},
+	{
+		"city": "Pittsburgh",
+		"name": "Apple Shadyside",
+		"img": "https://www.apple.com/retail/shadyside/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "PA",
+		"address": "5508 Walnut Street",
+		"lat": 40.4510686,
+		"lng": -79.933341
 	},
 	{
 		"city": "Pittsburgh",
@@ -2202,7 +2744,9 @@
 		"img": "https://www.apple.com/retail/rosspark/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "1000 Ross Park Mall Drive"
+		"address": "1000 Ross Park Mall Drive",
+		"lat": 40.543806,
+		"lng": -80.007995
 	},
 	{
 		"city": "Philadelphia",
@@ -2210,23 +2754,29 @@
 		"img": "https://www.apple.com/retail/walnutstreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "1607 Walnut Street"
+		"address": "1607 Walnut Street",
+		"lat": 39.950041,
+		"lng": -75.167886
 	},
 	{
-		"city": "Woodmere",
-		"name": "Apple Eton",
-		"img": "https://www.apple.com/retail/eton/images/hero_medium.jpg",
+		"city": "Lancaster",
+		"name": "Apple Park City",
+		"img": "https://www.apple.com/retail/parkcity/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "OH",
-		"address": "28849 Chagrin Boulevard"
+		"region": "PA",
+		"address": "541 Park City Center",
+		"lat": 40.066572,
+		"lng": -76.33916599999999
 	},
 	{
-		"city": "Tigard",
-		"name": "Apple Bridgeport Village",
-		"img": "https://www.apple.com/retail/bridgeportvillage/images/hero_medium.jpg",
+		"city": "King of Prussia",
+		"name": "Apple King of Prussia",
+		"img": "https://www.apple.com/retail/kingofprussia/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "OR",
-		"address": "7293 SW Bridgeport Road"
+		"region": "PA",
+		"address": "160 N. Gulph Road",
+		"lat": 40.0883994,
+		"lng": -75.390875
 	},
 	{
 		"city": "Ardmore",
@@ -2234,71 +2784,9 @@
 		"img": "https://www.apple.com/retail/suburbansquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "PA",
-		"address": "61 St. James Place"
-	},
-	{
-		"city": "Toledo",
-		"name": "Apple Franklin Park Mall",
-		"img": "https://www.apple.com/retail/franklinparkmall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OH",
-		"address": "5001 Monroe Street"
-	},
-	{
-		"city": "Columbus",
-		"name": "Apple Easton Town Center",
-		"img": "https://www.apple.com/retail/eastontowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OH",
-		"address": "4210 The Strand"
-	},
-	{
-		"city": "Tulsa",
-		"name": "Apple Woodland Hills",
-		"img": "https://www.apple.com/retail/woodlandhills/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OK",
-		"address": "7021 S. Memorial Drive"
-	},
-	{
-		"city": "Cincinnati",
-		"name": "Apple Kenwood Towne Centre",
-		"img": "https://www.apple.com/retail/kenwoodtownecentre/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OH",
-		"address": "7875 Montgomery Road"
-	},
-	{
-		"city": "Raleigh",
-		"name": "Apple Crabtree Valley Mall",
-		"img": "https://www.apple.com/retail/crabtreevalleymall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NC",
-		"address": "4325 Glenwood Avenue"
-	},
-	{
-		"city": "Durham",
-		"name": "Apple Southpoint",
-		"img": "https://www.apple.com/retail/southpoint/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NC",
-		"address": "8030 Renaissance Parkway"
-	},
-	{
-		"city": "Westlake",
-		"name": "Apple Crocker Park",
-		"img": "https://www.apple.com/retail/crockerpark/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OH",
-		"address": "267 Crocker Park Boulevard"
-	},
-	{
-		"city": "Oklahoma City",
-		"name": "Apple Penn Square",
-		"img": "https://www.apple.com/retail/pennsquare/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "OK",
-		"address": "1901 NW Expressway Street"
+		"address": "61 St. James Place",
+		"lat": 40.008779,
+		"lng": -75.287904
 	},
 	{
 		"city": "Tigard",
@@ -2306,15 +2794,79 @@
 		"img": "https://www.apple.com/retail/washingtonsquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "OR",
-		"address": "9585 SW Washington Square Road"
+		"address": "9585 SW Washington Square Road",
+		"lat": 45.4505559,
+		"lng": -122.7814707
 	},
 	{
-		"city": "Beavercreek",
-		"name": "Apple The Greene",
-		"img": "https://www.apple.com/retail/thegreene/images/hero_medium.jpg",
+		"city": "Tigard",
+		"name": "Apple Bridgeport Village",
+		"img": "https://www.apple.com/retail/bridgeportvillage/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OR",
+		"address": "7293 SW Bridgeport Road",
+		"lat": 45.396762,
+		"lng": -122.751798
+	},
+	{
+		"city": "Portland",
+		"name": "Apple Pioneer Place",
+		"img": "https://www.apple.com/retail/pioneerplace/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OR",
+		"address": "450 SW Yamhill Street",
+		"lat": 45.5178465,
+		"lng": -122.6774849
+	},
+	{
+		"city": "Tulsa",
+		"name": "Apple Woodland Hills",
+		"img": "https://www.apple.com/retail/woodlandhills/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OK",
+		"address": "7021 S. Memorial Drive",
+		"lat": 36.063456,
+		"lng": -95.880517
+	},
+	{
+		"city": "Oklahoma City",
+		"name": "Apple Penn Square",
+		"img": "https://www.apple.com/retail/pennsquare/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OK",
+		"address": "1901 NW Expressway Street",
+		"lat": 35.52466500000001,
+		"lng": -97.54551500000001
+	},
+	{
+		"city": "Woodmere",
+		"name": "Apple Eton",
+		"img": "https://www.apple.com/retail/eton/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "OH",
-		"address": "4422 Cedar Park Drive"
+		"address": "28849 Chagrin Boulevard",
+		"lat": 41.4633899,
+		"lng": -81.47467999999999
+	},
+	{
+		"city": "Westlake",
+		"name": "Apple Crocker Park",
+		"img": "https://www.apple.com/retail/crockerpark/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OH",
+		"address": "267 Crocker Park Boulevard",
+		"lat": 41.4591092,
+		"lng": -81.95312009999999
+	},
+	{
+		"city": "Toledo",
+		"name": "Apple Franklin Park Mall",
+		"img": "https://www.apple.com/retail/franklinparkmall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OH",
+		"address": "5001 Monroe Street",
+		"lat": 41.6939117,
+		"lng": -83.64037379999999
 	},
 	{
 		"city": "Columbus",
@@ -2322,7 +2874,39 @@
 		"img": "https://www.apple.com/retail/polarisfashionplace/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "OH",
-		"address": "1500 Polaris Parkway"
+		"address": "1500 Polaris Parkway",
+		"lat": 40.146017,
+		"lng": -82.980267
+	},
+	{
+		"city": "Columbus",
+		"name": "Apple Easton Town Center",
+		"img": "https://www.apple.com/retail/eastontowncenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OH",
+		"address": "4210 The Strand",
+		"lat": 40.054054,
+		"lng": -82.91491700000002
+	},
+	{
+		"city": "Cincinnati",
+		"name": "Apple Kenwood Towne Centre",
+		"img": "https://www.apple.com/retail/kenwoodtownecentre/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OH",
+		"address": "7875 Montgomery Road",
+		"lat": 39.2014669,
+		"lng": -84.37782
+	},
+	{
+		"city": "Beavercreek",
+		"name": "Apple The Greene",
+		"img": "https://www.apple.com/retail/thegreene/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "OH",
+		"address": "4422 Cedar Park Drive",
+		"lat": 39.6943795,
+		"lng": -84.1018921
 	},
 	{
 		"city": "Akron",
@@ -2330,15 +2914,19 @@
 		"img": "https://www.apple.com/retail/summitmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "OH",
-		"address": "3265 West Market Street"
+		"address": "3265 West Market Street",
+		"lat": 41.134704,
+		"lng": -81.61735159999999
 	},
 	{
-		"city": "Charlotte",
-		"name": "Apple SouthPark",
-		"img": "https://www.apple.com/retail/southpark/images/hero_medium.jpg",
+		"city": "Raleigh",
+		"name": "Apple Crabtree Valley Mall",
+		"img": "https://www.apple.com/retail/crabtreevalleymall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NC",
-		"address": "4400 Sharon Road"
+		"address": "4325 Glenwood Avenue",
+		"lat": 35.840862,
+		"lng": -78.680118
 	},
 	{
 		"city": "Greensboro",
@@ -2346,39 +2934,29 @@
 		"img": "https://www.apple.com/retail/friendlycenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NC",
-		"address": "3320 West Friendly Avenue"
+		"address": "3320 West Friendly Avenue",
+		"lat": 36.0861036,
+		"lng": -79.83610639999999
 	},
 	{
-		"city": "Yonkers",
-		"name": "Apple Ridge Hill",
-		"img": "https://www.apple.com/retail/ridgehill/images/hero_medium.jpg",
+		"city": "Durham",
+		"name": "Apple Southpoint",
+		"img": "https://www.apple.com/retail/southpoint/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "NY",
-		"address": "143 Market Street"
+		"region": "NC",
+		"address": "8030 Renaissance Parkway",
+		"lat": 35.905203,
+		"lng": -78.943426
 	},
 	{
-		"city": "Victor",
-		"name": "Apple Eastview",
-		"img": "https://www.apple.com/retail/eastview/images/hero_medium.jpg",
+		"city": "Charlotte",
+		"name": "Apple SouthPark",
+		"img": "https://www.apple.com/retail/southpark/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "NY",
-		"address": "7979 Pittsford-Victor Road"
-	},
-	{
-		"city": "New York",
-		"name": "Apple Upper West Side",
-		"img": "https://www.apple.com/retail/upperwestside/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "1981 Broadway"
-	},
-	{
-		"city": "New York",
-		"name": "Apple World Trade Center",
-		"img": "https://www.apple.com/retail/worldtradecenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "185 Greenwich Street"
+		"region": "NC",
+		"address": "4400 Sharon Road",
+		"lat": 35.151753,
+		"lng": -80.832377
 	},
 	{
 		"city": "Charlotte",
@@ -2386,7 +2964,19 @@
 		"img": "https://www.apple.com/retail/northlakemall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NC",
-		"address": "6801 Northlake Mall Drive"
+		"address": "6801 Northlake Mall Drive",
+		"lat": 35.3527904,
+		"lng": -80.85140950000002
+	},
+	{
+		"city": "Yonkers",
+		"name": "Apple Ridge Hill",
+		"img": "https://www.apple.com/retail/ridgehill/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "143 Market Street",
+		"lat": 40.96370599999999,
+		"lng": -73.856657
 	},
 	{
 		"city": "White Plains",
@@ -2394,31 +2984,19 @@
 		"img": "https://www.apple.com/retail/thewestchester/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "125 Westchester Avenue"
+		"address": "125 Westchester Avenue",
+		"lat": 41.031655,
+		"lng": -73.760464
 	},
 	{
-		"city": "New York",
-		"name": "Apple Grand Central",
-		"img": "https://www.apple.com/retail/grandcentral/images/hero_medium.jpg",
+		"city": "Victor",
+		"name": "Apple Eastview",
+		"img": "https://www.apple.com/retail/eastview/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "45 Grand Central Terminal"
-	},
-	{
-		"city": "New York",
-		"name": "Apple Fifth Avenue",
-		"img": "https://www.apple.com/retail/fifthavenue/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "767 Fifth Avenue"
-	},
-	{
-		"city": "Nanuet",
-		"name": "Apple Nanuet",
-		"img": "https://www.apple.com/retail/nanuet/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "8115 Fashion Drive"
+		"address": "7979 Pittsford-Victor Road",
+		"lat": 43.0294088,
+		"lng": -77.44255319999999
 	},
 	{
 		"city": "Syracuse",
@@ -2426,39 +3004,9 @@
 		"img": "https://www.apple.com/retail/syracuse/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "1 Destiny USA Drive"
-	},
-	{
-		"city": "Lake Grove",
-		"name": "Apple Smith Haven",
-		"img": "https://www.apple.com/retail/smithhaven/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "518 Smith Haven Mall"
-	},
-	{
-		"city": "Huntington Station",
-		"name": "Apple Walt Whitman",
-		"img": "https://www.apple.com/retail/waltwhitman/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "160 Walt Whitman Road"
-	},
-	{
-		"city": "New York",
-		"name": "Apple Upper East Side",
-		"img": "https://www.apple.com/retail/uppereastside/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "940 Madison Avenue"
-	},
-	{
-		"city": "Elmhurst",
-		"name": "Apple Queens Center",
-		"img": "https://www.apple.com/retail/queenscenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "90-15 Queens Boulevard"
+		"address": "1 Destiny USA Drive",
+		"lat": 43.069899,
+		"lng": -76.17302699999999
 	},
 	{
 		"city": "Staten Island",
@@ -2466,15 +3014,19 @@
 		"img": "https://www.apple.com/retail/statenisland/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "2655 Richmond Avenue"
+		"address": "2655 Richmond Avenue",
+		"lat": 40.582476,
+		"lng": -74.16608599999999
 	},
 	{
-		"city": "Brooklyn",
-		"name": "Apple Williamsburg",
-		"img": "https://www.apple.com/retail/williamsburg/images/hero_medium.jpg",
+		"city": "New York",
+		"name": "Apple World Trade Center",
+		"img": "https://www.apple.com/retail/worldtradecenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "247 Bedford Avenue"
+		"address": "185 Greenwich Street",
+		"lat": 40.7114358,
+		"lng": -74.0112891
 	},
 	{
 		"city": "New York",
@@ -2482,31 +3034,29 @@
 		"img": "https://www.apple.com/retail/west14thstreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "401 W 14th Street"
+		"address": "401 W 14th Street",
+		"lat": 40.74127,
+		"lng": -74.005389
 	},
 	{
-		"city": "Brooklyn",
-		"name": "Apple Downtown Brooklyn",
-		"img": "https://www.apple.com/retail/downtownbrooklyn/images/hero_medium.jpg",
+		"city": "New York",
+		"name": "Apple Upper West Side",
+		"img": "https://www.apple.com/retail/upperwestside/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "123 Flatbush Avenue"
+		"address": "1981 Broadway",
+		"lat": 40.7750054,
+		"lng": -73.9825066
 	},
 	{
-		"city": "Buffalo",
-		"name": "Apple Walden Galleria",
-		"img": "https://www.apple.com/retail/waldengalleria/images/hero_medium.jpg",
+		"city": "New York",
+		"name": "Apple Upper East Side",
+		"img": "https://www.apple.com/retail/uppereastside/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "G116 Walden Galleria"
-	},
-	{
-		"city": "Manhasset",
-		"name": "Apple Manhasset",
-		"img": "https://www.apple.com/retail/manhasset/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NY",
-		"address": "1900 Northern Boulevard"
+		"address": "940 Madison Avenue",
+		"lat": 40.7733573,
+		"lng": -73.96453679999999
 	},
 	{
 		"city": "New York",
@@ -2514,7 +3064,69 @@
 		"img": "https://www.apple.com/retail/soho/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "103 Prince Street"
+		"address": "103 Prince Street",
+		"lat": 40.725058,
+		"lng": -73.999029
+	},
+	{
+		"city": "New York",
+		"name": "Apple Grand Central",
+		"img": "https://www.apple.com/retail/grandcentral/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "45 Grand Central Terminal",
+		"lat": 40.7529239,
+		"lng": -73.976881
+	},
+	{
+		"city": "New York",
+		"name": "Apple Fifth Avenue",
+		"img": "https://www.apple.com/retail/fifthavenue/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "767 Fifth Avenue",
+		"lat": 40.7635384,
+		"lng": -73.97279999999999
+	},
+	{
+		"city": "Nanuet",
+		"name": "Apple Nanuet",
+		"img": "https://www.apple.com/retail/nanuet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "8115 Fashion Drive",
+		"lat": 41.095637,
+		"lng": -74.0161056
+	},
+	{
+		"city": "Manhasset",
+		"name": "Apple Manhasset",
+		"img": "https://www.apple.com/retail/manhasset/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "1900 Northern Boulevard",
+		"lat": 40.795033,
+		"lng": -73.67650800000001
+	},
+	{
+		"city": "Lake Grove",
+		"name": "Apple Smith Haven",
+		"img": "https://www.apple.com/retail/smithhaven/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "518 Smith Haven Mall",
+		"lat": 40.8648783,
+		"lng": -73.1310416
+	},
+	{
+		"city": "Huntington Station",
+		"name": "Apple Walt Whitman",
+		"img": "https://www.apple.com/retail/waltwhitman/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "160 Walt Whitman Road",
+		"lat": 40.8213972,
+		"lng": -73.4103847
 	},
 	{
 		"city": "Garden City",
@@ -2522,15 +3134,49 @@
 		"img": "https://www.apple.com/retail/rooseveltfield/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "630 Old Country Road"
+		"address": "630 Old Country Road",
+		"lat": 40.738086,
+		"lng": -73.612411
 	},
 	{
-		"city": "Paramus",
-		"name": "Apple Garden State Plaza",
-		"img": "https://www.apple.com/retail/gardenstateplaza/images/hero_medium.jpg",
+		"city": "Elmhurst",
+		"name": "Apple Queens Center",
+		"img": "https://www.apple.com/retail/queenscenter/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "NJ",
-		"address": "1 Garden State Plaza"
+		"region": "NY",
+		"address": "90-15 Queens Boulevard",
+		"lat": 40.7345027,
+		"lng": -73.8703791
+	},
+	{
+		"city": "Buffalo",
+		"name": "Apple Walden Galleria",
+		"img": "https://www.apple.com/retail/waldengalleria/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "G116 Walden Galleria",
+		"lat": 42.914913,
+		"lng": -78.762121
+	},
+	{
+		"city": "Brooklyn",
+		"name": "Apple Williamsburg",
+		"img": "https://www.apple.com/retail/williamsburg/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "247 Bedford Avenue",
+		"lat": 40.7155589,
+		"lng": -73.9598644
+	},
+	{
+		"city": "Brooklyn",
+		"name": "Apple Downtown Brooklyn",
+		"img": "https://www.apple.com/retail/downtownbrooklyn/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NY",
+		"address": "123 Flatbush Avenue",
+		"lat": 40.6856274,
+		"lng": -73.9782207
 	},
 	{
 		"city": "Albany",
@@ -2538,23 +3184,9 @@
 		"img": "https://www.apple.com/retail/crossgates/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NY",
-		"address": "1 Crossgates Mall Road"
-	},
-	{
-		"city": "Freehold",
-		"name": "Apple Freehold Raceway Mall",
-		"img": "https://www.apple.com/retail/freeholdracewaymall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NJ",
-		"address": "3710 Route 9 South"
-	},
-	{
-		"city": "Wayne",
-		"name": "Apple Willowbrook",
-		"img": "https://www.apple.com/retail/willowbrook/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NJ",
-		"address": "1400 Willowbrook Mall"
+		"address": "1 Crossgates Mall Road",
+		"lat": 42.688784,
+		"lng": -73.849188
 	},
 	{
 		"city": "Albuquerque",
@@ -2562,23 +3194,9 @@
 		"img": "https://www.apple.com/retail/abquptown/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NM",
-		"address": "2240 Q Street NE"
-	},
-	{
-		"city": "Short Hills",
-		"name": "Apple Short Hills",
-		"img": "https://www.apple.com/retail/shorthills/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NJ",
-		"address": "1200 Morris Turnpike"
-	},
-	{
-		"city": "Edison",
-		"name": "Apple Menlo Park",
-		"img": "https://www.apple.com/retail/menlopark/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NJ",
-		"address": "55 Parsonage Road"
+		"address": "2240 Q Street NE",
+		"lat": 35.103021,
+		"lng": -106.56679
 	},
 	{
 		"city": "Woodcliff Lake",
@@ -2586,7 +3204,29 @@
 		"img": "https://www.apple.com/retail/ticescorner/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "441 Chestnut Ridge Road"
+		"address": "441 Chestnut Ridge Road",
+		"lat": 41.041881,
+		"lng": -74.07506870000002
+	},
+	{
+		"city": "Wayne",
+		"name": "Apple Willowbrook",
+		"img": "https://www.apple.com/retail/willowbrook/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NJ",
+		"address": "1400 Willowbrook Mall",
+		"lat": 40.8898577,
+		"lng": -74.2589939
+	},
+	{
+		"city": "Short Hills",
+		"name": "Apple Short Hills",
+		"img": "https://www.apple.com/retail/shorthills/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NJ",
+		"address": "1200 Morris Turnpike",
+		"lat": 40.740174,
+		"lng": -74.365168
 	},
 	{
 		"city": "Rockaway",
@@ -2594,15 +3234,19 @@
 		"img": "https://www.apple.com/retail/rockaway/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "301 Mt. Hope Avenue"
+		"address": "301 Mt. Hope Avenue",
+		"lat": 40.9065617,
+		"lng": -74.5537496
 	},
 	{
-		"city": "Nashua",
-		"name": "Apple Pheasant Lane",
-		"img": "https://www.apple.com/retail/pheasantlane/images/hero_medium.jpg",
+		"city": "Paramus",
+		"name": "Apple Garden State Plaza",
+		"img": "https://www.apple.com/retail/gardenstateplaza/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "NH",
-		"address": "310 Daniel Webster Highway"
+		"region": "NJ",
+		"address": "1 Garden State Plaza",
+		"lat": 40.918611,
+		"lng": -74.075206
 	},
 	{
 		"city": "Marlton",
@@ -2610,7 +3254,9 @@
 		"img": "https://www.apple.com/retail/sagemore/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "500 Route 73 South"
+		"address": "500 Route 73 South",
+		"lat": 39.8795855,
+		"lng": -74.91872219999999
 	},
 	{
 		"city": "Lawrence Township",
@@ -2618,23 +3264,29 @@
 		"img": "https://www.apple.com/retail/quakerbridge/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "150 Quaker Bridge Mall"
+		"address": "150 Quaker Bridge Mall",
+		"lat": 40.291571,
+		"lng": -74.68133
 	},
 	{
-		"city": "Reno",
-		"name": "Apple Summit Sierra",
-		"img": "https://www.apple.com/retail/summitsierra/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NV",
-		"address": "13945 South Virginia Street"
-	},
-	{
-		"city": "Bridgewater",
-		"name": "Apple Bridgewater",
-		"img": "https://www.apple.com/retail/bridgewater/images/hero_medium.jpg",
+		"city": "Freehold",
+		"name": "Apple Freehold Raceway Mall",
+		"img": "https://www.apple.com/retail/freeholdracewaymall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "400 Commons Way"
+		"address": "3710 Route 9 South",
+		"lat": 40.2528379,
+		"lng": -74.30041779999999
+	},
+	{
+		"city": "Edison",
+		"name": "Apple Menlo Park",
+		"img": "https://www.apple.com/retail/menlopark/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NJ",
+		"address": "55 Parsonage Road",
+		"lat": 40.5481031,
+		"lng": -74.3354899
 	},
 	{
 		"city": "Cherry Hill",
@@ -2642,23 +3294,19 @@
 		"img": "https://www.apple.com/retail/cherryhill/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "2000 Route 38"
+		"address": "2000 Route 38",
+		"lat": 39.940763,
+		"lng": -75.024694
 	},
 	{
-		"city": "Salem",
-		"name": "Apple Rockingham Park",
-		"img": "https://www.apple.com/retail/rockinghampark/images/hero_medium.jpg",
+		"city": "Bridgewater",
+		"name": "Apple Bridgewater",
+		"img": "https://www.apple.com/retail/bridgewater/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "NH",
-		"address": "99 Rockingham Park Boulevard"
-	},
-	{
-		"city": "Manchester",
-		"name": "Apple The Mall of New Hampshire",
-		"img": "https://www.apple.com/retail/themallofnewhampshire/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NH",
-		"address": "1500 S Willow Street"
+		"region": "NJ",
+		"address": "400 Commons Way",
+		"lat": 40.586353,
+		"lng": -74.61963999999999
 	},
 	{
 		"city": "Atlantic City",
@@ -2666,15 +3314,49 @@
 		"img": "https://www.apple.com/retail/thepier/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NJ",
-		"address": "The Pier at Caesars"
+		"address": "The Pier at Caesars",
+		"lat": 39.35456,
+		"lng": -74.434652
 	},
 	{
-		"city": "St. Louis",
-		"name": "Apple West County",
-		"img": "https://www.apple.com/retail/westcounty/images/hero_medium.jpg",
+		"city": "Salem",
+		"name": "Apple Rockingham Park",
+		"img": "https://www.apple.com/retail/rockinghampark/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MO",
-		"address": "131 West County Center"
+		"region": "NH",
+		"address": "99 Rockingham Park Boulevard",
+		"lat": 42.7673891,
+		"lng": -71.23219879999999
+	},
+	{
+		"city": "Nashua",
+		"name": "Apple Pheasant Lane",
+		"img": "https://www.apple.com/retail/pheasantlane/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NH",
+		"address": "310 Daniel Webster Highway",
+		"lat": 42.701502,
+		"lng": -71.437034
+	},
+	{
+		"city": "Manchester",
+		"name": "Apple The Mall of New Hampshire",
+		"img": "https://www.apple.com/retail/themallofnewhampshire/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NH",
+		"address": "1500 S Willow Street",
+		"lat": 42.9562455,
+		"lng": -71.4325151
+	},
+	{
+		"city": "Reno",
+		"name": "Apple Summit Sierra",
+		"img": "https://www.apple.com/retail/summitsierra/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "NV",
+		"address": "13945 South Virginia Street",
+		"lat": 39.406271,
+		"lng": -119.751989
 	},
 	{
 		"city": "Las Vegas",
@@ -2682,7 +3364,9 @@
 		"img": "https://www.apple.com/retail/townsquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NV",
-		"address": "6671 Las Vegas Boulevard South"
+		"address": "6671 Las Vegas Boulevard South",
+		"lat": 36.06760999999999,
+		"lng": -115.176086
 	},
 	{
 		"city": "Las Vegas",
@@ -2690,15 +3374,9 @@
 		"img": "https://www.apple.com/retail/theforumshops/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NV",
-		"address": "3500 Las Vegas Blvd South, Caesars Palace"
-	},
-	{
-		"city": "Las Vegas",
-		"name": "Apple Fashion Show",
-		"img": "https://www.apple.com/retail/fashionshow/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "NV",
-		"address": "3200 Las Vegas Boulevard"
+		"address": "3500 Las Vegas Blvd South, Caesars Palace",
+		"lat": 36.11882,
+		"lng": -115.177549
 	},
 	{
 		"city": "Las Vegas",
@@ -2706,23 +3384,19 @@
 		"img": "https://www.apple.com/retail/summerlin/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NV",
-		"address": "1985 Festival Plaza Drive"
+		"address": "1985 Festival Plaza Drive",
+		"lat": 36.1500642,
+		"lng": -115.3339088
 	},
 	{
-		"city": "Edina",
-		"name": "Apple Southdale",
-		"img": "https://www.apple.com/retail/southdale/images/hero_medium.jpg",
+		"city": "Las Vegas",
+		"name": "Apple Fashion Show",
+		"img": "https://www.apple.com/retail/fashionshow/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MN",
-		"address": "1560 Southdale Center"
-	},
-	{
-		"city": "Bloomington",
-		"name": "Apple Mall of America",
-		"img": "https://www.apple.com/retail/mallofamerica/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MN",
-		"address": "132 South Avenue"
+		"region": "NV",
+		"address": "3200 Las Vegas Boulevard",
+		"lat": 36.127674,
+		"lng": -115.172568
 	},
 	{
 		"city": "Omaha",
@@ -2730,23 +3404,19 @@
 		"img": "https://www.apple.com/retail/villagepointe/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "NE",
-		"address": "17170 Davenport Street"
+		"address": "17170 Davenport Street",
+		"lat": 41.2610659,
+		"lng": -96.18300169999999
 	},
 	{
-		"city": "Kansas City",
-		"name": "Apple Country Club Plaza",
-		"img": "https://www.apple.com/retail/countryclubplaza/images/hero_medium.jpg",
+		"city": "St. Louis",
+		"name": "Apple West County",
+		"img": "https://www.apple.com/retail/westcounty/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MO",
-		"address": "227 Nichols Road"
-	},
-	{
-		"city": "Roseville",
-		"name": "Apple Rosedale Center",
-		"img": "https://www.apple.com/retail/rosedalecenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MN",
-		"address": "1595 Highway 36 W"
+		"address": "131 West County Center",
+		"lat": 38.601225,
+		"lng": -90.447091
 	},
 	{
 		"city": "St. Louis",
@@ -2754,7 +3424,19 @@
 		"img": "https://www.apple.com/retail/saintlouisgalleria/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MO",
-		"address": "2440 Saint Louis Galleria"
+		"address": "2440 Saint Louis Galleria",
+		"lat": 38.6352846,
+		"lng": -90.3484457
+	},
+	{
+		"city": "Kansas City",
+		"name": "Apple Country Club Plaza",
+		"img": "https://www.apple.com/retail/countryclubplaza/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MO",
+		"address": "227 Nichols Road",
+		"lat": 39.0412072,
+		"lng": -94.5900441
 	},
 	{
 		"city": "Ridgeland",
@@ -2762,15 +3444,19 @@
 		"img": "https://www.apple.com/retail/renaissanceatcolonypark/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MS",
-		"address": "1000 Highland Colony Parkway"
+		"address": "1000 Highland Colony Parkway",
+		"lat": 32.434222,
+		"lng": -90.14685899999999
 	},
 	{
-		"city": "Minneapolis",
-		"name": "Apple Uptown",
-		"img": "https://www.apple.com/retail/uptown/images/hero_medium.jpg",
+		"city": "Roseville",
+		"name": "Apple Rosedale Center",
+		"img": "https://www.apple.com/retail/rosedalecenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MN",
-		"address": "3018 Hennepin Avenue"
+		"address": "1595 Highway 36 W",
+		"lat": 45.0127961,
+		"lng": -93.1734555
 	},
 	{
 		"city": "Minnetonka",
@@ -2778,31 +3464,39 @@
 		"img": "https://www.apple.com/retail/ridgedale/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MN",
-		"address": "12531 Wayzata Boulevard"
+		"address": "12531 Wayzata Boulevard",
+		"lat": 44.9686067,
+		"lng": -93.4366306
 	},
 	{
-		"city": "Marlborough",
-		"name": "Apple Solomon Pond Mall",
-		"img": "https://www.apple.com/retail/solomonpondmall/images/hero_medium.jpg",
+		"city": "Minneapolis",
+		"name": "Apple Uptown",
+		"img": "https://www.apple.com/retail/uptown/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MA",
-		"address": "601 Donald Lynch Boulevard"
+		"region": "MN",
+		"address": "3018 Hennepin Avenue",
+		"lat": 44.9477032,
+		"lng": -93.29863499999999
 	},
 	{
-		"city": "Lynnfield",
-		"name": "Apple MarketStreet",
-		"img": "https://www.apple.com/retail/marketstreet/images/hero_medium.jpg",
+		"city": "Edina",
+		"name": "Apple Southdale",
+		"img": "https://www.apple.com/retail/southdale/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MA",
-		"address": "1220 Market Street"
+		"region": "MN",
+		"address": "1560 Southdale Center",
+		"lat": 44.880335,
+		"lng": -93.32446499999999
 	},
 	{
-		"city": "Novi",
-		"name": "Apple Twelve Oaks",
-		"img": "https://www.apple.com/retail/twelveoaks/images/hero_medium.jpg",
+		"city": "Bloomington",
+		"name": "Apple Mall of America",
+		"img": "https://www.apple.com/retail/mallofamerica/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MI",
-		"address": "27500 Novi Road"
+		"region": "MN",
+		"address": "132 South Avenue",
+		"lat": 44.853513,
+		"lng": -93.24251799999999
 	},
 	{
 		"city": "Troy",
@@ -2810,31 +3504,19 @@
 		"img": "https://www.apple.com/retail/somerset/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MI",
-		"address": "2800 W Big Beaver Road"
+		"address": "2800 W Big Beaver Road",
+		"lat": 42.563068,
+		"lng": -83.18328699999999
 	},
 	{
-		"city": "Grand Rapids",
-		"name": "Apple Woodland",
-		"img": "https://www.apple.com/retail/woodland/images/hero_medium.jpg",
+		"city": "Novi",
+		"name": "Apple Twelve Oaks",
+		"img": "https://www.apple.com/retail/twelveoaks/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MI",
-		"address": "3195 28th Street"
-	},
-	{
-		"city": "Holyoke",
-		"name": "Apple Holyoke",
-		"img": "https://www.apple.com/retail/holyoke/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MA",
-		"address": "50 Holyoke Street"
-	},
-	{
-		"city": "Clinton Township",
-		"name": "Apple Partridge Creek",
-		"img": "https://www.apple.com/retail/partridgecreek/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MI",
-		"address": "17360 Hall Road"
+		"address": "27500 Novi Road",
+		"lat": 42.4922985,
+		"lng": -83.470404
 	},
 	{
 		"city": "Lansing",
@@ -2842,15 +3524,29 @@
 		"img": "https://www.apple.com/retail/eastwoodtownecenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MI",
-		"address": "3025 Preyde Boulevard"
+		"address": "3025 Preyde Boulevard",
+		"lat": 42.76433919999999,
+		"lng": -84.5146948
 	},
 	{
-		"city": "Chestnut Hill",
-		"name": "Apple Chestnut Hill",
-		"img": "https://www.apple.com/retail/chestnuthill/images/hero_medium.jpg",
+		"city": "Grand Rapids",
+		"name": "Apple Woodland",
+		"img": "https://www.apple.com/retail/woodland/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "MA",
-		"address": "199 Boylston Street"
+		"region": "MI",
+		"address": "3195 28th Street",
+		"lat": 36.063456,
+		"lng": -95.880517
+	},
+	{
+		"city": "Clinton Township",
+		"name": "Apple Partridge Creek",
+		"img": "https://www.apple.com/retail/partridgecreek/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MI",
+		"address": "17360 Hall Road",
+		"lat": 42.625246,
+		"lng": -82.946336
 	},
 	{
 		"city": "Ann Arbor",
@@ -2858,31 +3554,9 @@
 		"img": "https://www.apple.com/retail/briarwood/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MI",
-		"address": "100 Briarwood Circle"
-	},
-	{
-		"city": "Towson",
-		"name": "Apple Towson Town Center",
-		"img": "https://www.apple.com/retail/towsontowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MD",
-		"address": "825 Dulaney Valley Road"
-	},
-	{
-		"city": "Boston",
-		"name": "Apple Boylston Street",
-		"img": "https://www.apple.com/retail/boylstonstreet/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MA",
-		"address": "815 Boylston Street"
-	},
-	{
-		"city": "Burlington",
-		"name": "Apple Burlington",
-		"img": "https://www.apple.com/retail/burlington/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MA",
-		"address": "75 Middlesex Turnpike"
+		"address": "100 Briarwood Circle",
+		"lat": 42.24083299999999,
+		"lng": -83.74692399999999
 	},
 	{
 		"city": "Natick",
@@ -2890,15 +3564,39 @@
 		"img": "https://www.apple.com/retail/natickcollection/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MA",
-		"address": "1245 Worcester Street"
+		"address": "1245 Worcester Street",
+		"lat": 42.3014769,
+		"lng": -71.38428259999999
 	},
 	{
-		"city": "Braintree",
-		"name": "Apple South Shore",
-		"img": "https://www.apple.com/retail/southshore/images/hero_medium.jpg",
+		"city": "Marlborough",
+		"name": "Apple Solomon Pond Mall",
+		"img": "https://www.apple.com/retail/solomonpondmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MA",
-		"address": "250 Granite Street"
+		"address": "601 Donald Lynch Boulevard",
+		"lat": 42.3555748,
+		"lng": -71.6132212
+	},
+	{
+		"city": "Lynnfield",
+		"name": "Apple MarketStreet",
+		"img": "https://www.apple.com/retail/marketstreet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "1220 Market Street",
+		"lat": 42.515533,
+		"lng": -71.034266
+	},
+	{
+		"city": "Holyoke",
+		"name": "Apple Holyoke",
+		"img": "https://www.apple.com/retail/holyoke/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "50 Holyoke Street",
+		"lat": 42.16831699999999,
+		"lng": -72.641472
 	},
 	{
 		"city": "Hingham",
@@ -2906,7 +3604,29 @@
 		"img": "https://www.apple.com/retail/derbystreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MA",
-		"address": "94 Derby Street"
+		"address": "94 Derby Street",
+		"lat": 42.176013,
+		"lng": -70.909774
+	},
+	{
+		"city": "Dedham",
+		"name": "Apple Legacy Place",
+		"img": "https://www.apple.com/retail/legacyplace/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "508 Legacy Place",
+		"lat": 42.23089,
+		"lng": -71.17857
+	},
+	{
+		"city": "Chestnut Hill",
+		"name": "Apple Chestnut Hill",
+		"img": "https://www.apple.com/retail/chestnuthill/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "199 Boylston Street",
+		"lat": 42.321118,
+		"lng": -71.17639799999999
 	},
 	{
 		"city": "Cambridge",
@@ -2914,7 +3634,49 @@
 		"img": "https://www.apple.com/retail/cambridgeside/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MA",
-		"address": "100 CambridgeSide Place"
+		"address": "100 CambridgeSide Place",
+		"lat": 42.367677,
+		"lng": -71.075897
+	},
+	{
+		"city": "Burlington",
+		"name": "Apple Burlington",
+		"img": "https://www.apple.com/retail/burlington/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "75 Middlesex Turnpike",
+		"lat": 42.48267999999999,
+		"lng": -71.214236
+	},
+	{
+		"city": "Braintree",
+		"name": "Apple South Shore",
+		"img": "https://www.apple.com/retail/southshore/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "250 Granite Street",
+		"lat": 42.22229,
+		"lng": -71.024253
+	},
+	{
+		"city": "Boston",
+		"name": "Apple Boylston Street",
+		"img": "https://www.apple.com/retail/boylstonstreet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MA",
+		"address": "815 Boylston Street",
+		"lat": 42.349011,
+		"lng": -71.082503
+	},
+	{
+		"city": "Towson",
+		"name": "Apple Towson Town Center",
+		"img": "https://www.apple.com/retail/towsontowncenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "MD",
+		"address": "825 Dulaney Valley Road",
+		"lat": 39.4046201,
+		"lng": -76.59956799999999
 	},
 	{
 		"city": "Columbia",
@@ -2922,23 +3684,9 @@
 		"img": "https://www.apple.com/retail/columbia/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MD",
-		"address": "10300 Little Patuxent Parkway"
-	},
-	{
-		"city": "Annapolis",
-		"name": "Apple Annapolis",
-		"img": "https://www.apple.com/retail/annapolis/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MD",
-		"address": "1735 Annapolis Mall"
-	},
-	{
-		"city": "Bethesda",
-		"name": "Apple Bethesda Row",
-		"img": "https://www.apple.com/retail/bethesdarow/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "MD",
-		"address": "4860 Bethesda Avenue"
+		"address": "10300 Little Patuxent Parkway",
+		"lat": 39.2162615,
+		"lng": -76.8597078
 	},
 	{
 		"city": "Bethesda",
@@ -2946,31 +3694,29 @@
 		"img": "https://www.apple.com/retail/montgomerymall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "MD",
-		"address": "7101 Democracy Boulevard"
+		"address": "7101 Democracy Boulevard",
+		"lat": 39.02435,
+		"lng": -77.146295
 	},
 	{
-		"city": "Baton Rouge",
-		"name": "Apple Mall of Louisiana",
-		"img": "https://www.apple.com/retail/malloflouisiana/images/hero_medium.jpg",
+		"city": "Bethesda",
+		"name": "Apple Bethesda Row",
+		"img": "https://www.apple.com/retail/bethesdarow/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "LA",
-		"address": "6401 Bluebonnet Boulevard"
+		"region": "MD",
+		"address": "4860 Bethesda Avenue",
+		"lat": 38.980681,
+		"lng": -77.097703
 	},
 	{
-		"city": "Leawood",
-		"name": "Apple Leawood",
-		"img": "https://www.apple.com/retail/leawood/images/hero_medium.jpg",
+		"city": "Annapolis",
+		"name": "Apple Annapolis",
+		"img": "https://www.apple.com/retail/annapolis/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "KS",
-		"address": "4529 West 119th Street"
-	},
-	{
-		"city": "Metairie",
-		"name": "Apple Lakeside Shopping Center",
-		"img": "https://www.apple.com/retail/lakesideshoppingcenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "LA",
-		"address": "3301 Veterans Memorial Boulevard"
+		"region": "MD",
+		"address": "1735 Annapolis Mall",
+		"lat": 38.9897968,
+		"lng": -76.5449788
 	},
 	{
 		"city": "South Portland",
@@ -2978,7 +3724,29 @@
 		"img": "https://www.apple.com/retail/mainemall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "ME",
-		"address": "364 Maine Mall Road"
+		"address": "364 Maine Mall Road",
+		"lat": 43.634182,
+		"lng": -70.334989
+	},
+	{
+		"city": "Metairie",
+		"name": "Apple Lakeside Shopping Center",
+		"img": "https://www.apple.com/retail/lakesideshoppingcenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "LA",
+		"address": "3301 Veterans Memorial Boulevard",
+		"lat": 30.005941,
+		"lng": -90.156984
+	},
+	{
+		"city": "Baton Rouge",
+		"name": "Apple Mall of Louisiana",
+		"img": "https://www.apple.com/retail/malloflouisiana/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "LA",
+		"address": "6401 Bluebonnet Boulevard",
+		"lat": 30.388191,
+		"lng": -91.086514
 	},
 	{
 		"city": "Louisville",
@@ -2986,7 +3754,9 @@
 		"img": "https://www.apple.com/retail/oxmoor/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "KY",
-		"address": "7900 Shelbyville Road"
+		"address": "7900 Shelbyville Road",
+		"lat": 38.2468563,
+		"lng": -85.6097818
 	},
 	{
 		"city": "Lexington",
@@ -2994,39 +3764,19 @@
 		"img": "https://www.apple.com/retail/fayettemall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "KY",
-		"address": "3401 Nicholasville Road"
+		"address": "3401 Nicholasville Road",
+		"lat": 37.989856,
+		"lng": -84.527282
 	},
 	{
-		"city": "Orland Park",
-		"name": "Apple Orland Square Mall",
-		"img": "https://www.apple.com/retail/orlandsquaremall/images/hero_medium.jpg",
+		"city": "Leawood",
+		"name": "Apple Leawood",
+		"img": "https://www.apple.com/retail/leawood/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "IL",
-		"address": "428 Orland Square"
-	},
-	{
-		"city": "Schaumburg",
-		"name": "Apple Woodfield",
-		"img": "https://www.apple.com/retail/woodfield/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "IL",
-		"address": "N311 Woodfield Mall"
-	},
-	{
-		"city": "Northbrook",
-		"name": "Apple Northbrook",
-		"img": "https://www.apple.com/retail/northbrook/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "IL",
-		"address": "1056 Northbrook Court"
-	},
-	{
-		"city": "Deer Park",
-		"name": "Apple Deer Park",
-		"img": "https://www.apple.com/retail/deerpark/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "IL",
-		"address": "20530 N. Rand Road"
+		"region": "KS",
+		"address": "4529 West 119th Street",
+		"lat": 38.911331,
+		"lng": -94.63776399999999
 	},
 	{
 		"city": "West Des Moines",
@@ -3034,15 +3784,9 @@
 		"img": "https://www.apple.com/retail/jordancreek/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IA",
-		"address": "101 Jordan Creek Parkway"
-	},
-	{
-		"city": "Naperville",
-		"name": "Apple Main Place",
-		"img": "https://www.apple.com/retail/mainplace/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "IL",
-		"address": "120 West Jefferson Avenue"
+		"address": "101 Jordan Creek Parkway",
+		"lat": 41.570174,
+		"lng": -93.804073
 	},
 	{
 		"city": "Mishawaka",
@@ -3050,7 +3794,9 @@
 		"img": "https://www.apple.com/retail/universityparkmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IN",
-		"address": "6501 North Grape Road"
+		"address": "6501 North Grape Road",
+		"lat": 41.718737,
+		"lng": -86.191138
 	},
 	{
 		"city": "Indianapolis",
@@ -3058,7 +3804,9 @@
 		"img": "https://www.apple.com/retail/thefashionmallatkeystone/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IN",
-		"address": "8702 Keystone Crossing"
+		"address": "8702 Keystone Crossing",
+		"lat": 39.9141143,
+		"lng": -86.1111322
 	},
 	{
 		"city": "Skokie",
@@ -3066,12 +3814,29 @@
 		"img": "https://www.apple.com/retail/oldorchard/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IL",
-		"address": "4999 Old Orchard Center"
+		"address": "4999 Old Orchard Center",
+		"lat": 42.0576854,
+		"lng": -87.7500228
 	},
 	{
+		"city": "Schaumburg",
+		"name": "Apple Woodfield",
+		"img": "https://www.apple.com/retail/woodfield/images/hero_medium.jpg",
 		"country": "United States",
-		"name": "Apple Michigan Avenue",
-		"img": "https://www.apple.com/retail/michiganavenue/images/hero_medium.jpg"
+		"region": "IL",
+		"address": "N311 Woodfield Mall",
+		"lat": 42.045949,
+		"lng": -88.03754099999999
+	},
+	{
+		"city": "Orland Park",
+		"name": "Apple Orland Square Mall",
+		"img": "https://www.apple.com/retail/orlandsquaremall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "IL",
+		"address": "428 Orland Square",
+		"lat": 41.619383,
+		"lng": -87.848303
 	},
 	{
 		"city": "Oak Brook",
@@ -3079,15 +3844,46 @@
 		"img": "https://www.apple.com/retail/oakbrook/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IL",
-		"address": "70 Oakbrook Center"
+		"address": "70 Oakbrook Center",
+		"lat": 41.8498172,
+		"lng": -87.9534956
 	},
 	{
-		"city": "Atlanta",
-		"name": "Apple Perimeter",
-		"img": "https://www.apple.com/retail/perimeter/images/hero_medium.jpg",
+		"city": "Northbrook",
+		"name": "Apple Northbrook",
+		"img": "https://www.apple.com/retail/northbrook/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "GA",
-		"address": "4400 Ashford Dunwoody Road"
+		"region": "IL",
+		"address": "1056 Northbrook Court",
+		"lat": 42.150066,
+		"lng": -87.816186
+	},
+	{
+		"city": "Naperville",
+		"name": "Apple Main Place",
+		"img": "https://www.apple.com/retail/mainplace/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "IL",
+		"address": "120 West Jefferson Avenue",
+		"lat": 41.772752,
+		"lng": -88.1503807
+	},
+	{
+		"city": "Deer Park",
+		"name": "Apple Deer Park",
+		"img": "https://www.apple.com/retail/deerpark/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "IL",
+		"address": "20530 N. Rand Road",
+		"lat": 42.16021,
+		"lng": -88.053766
+	},
+	{
+		"lat": 41.8895007,
+		"country": "United States",
+		"lng": -87.6228522,
+		"name": "Apple Michigan Avenue",
+		"img": "https://www.apple.com/retail/michiganavenue/images/hero_medium.jpg"
 	},
 	{
 		"city": "Chicago",
@@ -3095,15 +3891,9 @@
 		"img": "https://www.apple.com/retail/lincolnpark/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "IL",
-		"address": "801 W. North Avenue"
-	},
-	{
-		"city": "Honolulu",
-		"name": "Apple Kahala",
-		"img": "https://www.apple.com/retail/kahala/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "HI",
-		"address": "4211 Waialae Avenue"
+		"address": "801 W. North Avenue",
+		"lat": 41.91060900000001,
+		"lng": -87.64849
 	},
 	{
 		"city": "Boise",
@@ -3111,7 +3901,9 @@
 		"img": "https://www.apple.com/retail/boisetownesquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "ID",
-		"address": "350 North Milwaukee Street"
+		"address": "350 North Milwaukee Street",
+		"lat": 43.608527,
+		"lng": -116.27811
 	},
 	{
 		"city": "Honolulu",
@@ -3119,7 +3911,19 @@
 		"img": "https://www.apple.com/retail/royalhawaiian/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "HI",
-		"address": "2301 Kalakaua Avenue"
+		"address": "2301 Kalakaua Avenue",
+		"lat": 21.278065,
+		"lng": -157.828115
+	},
+	{
+		"city": "Honolulu",
+		"name": "Apple Kahala",
+		"img": "https://www.apple.com/retail/kahala/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "HI",
+		"address": "4211 Waialae Avenue",
+		"lat": 21.27719,
+		"lng": -157.786463
 	},
 	{
 		"city": "Honolulu",
@@ -3127,7 +3931,9 @@
 		"img": "https://www.apple.com/retail/alamoana/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "HI",
-		"address": "1450 Ala Moana Boulevard"
+		"address": "1450 Ala Moana Boulevard",
+		"lat": 21.2911539,
+		"lng": -157.8436338
 	},
 	{
 		"city": "Buford",
@@ -3135,7 +3941,9 @@
 		"img": "https://www.apple.com/retail/mallofgeorgia/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "GA",
-		"address": "3333 Buford Drive"
+		"address": "3333 Buford Drive",
+		"lat": 34.0656349,
+		"lng": -83.98323409999999
 	},
 	{
 		"city": "Augusta",
@@ -3143,7 +3951,19 @@
 		"img": "https://www.apple.com/retail/augusta/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "GA",
-		"address": "3450 Wrightsboro Road"
+		"address": "3450 Wrightsboro Road",
+		"lat": 33.465829,
+		"lng": -82.081013
+	},
+	{
+		"city": "Atlanta",
+		"name": "Apple Perimeter",
+		"img": "https://www.apple.com/retail/perimeter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "GA",
+		"address": "4400 Ashford Dunwoody Road",
+		"lat": 33.9240892,
+		"lng": -84.34032529999999
 	},
 	{
 		"city": "Atlanta",
@@ -3151,7 +3971,9 @@
 		"img": "https://www.apple.com/retail/lenoxsquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "GA",
-		"address": "3393 Peachtree Road NE"
+		"address": "3393 Peachtree Road NE",
+		"lat": 33.8471461,
+		"lng": -84.3629959
 	},
 	{
 		"city": "Atlanta",
@@ -3159,15 +3981,9 @@
 		"img": "https://www.apple.com/retail/cumberlandmall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "GA",
-		"address": "1000 Cumberland Mall"
-	},
-	{
-		"city": "Orlando",
-		"name": "Apple Florida Mall",
-		"img": "https://www.apple.com/retail/floridamall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "8001 South Orange Blossom Trail"
+		"address": "1000 Cumberland Mall",
+		"lat": 33.880334,
+		"lng": -84.4682797
 	},
 	{
 		"city": "Alpharetta",
@@ -3175,39 +3991,9 @@
 		"img": "https://www.apple.com/retail/avalon/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "GA",
-		"address": "8130 Avalon Boulevard"
-	},
-	{
-		"city": "Tampa",
-		"name": "Apple International Plaza",
-		"img": "https://www.apple.com/retail/internationalplaza/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "2223 N West Shore Boulevard"
-	},
-	{
-		"city": "Sarasota",
-		"name": "Apple University Town Center",
-		"img": "https://www.apple.com/retail/universitytowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "140 University Town Center Drive"
-	},
-	{
-		"city": "Palm Beach Gardens",
-		"name": "Apple The Gardens Mall",
-		"img": "https://www.apple.com/retail/thegardensmall/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "3101 PGA Boulevard"
-	},
-	{
-		"city": "Orlando",
-		"name": "Apple Millenia",
-		"img": "https://www.apple.com/retail/millenia/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "4200 Conroy Road"
+		"address": "8130 Avalon Boulevard",
+		"lat": 34.07052,
+		"lng": -84.27462
 	},
 	{
 		"city": "Wellington",
@@ -3215,7 +4001,59 @@
 		"img": "https://www.apple.com/retail/wellingtongreen/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "10300 W. Forest Hill Boulevard"
+		"address": "10300 W. Forest Hill Boulevard",
+		"lat": 26.6469771,
+		"lng": -80.2089484
+	},
+	{
+		"city": "Tampa",
+		"name": "Apple International Plaza",
+		"img": "https://www.apple.com/retail/internationalplaza/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "2223 N West Shore Boulevard",
+		"lat": 27.9641165,
+		"lng": -82.5198182
+	},
+	{
+		"city": "Sarasota",
+		"name": "Apple University Town Center",
+		"img": "https://www.apple.com/retail/universitytowncenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "140 University Town Center Drive",
+		"lat": 27.3849243,
+		"lng": -82.45268229999999
+	},
+	{
+		"city": "Palm Beach Gardens",
+		"name": "Apple The Gardens Mall",
+		"img": "https://www.apple.com/retail/thegardensmall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "3101 PGA Boulevard",
+		"lat": 26.8487171,
+		"lng": -80.0847891
+	},
+	{
+		"city": "Orlando",
+		"name": "Apple Millenia",
+		"img": "https://www.apple.com/retail/millenia/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "4200 Conroy Road",
+		"lat": 28.4859366,
+		"lng": -81.43177299999999
+	},
+	{
+		"city": "Orlando",
+		"name": "Apple Florida Mall",
+		"img": "https://www.apple.com/retail/floridamall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "8001 South Orange Blossom Trail",
+		"lat": 28.445084,
+		"lng": -81.394182
 	},
 	{
 		"city": "Naples",
@@ -3223,7 +4061,9 @@
 		"img": "https://www.apple.com/retail/watersideshops/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "5555 Tamiami Trail North"
+		"address": "5555 Tamiami Trail North",
+		"lat": 26.2131846,
+		"lng": -81.80171589999999
 	},
 	{
 		"city": "Miami",
@@ -3231,7 +4071,9 @@
 		"img": "https://www.apple.com/retail/thefalls/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "8888 SW 136th Street"
+		"address": "8888 SW 136th Street",
+		"lat": 25.643691,
+		"lng": -80.338253
 	},
 	{
 		"city": "Miami",
@@ -3239,15 +4081,9 @@
 		"img": "https://www.apple.com/retail/dadeland/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "7535 Dadeland Mall"
-	},
-	{
-		"city": "Fort Lauderdale",
-		"name": "Apple The Galleria",
-		"img": "https://www.apple.com/retail/thegalleria/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "2388 E. Sunrise Boulevard"
+		"address": "7535 Dadeland Mall",
+		"lat": 25.6906001,
+		"lng": -80.3137588
 	},
 	{
 		"city": "Miami",
@@ -3255,15 +4091,9 @@
 		"img": "https://www.apple.com/retail/brickellcitycentre/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "701 S. Miami Avenue"
-	},
-	{
-		"city": "Jacksonville",
-		"name": "Apple St. Johns Town Center",
-		"img": "https://www.apple.com/retail/stjohnstowncenter/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "4835 River City Drive"
+		"address": "701 S. Miami Avenue",
+		"lat": 25.7676367,
+		"lng": -80.1929902
 	},
 	{
 		"city": "Miami Beach",
@@ -3271,7 +4101,29 @@
 		"img": "https://www.apple.com/retail/lincolnroad/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "1021 Lincoln Road"
+		"address": "1021 Lincoln Road",
+		"lat": 25.790706,
+		"lng": -80.1393748
+	},
+	{
+		"city": "Jacksonville",
+		"name": "Apple St. Johns Town Center",
+		"img": "https://www.apple.com/retail/stjohnstowncenter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "4835 River City Drive",
+		"lat": 30.253341,
+		"lng": -81.524975
+	},
+	{
+		"city": "Fort Lauderdale",
+		"name": "Apple The Galleria",
+		"img": "https://www.apple.com/retail/thegalleria/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "2388 E. Sunrise Boulevard",
+		"lat": 26.137064,
+		"lng": -80.114127
 	},
 	{
 		"city": "Estero",
@@ -3279,7 +4131,9 @@
 		"img": "https://www.apple.com/retail/coconutpoint/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "23151 Fashion Drive"
+		"address": "23151 Fashion Drive",
+		"lat": 26.402028,
+		"lng": -81.806574
 	},
 	{
 		"city": "Brandon",
@@ -3287,31 +4141,9 @@
 		"img": "https://www.apple.com/retail/brandon/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "459 Brandon Town Center Drive"
-	},
-	{
-		"city": "Washington",
-		"name": "Apple Georgetown",
-		"img": "https://www.apple.com/retail/georgetown/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "DC",
-		"address": "1229 Wisconsin Avenue NW"
-	},
-	{
-		"city": "Aventura",
-		"name": "Apple Aventura",
-		"img": "https://www.apple.com/retail/aventura/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "FL",
-		"address": "19501 Biscayne Boulevard"
-	},
-	{
-		"city": "Trumbull",
-		"name": "Apple Trumbull",
-		"img": "https://www.apple.com/retail/trumbull/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CT",
-		"address": "5065 Main Street"
+		"address": "459 Brandon Town Center Drive",
+		"lat": 27.933034,
+		"lng": -82.326499
 	},
 	{
 		"city": "Boca Raton",
@@ -3319,7 +4151,19 @@
 		"img": "https://www.apple.com/retail/bocaraton/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "6000 Glades Road"
+		"address": "6000 Glades Road",
+		"lat": 26.3654368,
+		"lng": -80.1330122
+	},
+	{
+		"city": "Aventura",
+		"name": "Apple Aventura",
+		"img": "https://www.apple.com/retail/aventura/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "FL",
+		"address": "19501 Biscayne Boulevard",
+		"lat": 25.956004,
+		"lng": -80.141367
 	},
 	{
 		"city": "Altamonte Springs",
@@ -3327,7 +4171,19 @@
 		"img": "https://www.apple.com/retail/altamonte/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "FL",
-		"address": "451 E Altamonte Drive"
+		"address": "451 E Altamonte Drive",
+		"lat": 28.66654999999999,
+		"lng": -81.376955
+	},
+	{
+		"city": "Washington",
+		"name": "Apple Georgetown",
+		"img": "https://www.apple.com/retail/georgetown/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "DC",
+		"address": "1229 Wisconsin Avenue NW",
+		"lat": 38.905935,
+		"lng": -77.06238200000001
 	},
 	{
 		"city": "Newark",
@@ -3335,7 +4191,19 @@
 		"img": "https://www.apple.com/retail/christianamall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "DE",
-		"address": "125 Christiana Mall"
+		"address": "125 Christiana Mall",
+		"lat": 39.679285,
+		"lng": -75.653025
+	},
+	{
+		"city": "Trumbull",
+		"name": "Apple Trumbull",
+		"img": "https://www.apple.com/retail/trumbull/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CT",
+		"address": "5065 Main Street",
+		"lat": 41.2294485,
+		"lng": -73.2259011
 	},
 	{
 		"city": "Stamford",
@@ -3343,23 +4211,9 @@
 		"img": "https://www.apple.com/retail/stamford/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CT",
-		"address": "100 Greyrock Place"
-	},
-	{
-		"city": "New Haven",
-		"name": "Apple New Haven",
-		"img": "https://www.apple.com/retail/newhaven/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CT",
-		"address": "65 Broadway"
-	},
-	{
-		"city": "Greenwich",
-		"name": "Apple Greenwich Avenue",
-		"img": "https://www.apple.com/retail/greenwichavenue/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CT",
-		"address": "356 Greenwich Avenue"
+		"address": "100 Greyrock Place",
+		"lat": 41.05363,
+		"lng": -73.536442
 	},
 	{
 		"city": "South Windsor",
@@ -3367,23 +4221,29 @@
 		"img": "https://www.apple.com/retail/evergreenwalk/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CT",
-		"address": "401 Evergreen Walk"
+		"address": "401 Evergreen Walk",
+		"lat": 41.8128229,
+		"lng": -72.5565594
 	},
 	{
-		"city": "Littleton",
-		"name": "Apple Aspen Grove",
-		"img": "https://www.apple.com/retail/aspengrove/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CO",
-		"address": "7301 S Santa Fe Drive"
-	},
-	{
-		"city": "Danbury",
-		"name": "Apple Danbury Fair Mall",
-		"img": "https://www.apple.com/retail/danburyfairmall/images/hero_medium.jpg",
+		"city": "New Haven",
+		"name": "Apple New Haven",
+		"img": "https://www.apple.com/retail/newhaven/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CT",
-		"address": "Seven Backus Avenue"
+		"address": "65 Broadway",
+		"lat": 41.311893,
+		"lng": -72.93094289999999
+	},
+	{
+		"city": "Greenwich",
+		"name": "Apple Greenwich Avenue",
+		"img": "https://www.apple.com/retail/greenwichavenue/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CT",
+		"address": "356 Greenwich Avenue",
+		"lat": 41.02335,
+		"lng": -73.625342
 	},
 	{
 		"city": "Farmington",
@@ -3391,7 +4251,19 @@
 		"img": "https://www.apple.com/retail/westfarms/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CT",
-		"address": "500 Westfarms Mall"
+		"address": "500 Westfarms Mall",
+		"lat": 41.722609,
+		"lng": -72.764497
+	},
+	{
+		"city": "Danbury",
+		"name": "Apple Danbury Fair Mall",
+		"img": "https://www.apple.com/retail/danburyfairmall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CT",
+		"address": "Seven Backus Avenue",
+		"lat": 41.380726,
+		"lng": -73.480086
 	},
 	{
 		"city": "Lone Tree",
@@ -3399,7 +4271,19 @@
 		"img": "https://www.apple.com/retail/parkmeadows/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CO",
-		"address": "8405 Park Meadows Center Drive"
+		"address": "8405 Park Meadows Center Drive",
+		"lat": 39.5621923,
+		"lng": -104.8755801
+	},
+	{
+		"city": "Littleton",
+		"name": "Apple Aspen Grove",
+		"img": "https://www.apple.com/retail/aspengrove/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CO",
+		"address": "7301 S Santa Fe Drive",
+		"lat": 39.5843664,
+		"lng": -105.0268748
 	},
 	{
 		"city": "Denver",
@@ -3407,15 +4291,9 @@
 		"img": "https://www.apple.com/retail/cherrycreek/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CO",
-		"address": "3000 E 1st Avenue"
-	},
-	{
-		"city": "Broomfield",
-		"name": "Apple FlatIron Crossing",
-		"img": "https://www.apple.com/retail/flatironcrossing/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CO",
-		"address": "One West Flatiron Crossing Drive"
+		"address": "3000 E 1st Avenue",
+		"lat": 39.716365,
+		"lng": -104.952071
 	},
 	{
 		"city": "Colorado Springs",
@@ -3423,7 +4301,19 @@
 		"img": "https://www.apple.com/retail/thepromenadeshopsatbriargate/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CO",
-		"address": "1685 Briargate Parkway"
+		"address": "1685 Briargate Parkway",
+		"lat": 38.9625817,
+		"lng": -104.7951201
+	},
+	{
+		"city": "Broomfield",
+		"name": "Apple FlatIron Crossing",
+		"img": "https://www.apple.com/retail/flatironcrossing/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CO",
+		"address": "One West Flatiron Crossing Drive",
+		"lat": 39.9321113,
+		"lng": -105.1314025
 	},
 	{
 		"city": "Boulder",
@@ -3431,7 +4321,9 @@
 		"img": "https://www.apple.com/retail/twentyninthstreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CO",
-		"address": "1755 29th Street"
+		"address": "1755 29th Street",
+		"lat": 40.017548,
+		"lng": -105.25649
 	},
 	{
 		"city": "Walnut Creek",
@@ -3439,15 +4331,9 @@
 		"img": "https://www.apple.com/retail/walnutcreek/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1129 S. Main Street"
-	},
-	{
-		"city": "Thousand Oaks",
-		"name": "Apple The Oaks",
-		"img": "https://www.apple.com/retail/theoaks/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "432 West Hillcrest Drive"
+		"address": "1129 S. Main Street",
+		"lat": 37.896988,
+		"lng": -122.06025
 	},
 	{
 		"city": "Valencia",
@@ -3455,15 +4341,19 @@
 		"img": "https://www.apple.com/retail/valenciatowncenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "24201 West Valencia Boulevard"
+		"address": "24201 West Valencia Boulevard",
+		"lat": 34.4147748,
+		"lng": -118.5582185
 	},
 	{
-		"city": "Sherman Oaks",
-		"name": "Apple Sherman Oaks",
-		"img": "https://www.apple.com/retail/shermanoaks/images/hero_medium.jpg",
+		"city": "Thousand Oaks",
+		"name": "Apple The Oaks",
+		"img": "https://www.apple.com/retail/theoaks/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "14006 Riverside Drive"
+		"address": "432 West Hillcrest Drive",
+		"lat": 34.1840078,
+		"lng": -118.8874808
 	},
 	{
 		"city": "Temecula",
@@ -3471,7 +4361,19 @@
 		"img": "https://www.apple.com/retail/promenadetemecula/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "40764 Winchester Road"
+		"address": "40764 Winchester Road",
+		"lat": 33.5236466,
+		"lng": -117.1531947
+	},
+	{
+		"city": "Sherman Oaks",
+		"name": "Apple Sherman Oaks",
+		"img": "https://www.apple.com/retail/shermanoaks/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "14006 Riverside Drive",
+		"lat": 34.157288,
+		"lng": -118.43738
 	},
 	{
 		"city": "Santa Rosa",
@@ -3479,15 +4381,9 @@
 		"img": "https://www.apple.com/retail/santarosaplaza/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1071 Santa Rosa Plaza"
-	},
-	{
-		"city": "Santa Barbara",
-		"name": "Apple State Street",
-		"img": "https://www.apple.com/retail/statestreet/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "928 State Street"
+		"address": "1071 Santa Rosa Plaza",
+		"lat": 38.438532,
+		"lng": -122.716494
 	},
 	{
 		"city": "Santa Monica",
@@ -3495,7 +4391,9 @@
 		"img": "https://www.apple.com/retail/thirdstreetpromenade/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1415 Third Street Promenade"
+		"address": "1415 Third Street Promenade",
+		"lat": 34.0154297,
+		"lng": -118.4953709
 	},
 	{
 		"city": "Santa Clara",
@@ -3503,15 +4401,19 @@
 		"img": "https://www.apple.com/retail/valleyfair/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "2855 Stevens Creek Boulevard"
+		"address": "2855 Stevens Creek Boulevard",
+		"lat": 37.3257265,
+		"lng": -121.9462894
 	},
 	{
-		"city": "San Francisco",
-		"name": "Apple Stonestown",
-		"img": "https://www.apple.com/retail/stonestown/images/hero_medium.jpg",
+		"city": "Santa Barbara",
+		"name": "Apple State Street",
+		"img": "https://www.apple.com/retail/statestreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "3251 20th Avenue"
+		"address": "928 State Street",
+		"lat": 34.4214231,
+		"lng": -119.7012886
 	},
 	{
 		"city": "San Mateo",
@@ -3519,7 +4421,9 @@
 		"img": "https://www.apple.com/retail/hillsdale/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "340 Hillsdale Shopping Center"
+		"address": "340 Hillsdale Shopping Center",
+		"lat": 37.53670899999999,
+		"lng": -122.300118
 	},
 	{
 		"city": "San Luis Obispo",
@@ -3527,7 +4431,9 @@
 		"img": "https://www.apple.com/retail/higuerastreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "899 Higuera Street"
+		"address": "899 Higuera Street",
+		"lat": 35.280377,
+		"lng": -120.661721
 	},
 	{
 		"city": "San Jose",
@@ -3535,7 +4441,9 @@
 		"img": "https://www.apple.com/retail/oakridge/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "925 Blossom Hill Road"
+		"address": "925 Blossom Hill Road",
+		"lat": 49.2320615,
+		"lng": -123.1193555
 	},
 	{
 		"city": "San Francisco",
@@ -3543,15 +4451,19 @@
 		"img": "https://www.apple.com/retail/unionsquare/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "300 Post Street"
+		"address": "300 Post Street",
+		"lat": 37.7887802,
+		"lng": -122.4070931
 	},
 	{
-		"city": "Los Angeles",
-		"name": "Apple Century City",
-		"img": "https://www.apple.com/retail/centurycity/images/hero_medium.jpg",
+		"city": "Modesto",
+		"name": "Apple Vintage Faire",
+		"img": "https://www.apple.com/retail/vintagefaire/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "10250 Santa Monica Boulevard"
+		"address": "3401 Dale Road",
+		"lat": 37.68786,
+		"lng": -121.053407
 	},
 	{
 		"city": "Mission Viejo",
@@ -3559,7 +4471,9 @@
 		"img": "https://www.apple.com/retail/missionviejo/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "936C The Shops at Mission Viejo"
+		"address": "936C The Shops at Mission Viejo",
+		"lat": 33.5573835,
+		"lng": -117.6702356
 	},
 	{
 		"city": "Manhattan Beach",
@@ -3567,7 +4481,9 @@
 		"img": "https://www.apple.com/retail/manhattanvillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "3200 Sepulveda Boulevard"
+		"address": "3200 Sepulveda Boulevard",
+		"lat": 33.8993963,
+		"lng": -118.3938141
 	},
 	{
 		"city": "Los Gatos",
@@ -3575,7 +4491,9 @@
 		"img": "https://www.apple.com/retail/losgatos/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "23 N. Santa Cruz Avenue"
+		"address": "23 N. Santa Cruz Avenue",
+		"lat": 37.223432,
+		"lng": -121.98387
 	},
 	{
 		"city": "Los Angeles",
@@ -3583,7 +4501,19 @@
 		"img": "https://www.apple.com/retail/thegrove/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "189 The Grove Drive"
+		"address": "189 The Grove Drive",
+		"lat": 34.072253,
+		"lng": -118.35781
+	},
+	{
+		"city": "Los Angeles",
+		"name": "Apple Century City",
+		"img": "https://www.apple.com/retail/centurycity/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "10250 Santa Monica Boulevard",
+		"lat": 34.0587203,
+		"lng": -118.4176248
 	},
 	{
 		"city": "Los Angeles",
@@ -3591,7 +4521,9 @@
 		"img": "https://www.apple.com/retail/beverlycenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "8500 Beverly Boulevard"
+		"address": "8500 Beverly Boulevard",
+		"lat": 34.075453,
+		"lng": -118.37822
 	},
 	{
 		"city": "Irvine",
@@ -3599,15 +4531,9 @@
 		"img": "https://www.apple.com/retail/irvinespectrumcenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "763 Spectrum Center Drive"
-	},
-	{
-		"city": "Glendale",
-		"name": "Apple Glendale Galleria",
-		"img": "https://www.apple.com/retail/glendalegalleria/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "2126 Glendale Galleria"
+		"address": "763 Spectrum Center Drive",
+		"lat": 33.6496822,
+		"lng": -117.7434188
 	},
 	{
 		"city": "Glendale",
@@ -3615,7 +4541,19 @@
 		"img": "https://www.apple.com/retail/theamericanaatbrand/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "877 Americana Way"
+		"address": "877 Americana Way",
+		"lat": 34.144811,
+		"lng": -118.257093
+	},
+	{
+		"city": "Glendale",
+		"name": "Apple Glendale Galleria",
+		"img": "https://www.apple.com/retail/glendalegalleria/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "2126 Glendale Galleria",
+		"lat": 34.145276,
+		"lng": -118.2585
 	},
 	{
 		"city": "Fresno",
@@ -3623,7 +4561,9 @@
 		"img": "https://www.apple.com/retail/fashionfair/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "645 E. Shaw Avenue"
+		"address": "645 E. Shaw Avenue",
+		"lat": 36.806828,
+		"lng": -119.775525
 	},
 	{
 		"city": "Escondido",
@@ -3631,7 +4571,9 @@
 		"img": "https://www.apple.com/retail/northcounty/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "272 E Via Rancho Parkway"
+		"address": "272 E Via Rancho Parkway",
+		"lat": 33.071002,
+		"lng": -117.066325
 	},
 	{
 		"city": "Emeryville",
@@ -3639,7 +4581,9 @@
 		"img": "https://www.apple.com/retail/baystreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "5640 Bay Street"
+		"address": "5640 Bay Street",
+		"lat": 37.8350174,
+		"lng": -122.2920361
 	},
 	{
 		"city": "Cupertino",
@@ -3647,15 +4591,16 @@
 		"img": "https://www.apple.com/retail/infiniteloop/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "One Infinite Loop"
+		"address": "One Infinite Loop",
+		"lat": 37.3316756,
+		"lng": -122.030189
 	},
 	{
-		"city": "Carlsbad",
-		"name": "Apple Carlsbad",
-		"img": "https://www.apple.com/retail/carlsbad/images/hero_medium.jpg",
+		"lat": 37.3329137,
 		"country": "United States",
-		"region": "CA",
-		"address": "1923 Calle Barcelona"
+		"lng": -122.005202,
+		"name": "Apple Park Visitor Center",
+		"img": "https://www.apple.com/retail/appleparkvisitorcenter/images/hero_medium.jpg"
 	},
 	{
 		"city": "Costa Mesa",
@@ -3663,15 +4608,9 @@
 		"img": "https://www.apple.com/retail/southcoastplaza/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "3333 Bear Street"
-	},
-	{
-		"city": "Chula Vista",
-		"name": "Apple Otay Ranch",
-		"img": "https://www.apple.com/retail/otayranch/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "CA",
-		"address": "2015 Birch Road"
+		"address": "3333 Bear Street",
+		"lat": 33.691955,
+		"lng": -117.893095
 	},
 	{
 		"city": "Corte Madera",
@@ -3679,7 +4618,19 @@
 		"img": "https://www.apple.com/retail/cortemadera/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1520 Redwood Highway"
+		"address": "1520 Redwood Highway",
+		"lat": 37.928448,
+		"lng": -122.514095
+	},
+	{
+		"city": "Chula Vista",
+		"name": "Apple Otay Ranch",
+		"img": "https://www.apple.com/retail/otayranch/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "2015 Birch Road",
+		"lat": 32.624232,
+		"lng": -116.966724
 	},
 	{
 		"city": "Cerritos",
@@ -3687,20 +4638,19 @@
 		"img": "https://www.apple.com/retail/loscerritos/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "242 Los Cerritos Center"
+		"address": "242 Los Cerritos Center",
+		"lat": 33.862665,
+		"lng": -118.094118
 	},
 	{
-		"country": "United States",
-		"name": "Apple Park Visitor Center",
-		"img": "https://www.apple.com/retail/appleparkvisitorcenter/images/hero_medium.jpg"
-	},
-	{
-		"city": "Brea",
-		"name": "Apple Brea Mall",
-		"img": "https://www.apple.com/retail/breamall/images/hero_medium.jpg",
+		"city": "Carlsbad",
+		"name": "Apple Carlsbad",
+		"img": "https://www.apple.com/retail/carlsbad/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1016C Brea Mall"
+		"address": "1923 Calle Barcelona",
+		"lat": 33.071299,
+		"lng": -117.265149
 	},
 	{
 		"city": "Canoga Park",
@@ -3708,7 +4658,9 @@
 		"img": "https://www.apple.com/retail/topanga/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "6600 Topanga Canyon Boulevard"
+		"address": "6600 Topanga Canyon Boulevard",
+		"lat": 34.19036560000001,
+		"lng": -118.6032835
 	},
 	{
 		"city": "Burlingame",
@@ -3716,7 +4668,19 @@
 		"img": "https://www.apple.com/retail/burlingame/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1301 Burlingame Avenue"
+		"address": "1301 Burlingame Avenue",
+		"lat": 37.578263,
+		"lng": -122.347068
+	},
+	{
+		"city": "Brea",
+		"name": "Apple Brea Mall",
+		"img": "https://www.apple.com/retail/breamall/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "CA",
+		"address": "1016C Brea Mall",
+		"lat": 33.915961,
+		"lng": -117.8866536
 	},
 	{
 		"city": "Berkeley",
@@ -3724,15 +4688,9 @@
 		"img": "https://www.apple.com/retail/4thstreet/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "1823 4th Street"
-	},
-	{
-		"city": "Little Rock",
-		"name": "Apple The Promenade at Chenal",
-		"img": "https://www.apple.com/retail/thepromenadeatchenal/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "AR",
-		"address": "17711 Chenal Parkway"
+		"address": "1823 4th Street",
+		"lat": 37.8693415,
+		"lng": -122.3001522
 	},
 	{
 		"city": "Bakersfield",
@@ -3740,15 +4698,19 @@
 		"img": "https://www.apple.com/retail/valleyplaza/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "CA",
-		"address": "2701 Ming Avenue"
+		"address": "2701 Ming Avenue",
+		"lat": 35.337914,
+		"lng": -119.032653
 	},
 	{
-		"city": "Scottsdale",
-		"name": "Apple Scottsdale Quarter",
-		"img": "https://www.apple.com/retail/scottsdalequarter/images/hero_medium.jpg",
+		"city": "Little Rock",
+		"name": "Apple The Promenade at Chenal",
+		"img": "https://www.apple.com/retail/thepromenadeatchenal/images/hero_medium.jpg",
 		"country": "United States",
-		"region": "AZ",
-		"address": "15169 North Scottsdale Road"
+		"region": "AR",
+		"address": "17711 Chenal Parkway",
+		"lat": 34.7663124,
+		"lng": -92.4589573
 	},
 	{
 		"city": "Tucson",
@@ -3756,7 +4718,19 @@
 		"img": "https://www.apple.com/retail/laencantada/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AZ",
-		"address": "2905 East Skyline Drive"
+		"address": "2905 East Skyline Drive",
+		"lat": 32.325555,
+		"lng": -110.929792
+	},
+	{
+		"city": "Scottsdale",
+		"name": "Apple Scottsdale Quarter",
+		"img": "https://www.apple.com/retail/scottsdalequarter/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "AZ",
+		"address": "15169 North Scottsdale Road",
+		"lat": 33.624098,
+		"lng": -111.925109
 	},
 	{
 		"city": "Phoenix",
@@ -3764,7 +4738,9 @@
 		"img": "https://www.apple.com/retail/biltmore/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AZ",
-		"address": "2502 East Camelback Road"
+		"address": "2502 East Camelback Road",
+		"lat": 33.510409,
+		"lng": -112.028591
 	},
 	{
 		"city": "Glendale",
@@ -3772,7 +4748,9 @@
 		"img": "https://www.apple.com/retail/arrowhead/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AZ",
-		"address": "7700 West Arrowhead Towne Center"
+		"address": "7700 West Arrowhead Towne Center",
+		"lat": 33.641725,
+		"lng": -112.2249772
 	},
 	{
 		"city": "Gilbert",
@@ -3780,7 +4758,9 @@
 		"img": "https://www.apple.com/retail/santanvillage/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AZ",
-		"address": "2218 E. Williams Field Road"
+		"address": "2218 E. Williams Field Road",
+		"lat": 33.308794,
+		"lng": -111.742735
 	},
 	{
 		"city": "Chandler",
@@ -3788,15 +4768,9 @@
 		"img": "https://www.apple.com/retail/chandlerfashioncenter/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AZ",
-		"address": "3111 W Chandler Boulevard"
-	},
-	{
-		"city": "Huntsville",
-		"name": "Apple Bridge Street",
-		"img": "https://www.apple.com/retail/bridgestreet/images/hero_medium.jpg",
-		"country": "United States",
-		"region": "AL",
-		"address": "320 The Bridge Street"
+		"address": "3111 W Chandler Boulevard",
+		"lat": 33.3022469,
+		"lng": -111.8996798
 	},
 	{
 		"city": "Anchorage",
@@ -3804,6 +4778,18 @@
 		"img": "https://www.apple.com/retail/anchorage5thavenuemall/images/hero_medium.jpg",
 		"country": "United States",
 		"region": "AK",
-		"address": "320 West 5th Avenue"
+		"address": "320 West 5th Avenue",
+		"lat": 61.2171402,
+		"lng": -149.8886715
+	},
+	{
+		"city": "Huntsville",
+		"name": "Apple Bridge Street",
+		"img": "https://www.apple.com/retail/bridgestreet/images/hero_medium.jpg",
+		"country": "United States",
+		"region": "AL",
+		"address": "320 The Bridge Street",
+		"lat": 34.7161537,
+		"lng": -86.6729424
 	}
 ]

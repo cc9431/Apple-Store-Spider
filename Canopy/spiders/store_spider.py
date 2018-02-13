@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Uses Scrapy to gather information from https://www.apple.com/retail/storelist/.
 Feilds: Country, State/Region, City, Store Name, Address, Picture URL
@@ -8,6 +9,7 @@ Start Date: February 10th, 2018
 '''
 
 import scrapy
+import Canopy.geocode
 from Canopy.items import AppleItem
 
 class AppleStoreSpider(scrapy.Spider):
@@ -20,6 +22,7 @@ class AppleStoreSpider(scrapy.Spider):
 	base_url = 'https://www.apple.com'
 	# Url on which the spider starts
 	start_urls = ['https://www.apple.com/retail/storelist/']
+	geo = Canopy.geocode.Geo()
 
 	def parse(self, response):
 		# Gather and organize response data from website
@@ -40,9 +43,12 @@ class AppleStoreSpider(scrapy.Spider):
 			data = response.xpath(query).extract_first()
 			# This allows us to only see non-null key-value pairs
 			if data is not None:
-				item[key] = data.strip()
+				item[key] = data.encode('utf8').strip()
 
+		# Create apple item for data storage
 		item = AppleItem()
+
+		# Fill apple item with relevant information
 		xpath_extract("a", "ac-gf-footer-locale-link", "country") # Country
 		xpath_extract("span", "store-street", "address") # Street address
 		xpath_extract("span", "store-region", "region")	# Region/State
@@ -50,6 +56,11 @@ class AppleStoreSpider(scrapy.Spider):
 		xpath_extract("h1", "headline", "name") # Name of store
 
 		# Image cannot be extracted, instead find it by adding text to end of response url
-		item['image'] = str.format("{}{}", response.request.url, "images/hero_medium.jpg")
-
+		item['img'] = str.format("{}{}", response.request.url, "images/hero_medium.jpg")
+		
+		# Get geocoordinates from item address
+		coords = self.geo.locate(item)
+		if coords is not None:
+			item['lat'] = coords[0]
+			item['lng'] = coords[1]
 		yield item
