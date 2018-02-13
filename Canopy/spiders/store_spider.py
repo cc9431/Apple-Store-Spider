@@ -25,20 +25,22 @@ class AppleStoreSpider(scrapy.Spider):
 	geo = Canopy.geocode.Geo()
 
 	def parse(self, response):
-		# Gather and organize response data from website
-		countries = response.xpath("//div[contains(@id, 'stores')]") # List of country elements
+		'''Gather and organize response data from website'''
+		# Get list of country elements from webpage data
+		countries = response.xpath("//div[contains(@id, 'stores')]")
 		for country in countries:
-			sites = country.xpath('*//a/@href').extract() # List of domains to be joined with base
+			# Get list of domains to be joined with base_url
+			sites = country.xpath('*//a/@href').extract()
 			for site in sites:
-				if site is not None:
-					# If the new site exists, analyze the store page with a store specific method
-					url = str.format("{}{}", self.base_url, site)
-					yield scrapy.Request(url, callback=self.parse_store_page)
+				# If the new site exists,
+				# analyze the store page with a store specific method
+				url = str.format("{}{}", self.base_url, site)
+				yield scrapy.Request(url, callback=self.parse_store_page)
 
 	def parse_store_page(self, response):
-		# Sort data for store pages into AppleItem
+		'''Organize data from store pages into AppleItems'''
 		def xpath_extract(element, class_id, key):
-			# Turn a few values into an item key-value pair (for readability)
+			'''Turn values into an item key-value pair'''
 			query = str.format("//{}[contains(@class, '{}')]/text()", element, class_id)
 			data = response.xpath(query).extract_first()
 			# This allows us to only see non-null key-value pairs
@@ -48,19 +50,25 @@ class AppleStoreSpider(scrapy.Spider):
 		# Create apple item for data storage
 		item = AppleItem()
 
-		# Fill apple item with relevant information
-		xpath_extract("a", "ac-gf-footer-locale-link", "country") # Country
-		xpath_extract("span", "store-street", "address") # Street address
-		xpath_extract("span", "store-region", "region")	# Region/State
-		xpath_extract("span", "store-locality", "city") # City
-		xpath_extract("h1", "headline", "name") # Name of store
+		# Country
+		xpath_extract("a", "ac-gf-footer-locale-link", "country")
+		# Street address
+		xpath_extract("span", "store-street", "address")
+		# Region/State
+		xpath_extract("span", "store-region", "region")
+		# City
+		xpath_extract("span", "store-locality", "city")
+		# Name of store
+		xpath_extract("h1", "headline", "name")
 
-		# Image cannot be extracted, instead find it by adding text to end of response url
+		# Image cannot be extracted from store page HTML
+		# Instead find it by adding text to end of response url
 		item['img'] = str.format("{}{}", response.request.url, "images/hero_medium.jpg")
-		
-		# Get geocoordinates from item address
+
+		# Use google api geocode to find store coordinates
 		coords = self.geo.locate(item)
 		if coords is not None:
 			item['lat'] = coords[0]
 			item['lng'] = coords[1]
+
 		yield item

@@ -17,8 +17,11 @@ class Geo(object):
 
 	def lat_long(self, address):
 		'''Turn address to geographic coordinates'''
+		# Connect to google api for geocode info
 		return_list = self.client.geocode(address)
+		# Make sure the return list is not empty
 		if len(return_list) > 0:
+			# Gather and return coordinate information
 			json = return_list[0]
 			geocoords = json['geometry']['location']
 			lat = geocoords['lat']
@@ -28,16 +31,19 @@ class Geo(object):
 
 	def convert(self, item):
 		'''Turn AppleItem into usable address'''
+		# Since Google labels apple stores as important
+		# Their location can almost always be found simply from their name
 		address = item['name'].decode('utf8')
-		# for value in item.values():		# Still possible
-		# 	address = str.format("{}, {}", address, value)
 		return address
+		# Still possible to do it in this format however
+			# for value in item.values():
+			# 	address = str.format("{}, {}", address, value)
 
 ########################################## TEST ##########################################
 # g = Geo()
 
 # item = AppleItem()
-# item['name'] = "Apple 가로수길"
+# item['name'] = "Apple 百年城" # This one does not work, try long address instead?
 
 # coords = g.locate(item)
 
