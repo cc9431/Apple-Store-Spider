@@ -43,11 +43,11 @@ class AppleStoreSpider(scrapy.Spider):
 				item[key] = data.strip()
 
 		item = AppleItem()
-		xpath_extract("span", "store-street", "address")			# Street address
-		xpath_extract("h1", "headline", "name")						# Name of store
-		xpath_extract("span", "store-region", "region")				# Region/State
-		xpath_extract("a", "ac-gf-footer-locale-link", "country")	# Country
-		xpath_extract("span", "store-locality", "city")				# City
+		xpath_extract("a", "ac-gf-footer-locale-link", "country") # Country
+		xpath_extract("span", "store-street", "address") # Street address
+		xpath_extract("span", "store-region", "region")	# Region/State
+		xpath_extract("span", "store-locality", "city") # City
+		xpath_extract("h1", "headline", "name") # Name of store
 
 		# Image cannot be extracted, instead find it by adding text to end of response url
 		item['image'] = str.format("{}{}", response.request.url, "images/hero_medium.jpg")
