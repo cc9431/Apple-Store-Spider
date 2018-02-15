@@ -1,5 +1,5 @@
+# -*- coding: utf-8 -*-
 import scrapy
-
 
 class AppleItem(scrapy.Item):
     country = scrapy.Field()

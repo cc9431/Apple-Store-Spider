@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Uses Scrapy to gather information from https://www.apple.com/retail/storelist/.
-Feilds: Country, State/Region, City, Store Name, Address, Picture URL
+Feilds: Country, State/Region, City, Store Name, Address, Picture URL, latitude, and longitude.
 Outputs json file containing information of all 501 apple stores.
 
 Developer: Charles Calder
