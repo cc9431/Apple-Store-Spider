@@ -31,21 +31,7 @@ class Geo(object):
 
 	def convert(self, item):
 		'''Turn AppleItem into usable address'''
-		# Since Google labels apple stores as important
-		# Their location can almost always be found simply from their name
+		# Since Google labels apple stores as important,
+		# Location can almost always be found from only their name
 		address = item['name'].decode('utf8')
 		return address
-		# Still possible to do it in this format however
-			# for value in item.values():
-			# 	address = str.format("{}, {}", address, value)
-
-########################################## TEST ##########################################
-# g = Geo()
-
-# item = AppleItem()
-# item['name'] = "Apple 百年城" # This one does not work, try long address instead?
-
-# coords = g.locate(item)
-
-# print "latitude:", coords[0]
-# print "longitude:", coords[1]
